@@ -1,0 +1,74 @@
+﻿File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.9999375000000002 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "anotation" 
+        xmin = 0 
+        xmax = 2.9999375000000002 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1823606825298171 
+            text = "SILP" 
+        intervals [2]:
+            xmin = 0.1823606825298171 
+            xmax = 0.30883591754501638 
+            text = "cho" 
+        intervals [3]:
+            xmin = 0.30883591754501638 
+            xmax = 0.58520606119676255 
+            text = "nên" 
+        intervals [4]:
+            xmin = 0.58520606119676255 
+            xmax = 0.73999999999999999 
+            text = "anh" 
+        intervals [5]:
+            xmin = 0.73999999999999999 
+            xmax = 0.86238105997003944 
+            text = "mới" 
+        intervals [6]:
+            xmin = 0.86238105997003944 
+            xmax = 1.0239087973970167 
+            text = "gầy" 
+        intervals [7]:
+            xmin = 1.0239087973970167 
+            xmax = 1.1720979619068266 
+            text = "như" 
+        intervals [8]:
+            xmin = 1.1720979619068266 
+            xmax = 1.5377168031187907 
+            text = "thế" 
+        intervals [9]:
+            xmin = 1.5377168031187907 
+            xmax = 1.9556739162085324 
+            text = "SILS" 
+        intervals [10]:
+            xmin = 1.9556739162085324 
+            xmax = 2.059172580999916 
+            text = "anh" 
+        intervals [11]:
+            xmin = 2.059172580999916 
+            xmax = 2.2448891075826074 
+            text = "hút" 
+        intervals [12]:
+            xmin = 2.2448891075826074 
+            xmax = 2.3629944438059076 
+            text = "có" 
+        intervals [13]:
+            xmin = 2.3629944438059076 
+            xmax = 2.5995519531072668 
+            text = "nhiều" 
+        intervals [14]:
+            xmin = 2.5995519531072668 
+            xmax = 2.874528441824777 
+            text = "không" 
+        intervals [15]:
+            xmin = 2.874528441824777 
+            xmax = 2.9999375000000002 
+            text = "SILP" 

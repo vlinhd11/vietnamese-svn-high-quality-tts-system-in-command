@@ -1,0 +1,8 @@
+﻿-Tag cho dấu chấm câu: <W NSW="SENT" FULL="SILS">.</W>
+(SILS = silents, nếu nhận riêng tag SENT thì không cần SILS)
+-Tag cho dấu nghỉ:	  <W NSW="PUNC" FULL="___">.</W>
+	         	  <W NSW="PUNC" FULL="SILS">-</W>
+                          	  <W NSW="PUNC" FULL="SILS">_</W>
+-Sau khi sử dụng bộ phân tách câu, nếu sau mỗi câu được nhận dạng mà ko có dấu câu thì tự động thêm vào dấu chấm câu "." rồi tag cho dấu câu.	
+-File final.xml giả định đọc được intecom thàinom"
+-File ngangcheo_all giả định xử lý intecom là một dãy SEQN

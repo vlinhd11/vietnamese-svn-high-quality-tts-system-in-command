@@ -1,0 +1,430 @@
+<?xml version="1.0" ?>
+<root>
+    <sentence id="1">các nhà khoa học vừa nghiên cứu một loại túi thông minh
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">các nhà khoa học
+                <N level="2" explain="danh từ">các</N>
+                <NP level="2" explain="cụm danh từ">nhà khoa học                    
+                        <N level="3" explain="danh từ">nhà</N>
+                        <N level="3" explain="danh từ">khoa học</N>                                     
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">vừa nghiên cứu một loại túi thông minh
+                <R level="2" explain="phụ từ">vừa</R>
+                <V level="2" explain="động từ">nghiên cứu</V>
+                <NP level="2" explain="cụm danh từ">một loại túi thông minh
+                    <M level="3" explain="số từ">một</M>
+                    <NP level="3" explain="cụm danh từ">loại túi thông minh
+                        <N level="4" explain="danh từ">loại</N>
+                        <NP level="4" explain="cụm danh từ">túi thông minh
+                            <N level="5" explain="danh từ">túi</N>
+                            <A level="5" explain="tính từ">thông minh</A>
+                        </NP>
+                    </NP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="2">túi thông minh sẽ giải quyết vấn đề đau đầu trên
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">túi thông minh
+                <N level="2" explain="danh từ">túi</N>
+                <A level="2" explain="tính từ">thông minh</A>
+            </NP>
+            <VP level="1" explain="cụm động từ">sẽ giải quyết vấn đề đau đầu trên
+                <R level="2" explain="phụ từ">sẽ</R>
+                <V level="2" explain="động từ">giải quyết</V>
+                <NP level="2" explain="cụm danh từ">vấn đề đau đầu trên
+                    <N level="3" explain="danh từ">vấn đề</N>
+                    <AP level="3" explain="cụm tính từ">đau đầu trên
+                        <A level="4" explain="tính từ">đau đầu
+                            <A level="4" explain="tính từ">đau</A>
+                            <N level="4" explain="danh từ">đầu</N>
+                        </A>
+                        <C level="4" explain="giới từ">trên</C>
+                    </AP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="3">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc , hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm
+        <parse id="1">
+            <S level="1" explain="Câu">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc
+                <S level="2" explain="Câu">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng
+                    <NP level="3" explain="cụm danh từ">khi túi thông minh
+                        <N level="4" explain="danh từ">khi</N>
+                        <NP level="4" explain="cụm danh từ">túi thông minh
+                            <N level="5" explain="danh từ">túi</N>
+                            <A level="5" explain="tính từ">thông minh</A>
+                        </NP>
+                    </NP>
+                    <VP level="3" explain="cụm động từ">phát hiện thực phẩm quá hạn sử dụng
+                        <V level="4" explain="động từ">phát hiện</V>
+                        <NP level="4" explain="cụm danh từ">thực phẩm quá hạn sử dụng
+                            <N level="5" explain="danh từ">thực phẩm</N>
+                            <RP level="5" explain="cụm phụ từ">quá hạn sử dụng
+                                <R level="6" explain="phụ từ">quá</R>
+                                <NP level="6" explain="cụm danh từ">hạn sử dụng
+                                    <N level="7" explain="danh từ">hạn</N>
+                                    <V level="7" explain="động từ">sử dụng</V>
+                                </NP>
+                            </RP>
+                        </NP>
+                    </VP>
+                </S>
+                <punc level="2">,</punc>
+                <S level="2" explain="Câu">túi sẽ biến sắc
+                    <N level="3" explain="danh từ">túi</N>
+                    <VP level="3" explain="cụm động từ">sẽ biến sắc
+                        <R level="4" explain="phụ từ">sẽ</R>
+                        <V level="4" explain="động từ">biến sắc
+                            <V level="4" explain="động từ">biến</V>
+                            <V level="4" explain="động từ">sắc</V>
+                        </V>
+                    </VP>
+                </S>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm
+                <C level="2" explain="giới từ">hơn nữa</C>
+                <punc level="2">,</punc>
+                <N level="2" explain="danh từ">túi</N>
+                <VP level="2" explain="cụm động từ">còn có chức năng bảo đảm sự tươi mới của thực phẩm
+                    <VP level="3" explain="cụm động từ">còn có chức năng bảo đảm sự tươi mới
+                        <V level="4" explain="động từ">còn</V>
+                        <VP level="4" explain="cụm động từ">có chức năng bảo đảm sự tươi mới
+                            <V level="5" explain="động từ">có</V>
+                            <NP level="5" explain="cụm danh từ">chức năng bảo đảm sự tươi mới
+                                <N level="6" explain="danh từ">chức năng</N>
+                                <N level="6" explain="danh từ">bảo đảm</N>
+                                <NP level="6" explain="cụm danh từ">sự tươi mới
+                                    <N level="7" explain="danh từ">sự</N>
+                                    <AP level="7" explain="cụm tính từ">tươi mới
+                                        <A level="8" explain="tính từ">tươi</A>
+                                        <R level="8" explain="phụ từ">mới</R>
+                                    </AP>
+                                </NP>
+                            </NP>
+                        </VP>
+                    </VP>
+                    <PP level="3" explain="cụm giới từ">của thực phẩm
+                        <C level="4" explain="giới từ">của</C>
+                        <N level="4" explain="danh từ">thực phẩm</N>
+                    </PP>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="4">cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh , đặc biệt là sáng tác ảnh nghệ thuật
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,
+                <N level="2" explain="danh từ">cuộc sống</N>
+                <N level="2" explain="danh từ">đồng bào</N>
+                <NP level="2" explain="cụm danh từ">dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,
+                    <N level="3" explain="danh từ">dân tộc</N>
+                    <N level="3" explain="danh từ">vùng cao</N>
+                    <VP level="3" explain="cụm động từ">là đề tài hấp dẫn cho sáng tác ảnh ,
+                        <V level="4" explain="động từ">là</V>
+                        <NP level="4" explain="cụm danh từ">đề tài hấp dẫn cho sáng tác ảnh ,
+                            <N level="5" explain="danh từ">đề tài</N>
+                            <VP level="5" explain="cụm động từ">hấp dẫn cho sáng tác ảnh
+                                <V level="6" explain="động từ">hấp dẫn
+                                    <V level="6" explain="động từ">hấp</V>
+                                    <V level="6" explain="động từ">dẫn</V>
+                                </V>
+                                <PP level="6" explain="cụm giới từ">cho sáng tác ảnh
+                                    <C level="7" explain="giới từ">cho</C>
+                                    <VP level="7" explain="cụm động từ">sáng tác ảnh
+                                        <V level="8" explain="động từ">sáng tác</V>
+                                        <N level="8" explain="danh từ">ảnh</N>
+                                    </VP>
+                                </PP>
+                            </VP>
+                            <punc level="5">,</punc>
+                        </NP>
+                    </VP>
+                </NP>
+            </NP>
+            <AP level="1" explain="cụm tính từ">đặc biệt là sáng tác ảnh nghệ thuật
+                <A level="2" explain="tính từ">đặc biệt</A>
+                <VP level="2" explain="cụm động từ">là sáng tác ảnh nghệ thuật
+                    <V level="3" explain="động từ">là</V>
+                    <VP level="3" explain="cụm động từ">sáng tác ảnh nghệ thuật
+                        <V level="4" explain="động từ">sáng tác ảnh
+                            <V level="5" explain="động từ">sáng tác</V>
+                            <V level="5" explain="động từ">ảnh</V>
+                        </V>
+                        <N level="4" explain="danh từ">nghệ thuật</N>
+                    </VP>
+                </VP>
+            </AP>
+        </parse>
+    </sentence>
+    <sentence id="5">những chính sách không đến được với dân , thường là do cách làm hay cách nói khác
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">những chính sách không đến được với dân ,
+                <N level="2" explain="danh từ">những</N>
+                <NP level="2" explain="cụm danh từ">chính sách không đến được với dân ,
+                    <N level="3" explain="danh từ">chính sách</N>
+                    <VP level="3" explain="cụm động từ">không đến được với dân
+                        <R level="4" explain="phụ từ">không</R>
+                        <V level="4" explain="động từ">đến</V>
+                        <VP level="4" explain="cụm động từ">được với dân
+                            <V level="5" explain="động từ">được</V>
+                            <PP level="5" explain="cụm giới từ">với dân
+                                <C level="6" explain="giới từ">với</C>
+                                <N level="6" explain="danh từ">dân</N>
+                            </PP>
+                        </VP>
+                    </VP>
+                    <punc level="3">,</punc>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">thường là do cách làm hay cách nói khác
+                <R level="2" explain="phụ từ">thường</R>
+                <V level="2" explain="động từ">là</V>
+                <PP level="2" explain="cụm giới từ">do cách làm hay cách nói khác
+                    <C level="3" explain="giới từ">do</C>
+                    <NP level="3" explain="cụm danh từ">cách làm hay cách nói khác
+                        <N level="4" explain="danh từ">cách</N>
+                        <VP level="4" explain="cụm động từ">làm hay cách nói khác
+                            <V level="5" explain="động từ">làm</V>
+                            <PP level="5" explain="cụm giới từ">hay cách nói khác
+                                <C level="6" explain="giới từ">hay</C>
+                                <NP level="6" explain="cụm danh từ">cách nói khác
+                                    <N level="7" explain="danh từ">cách</N>
+                                    <VP level="7" explain="cụm động từ">nói khác
+                                        <V level="8" explain="động từ">nói</V>
+                                        <A level="8" explain="tính từ">khác</A>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </VP>
+                    </NP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="6">đó là sự quan tâm nửa mùa của những người ra chính sách
+        <parse id="1">
+            <P level="1" explain="đại từ">đó</P>
+            <VP level="1" explain="cụm động từ">là sự quan tâm nửa mùa của những người ra chính sách
+                <V level="2" explain="động từ">là</V>
+                <NP level="2" explain="cụm danh từ">sự quan tâm nửa mùa của những người ra chính sách
+                    <N level="3" explain="danh từ">sự</N>
+                    <VP level="3" explain="cụm động từ">quan tâm nửa mùa của những người ra chính sách
+                        <V level="4" explain="động từ">quan tâm</V>
+                        <AP level="4" explain="cụm tính từ">nửa mùa của những người ra chính sách
+                            <A level="5" explain="tính từ">nửa mùa
+                                <A level="6" explain="tính từ">nửa</A>
+                                <A level="6" explain="tính từ">mùa</A>
+                            </A>
+                            <PP level="5" explain="cụm giới từ">của những người ra chính sách
+                                <C level="6" explain="giới từ">của</C>
+                                <NP level="6" explain="cụm danh từ">những người ra chính sách
+                                    <N level="7" explain="danh từ">những</N>
+                                    <N level="7" explain="danh từ">người</N>
+                                    <VP level="7" explain="cụm động từ">ra chính sách
+                                        <V level="8" explain="động từ">ra</V>
+                                        <N level="8" explain="danh từ">chính sách</N>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </AP>
+                    </VP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="7">theo nhận định của một số chuyên gia về nông nghiệp
+        <parse id="1">
+            <V level="1" explain="động từ">theo</V>
+            <VP level="1" explain="cụm động từ">nhận định của một số chuyên gia về nông nghiệp
+                <V level="2" explain="động từ">nhận định</V>
+                <PP level="2" explain="cụm giới từ">của một số chuyên gia về nông nghiệp
+                    <C level="3" explain="giới từ">của</C>
+                    <NP level="3" explain="cụm danh từ">một số chuyên gia về nông nghiệp
+                        <N level="4" explain="danh từ">một số</N>
+                        <N level="4" explain="danh từ">chuyên gia</N>
+                        <VP level="4" explain="cụm động từ">về nông nghiệp
+                            <V level="5" explain="động từ">về</V>
+                            <N level="5" explain="danh từ">nông nghiệp</N>
+                        </VP>
+                    </NP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="8">ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài ở một số trường đại học
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài
+                <N level="2" explain="danh từ">ông</N>
+                <VP level="2" explain="cụm động từ">đã tham dự nhiều hội thảo
+                    <R level="3" explain="phụ từ">đã</R>
+                    <V level="3" explain="động từ">tham dự
+                        <V level="4" explain="động từ">tham</V>
+                        <V level="4" explain="động từ">dự</V>
+                    </V>
+                    <AP level="3" explain="cụm tính từ">nhiều hội thảo
+                        <A level="4" explain="tính từ">nhiều</A>
+                        <N level="4" explain="danh từ">hội thảo</N>
+                    </AP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">đọc báo cáo kinh nghiệm ở nhiều nơi
+                    <V level="3" explain="động từ">đọc</V>
+                    <VP level="3" explain="cụm động từ">báo cáo kinh nghiệm ở nhiều nơi
+                        <V level="4" explain="động từ">báo cáo
+                            <V level="4" explain="động từ">báo</V>
+                            <V level="4" explain="động từ">cáo</V>
+                        </V>
+                        <NP level="4" explain="cụm danh từ">kinh nghiệm ở nhiều nơi
+                            <N level="5" explain="danh từ">kinh nghiệm
+                                <N level="6" explain="danh từ">kinh</N>
+                                <N level="6" explain="danh từ">nghiệm</N>
+                            </N>
+                            <PP level="5" explain="cụm giới từ">ở nhiều nơi
+                                <C level="6" explain="giới từ">ở</C>
+                                <AP level="6" explain="cụm tính từ">nhiều nơi
+                                    <A level="7" explain="tính từ">nhiều</A>
+                                    <N level="7" explain="danh từ">nơi</N>
+                                </AP>
+                            </PP>
+                        </NP>
+                    </VP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">được mời đến giảng bài
+                    <V level="3" explain="động từ">được</V>
+                    <VP level="3" explain="cụm động từ">mời đến giảng bài
+                        <V level="4" explain="động từ">mời</V>
+                        <VP level="4" explain="cụm động từ">đến giảng bài
+                            <V level="5" explain="động từ">đến</V>
+                            <VP level="5" explain="cụm động từ">giảng bài
+                                <V level="6" explain="động từ">giảng</V>
+                                <N level="6" explain="danh từ">bài</N>
+                            </VP>
+                        </VP>
+                    </VP>
+                </VP>
+            </NP>
+            <C level="1" explain="giới từ">ở</C>
+            <NP level="1" explain="cụm danh từ">một số trường đại học
+                <N level="2" explain="danh từ">một số</N>
+                <NP level="2" explain="cụm danh từ">trường đại học
+                    <N level="3" explain="danh từ">trường</N>
+                    <N level="3" explain="danh từ">đại học</N>
+                </NP>
+            </NP>
+        </parse>
+    </sentence>
+
+    <sentence id="9">quả thuốc phiện khô có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">quả thuốc phiện khô
+                <N level="2" explain="danh từ">quả</N>
+                <NP level="2" explain="cụm danh từ">thuốc phiện khô
+                    <N level="3" explain="danh từ">thuốc phiện</N>
+                    <A level="3" explain="tính từ">khô</A>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                    <N level="3" explain="danh từ">trọng lượng</N>
+                    <PP level="3" explain="cụm giới từ">từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                        <PP level="4" explain="cụm giới từ">từ sáu trăm ki lô gam
+                            <C level="5" explain="giới từ">từ</C>
+                            <MP level="5" explain="null">sáu trăm ki lô gam
+                                <M level="6" explain="số từ">sáu</M>
+                                <M level="6" explain="số từ">trăm</M>
+                                <N level="6" explain="danh từ">ki lô gam</N>
+                            </MP>
+                        </PP>
+                        <PP level="4" explain="cụm giới từ">đến dưới một nghìn năm trăm ki lô gam
+                            <C level="5" explain="giới từ">đến</C>
+                            <NP level="5" explain="cụm danh từ">dưới một nghìn năm trăm ki lô gam
+                                <N level="6" explain="danh từ">dưới</N>
+                                <N level="6" explain="danh từ">một nghìn</N>
+                                <NP level="6" explain="cụm danh từ">năm trăm ki lô gam
+                                    <N level="7" explain="danh từ">năm trăm</N>
+                                    <N level="7" explain="danh từ">ki lô gam</N>
+                                </NP>
+                            </NP>
+                        </PP>
+                    </PP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="10">quả thuốc phiện tươi có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">quả thuốc phiện tươi
+                <N level="2" explain="danh từ">quả</N>
+                <NP level="2" explain="cụm danh từ">thuốc phiện tươi
+                    <N level="3" explain="danh từ">thuốc phiện</N>
+                    <A level="3" explain="tính từ">tươi</A>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                    <N level="3" explain="danh từ">trọng lượng</N>
+                    <PP level="3" explain="cụm giới từ">từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                        <C level="4" explain="giới từ">từ</C>
+                        <NP level="4" explain="cụm danh từ">một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                            <M level="5" explain="số từ">một trăm</M>
+                            <N level="5" explain="danh từ">năm mươi</N>
+                            <N level="5" explain="danh từ">ki lô gam</N>
+                            <PP level="5" explain="cụm giới từ">đến dưới bốn trăm năm mươi ki lô gam
+                                <C level="6" explain="giới từ">đến</C>
+                                <NP level="6" explain="cụm danh từ">dưới bốn trăm năm mươi ki lô gam
+                                    <N level="7" explain="danh từ">dưới</N>
+                                    <NP level="7" explain="cụm danh từ">bốn trăm năm mươi ki lô gam
+                                        <N level="8" explain="danh từ">bốn trăm</N>
+                                        <NP level="8" explain="cụm danh từ">năm mươi ki lô gam
+                                            <N level="9" explain="danh từ">năm mươi</N>
+                                            <N level="9" explain="danh từ">ki lô gam</N>
+                                        </NP>
+                                    </NP>
+                                </NP>
+                            </PP>
+                        </NP>
+                    </PP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="11">nhà nước có nhiều chính sách quan tâm đến hoạt động của sinh viên tại nước ngoài
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">nhà nước có
+                <N level="2" explain="danh từ">nhà nước</N>
+                <V level="2" explain="động từ">có</V>
+            </NP>
+            <AP level="1" explain="cụm tính từ">nhiều chính sách quan tâm đến hoạt động của sinh viên tại nước ngoài
+                <A level="2" explain="tính từ">nhiều</A>
+                <NP level="2" explain="cụm danh từ">chính sách quan tâm đến hoạt động của
+                    <N level="3" explain="danh từ">chính sách</N>
+                    <VP level="3" explain="cụm động từ">quan tâm đến hoạt động của
+                        <V level="4" explain="động từ">quan tâm</V>
+                        <VP level="4" explain="cụm động từ">đến hoạt động của
+                            <V level="5" explain="động từ">đến</V>
+                            <VP level="5" explain="cụm động từ">hoạt động của
+                                <V level="6" explain="động từ">hoạt động</V>
+                                <PP level="6" explain="cụm giới từ">của</PP>
+                            </VP>
+                        </VP>
+                    </VP>
+                </NP>
+                <punc level="2">,</punc>
+                <NP level="2" explain="cụm danh từ">sinh viên tại nước ngoài
+                    <N level="3" explain="danh từ">sinh viên</N>
+                    <PP level="3" explain="cụm giới từ">tại nước ngoài
+                        <C level="4" explain="giới từ">tại</C>
+                        <N level="4" explain="danh từ">nước ngoài</N>
+                    </PP>
+                </NP>
+            </AP>
+        </parse>
+    </sentence>
+</root>

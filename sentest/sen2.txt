@@ -1,0 +1,1 @@
+﻿ các nhà khoa học vừa nghiên cứu một loại túi thông minh. túi thông minh sẽ giải quyết vấn đề đau đầu trên. khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc , hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm.

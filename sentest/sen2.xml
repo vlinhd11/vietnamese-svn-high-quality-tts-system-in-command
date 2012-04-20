@@ -1,0 +1,118 @@
+
+<root>
+    <sentence id="1">các nhà khoa học vừa nghiên cứu một loại túi thông minh
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">các nhà khoa học
+                <N level="2" explain="danh từ">các</N>
+                <NP level="2" explain="cụm danh từ">nhà khoa học
+                    <N level="3" explain="danh từ">nhà</N>
+                    <N level="3" explain="danh từ">khoa học</N>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">vừa nghiên cứu một loại túi thông minh
+                <R level="2" explain="phụ từ">vừa</R>
+                <V level="2" explain="động từ">nghiên cứu</V>
+                <NP level="2" explain="cụm danh từ">một loại túi thông minh
+                    <M level="3" explain="số từ">một</M>
+                    <NP level="3" explain="cụm danh từ">loại túi thông minh
+                        <N level="4" explain="danh từ">loại</N>
+                        <NP level="4" explain="cụm danh từ">túi thông minh
+                            <N level="5" explain="danh từ">túi</N>
+                            <A level="5" explain="tính từ">thông minh</A>
+                        </NP>
+                    </NP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="2">túi thông minh sẽ giải quyết vấn đề đau đầu trên
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">túi thông minh
+                <N level="2" explain="danh từ">túi</N>
+                <A level="2" explain="tính từ">thông minh</A>
+            </NP>
+            <VP level="1" explain="cụm động từ">sẽ giải quyết vấn đề đau đầu trên
+                <R level="2" explain="phụ từ">sẽ</R>
+                <V level="2" explain="động từ">giải quyết</V>
+                <NP level="2" explain="cụm danh từ">vấn đề đau đầu trên
+                    <N level="3" explain="danh từ">vấn đề</N>
+                    <AP level="3" explain="cụm tính từ">đau đầu trên
+                        <A level="4" explain="tính từ">đau đầu
+                            <A level="5" explain="tính từ">đau</A>
+                            <N level="5" explain="danh từ">đầu</N>
+                        </A>
+                        <C level="4" explain="giới từ">trên</C>
+                    </AP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="3">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc , hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm
+        <parse id="1">
+            <S level="1" explain="Câu">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc
+                <S level="2" explain="Câu">khi túi thông minh phát hiện thực phẩm quá hạn sử dụng
+                    <NP level="3" explain="cụm danh từ">khi túi thông minh
+                        <N level="4" explain="danh từ">khi</N>
+                        <NP level="4" explain="cụm danh từ">túi thông minh
+                            <N level="5" explain="danh từ">túi</N>
+                            <A level="5" explain="tính từ">thông minh</A>
+                        </NP>
+                    </NP>
+                    <VP level="3" explain="cụm động từ">phát hiện thực phẩm quá hạn sử dụng
+                        <V level="4" explain="động từ">phát hiện</V>
+                        <NP level="4" explain="cụm danh từ">thực phẩm quá hạn sử dụng
+                            <N level="5" explain="danh từ">thực phẩm</N>
+                            <RP level="5" explain="cụm phụ từ">quá hạn sử dụng
+                                <R level="6" explain="phụ từ">quá</R>
+                                <NP level="6" explain="cụm danh từ">hạn sử dụng
+                                    <N level="7" explain="danh từ">hạn</N>
+                                    <V level="7" explain="động từ">sử dụng</V>
+                                </NP>
+                            </RP>
+                        </NP>
+                    </VP>
+                </S>
+                <punc level="2">,</punc>
+                <S level="2" explain="Câu">túi sẽ biến sắc
+                    <N level="3" explain="danh từ">túi</N>
+                    <VP level="3" explain="cụm động từ">sẽ biến sắc
+                        <R level="4" explain="phụ từ">sẽ</R>
+                        <V level="4" explain="động từ">biến sắc
+                            <V level="5" explain="động từ">biến</V>
+                            <V level="5" explain="động từ">sắc</V>
+                        </V>
+                    </VP>
+                </S>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm
+                <C level="2" explain="giới từ">hơn nữa</C>
+                <punc level="2">,</punc>
+                <N level="2" explain="danh từ">túi</N>
+                <VP level="2" explain="cụm động từ">còn có chức năng bảo đảm sự tươi mới của thực phẩm
+                    <VP level="3" explain="cụm động từ">còn có chức năng bảo đảm sự tươi mới
+                        <V level="4" explain="động từ">còn</V>
+                        <VP level="4" explain="cụm động từ">có chức năng bảo đảm sự tươi mới
+                            <V level="5" explain="động từ">có</V>
+                            <NP level="5" explain="cụm danh từ">chức năng bảo đảm sự tươi mới
+                                <N level="6" explain="danh từ">chức năng</N>
+                                <N level="6" explain="danh từ">bảo đảm</N>
+                                <NP level="6" explain="cụm danh từ">sự tươi mới
+                                    <N level="7" explain="danh từ">sự</N>
+                                    <AP level="7" explain="cụm tính từ">tươi mới
+                                        <A level="8" explain="tính từ">tươi</A>
+                                        <R level="8" explain="phụ từ">mới</R>
+                                    </AP>
+                                </NP>
+                            </NP>
+                        </VP>
+                    </VP>
+                    <PP level="3" explain="cụm giới từ">của thực phẩm
+                        <C level="4" explain="giới từ">của</C>
+                        <N level="4" explain="danh từ">thực phẩm</N>
+                    </PP>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+</root>

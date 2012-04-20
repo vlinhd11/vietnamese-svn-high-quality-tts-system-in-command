@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : newTextDB.xml
+    Created on : May 28, 2011, 8:44 PM
+    Author     : thaodv_bkit
+    Description:
+        Purpose of the document follows.
+-->
+
+<ns1:category  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xmlns:ns1='null'
+   xsi:schemaLocation='null ../src/Text_DB.xsd'>
+    <file id_file="" file_name="">
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+    </file>
+    <file id_file="" file_name="">
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+    </file>
+    <file id_file="" file_name="">
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+        <sentence id_sen="">
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="" length="">
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+                <syllable id_syl="" name="" start_index="" end_index="" position="" num_of_phone="" energy="">
+                    <initial></initial>
+                    <middle></middle>
+                    <nucleus></nucleus>
+                    <final></final>
+                    <tone></tone>
+                </syllable>
+            </phrase>
+        </sentence>
+    </file>
+
+</ns1:category>

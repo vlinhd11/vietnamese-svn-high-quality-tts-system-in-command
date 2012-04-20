@@ -1,0 +1,4043 @@
+﻿run:
+Don't know this event
+0 : 0 :  các nhà khoa học anh  : 1
+0 : 1 :  các  : 2
+0 : 2 :  nhà khoa học anh  : 2
+0 : 3 :  nhà khoa học  : 3
+0 : 4 :  anh  : 3
+0 : 5 :  vừa nghiên cứu một loại túi thông minh  : 1
+0 : 6 :  vừa  : 2
+0 : 7 :  nghiên cứu  : 2
+0 : 8 :  một loại túi thông minh  : 2
+0 : 9 :  một  : 3
+0 : 10 :  loại túi thông minh  : 3
+0 : 11 :  loại  : 4
+0 : 12 :  túi thông minh  : 4
+0 : 13 :  túi  : 5
+0 : 14 :  thông minh  : 5
+1 : 0 :  túi thông minh  : 1
+1 : 1 :  túi  : 2
+1 : 2 :  thông minh  : 2
+1 : 3 :  sẽ giải quyết vấn đề đau đầu trên  : 1
+1 : 4 :  sẽ  : 2
+1 : 5 :  giải quyết  : 2
+1 : 6 :  vấn đề đau đầu trên  : 2
+1 : 7 :  vấn đề  : 3
+1 : 8 :  đau đầu trên  : 3
+1 : 9 :  đau đầu  : 4
+1 : 10 :  trên  : 4
+2 : 0 :  khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc  : 1
+2 : 1 :  khi túi thông minh phát hiện thực phẩm quá hạn sử dụng  : 2
+2 : 2 :  khi túi thông minh  : 3
+2 : 3 :  khi  : 4
+2 : 4 :  túi thông minh  : 4
+2 : 5 :  túi  : 5
+2 : 6 :  thông minh  : 5
+2 : 7 :  phát hiện thực phẩm quá hạn sử dụng  : 3
+2 : 8 :  phát hiện  : 4
+2 : 9 :  thực phẩm quá hạn sử dụng  : 4
+2 : 10 :  thực phẩm  : 5
+2 : 11 :  quá hạn sử dụng  : 5
+2 : 12 :  quá  : 6
+2 : 13 :  hạn sử dụng  : 6
+2 : 14 :  hạn  : 7
+2 : 15 :  sử dụng  : 7
+2 : 16 :  túi sẽ biến sắc  : 2
+2 : 17 :  túi  : 3
+2 : 18 :  sẽ biến sắc  : 3
+2 : 19 :  sẽ  : 4
+2 : 20 :  biến sắc  : 4
+2 : 21 :  hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm  : 1
+2 : 22 :  hơn nữa  : 2
+2 : 23 :  túi  : 2
+2 : 24 :  còn có chức năng bảo đảm sự tươi mới của thực phẩm  : 2
+2 : 25 :  còn có chức năng bảo đảm sự tươi mới  : 3
+2 : 26 :  còn  : 4
+2 : 27 :  có chức năng bảo đảm sự tươi mới  : 4
+2 : 28 :  có  : 5
+2 : 29 :  chức năng bảo đảm sự tươi mới  : 5
+2 : 30 :  chức năng  : 6
+2 : 31 :  bảo đảm  : 6
+2 : 32 :  sự tươi mới  : 6
+2 : 33 :  sự  : 7
+2 : 34 :  tươi mới  : 7
+2 : 35 :  tươi  : 8
+2 : 36 :  mới  : 8
+2 : 37 :  của thực phẩm  : 3
+2 : 38 :  của  : 4
+2 : 39 :  thực phẩm  : 4
+3 : 0 :  cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,  : 1
+3 : 1 :  cuộc sống  : 2
+3 : 2 :  đồng bào  : 2
+3 : 3 :  dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,  : 2
+3 : 4 :  dân tộc  : 3
+3 : 5 :  vùng cao  : 3
+3 : 6 :  là đề tài hấp dẫn cho sáng tác ảnh ,  : 3
+3 : 7 :  là  : 4
+3 : 8 :  đề tài hấp dẫn cho sáng tác ảnh ,  : 4
+3 : 9 :  đề tài  : 5
+3 : 10 :  hấp dẫn cho sáng tác ảnh  : 5
+3 : 11 :  hấp dẫn  : 6
+3 : 12 :  cho sáng tác ảnh  : 6
+3 : 13 :  cho  : 7
+3 : 14 :  sáng tác ảnh  : 7
+3 : 15 :  sáng tác  : 8
+3 : 16 :  ảnh  : 8
+3 : 17 :  đặc biệt là nhiếp ảnh nghệ thuật  : 1
+3 : 18 :  đặc biệt  : 2
+3 : 19 :  là nhiếp ảnh nghệ thuật  : 2
+3 : 20 :  là  : 3
+3 : 21 :  nhiếp ảnh nghệ thuật  : 3
+3 : 22 :  nhiếp ảnh  : 4
+3 : 23 :  nghệ thuật  : 4
+4 : 0 :  những chính sách không đến được với dân ,  : 1
+4 : 1 :  những  : 2
+4 : 2 :  chính sách không đến được với dân ,  : 2
+4 : 3 :  chính sách  : 3
+4 : 4 :  không đến được với dân  : 3
+4 : 5 :  không  : 4
+4 : 6 :  đến  : 4
+4 : 7 :  được với dân  : 4
+4 : 8 :  được  : 5
+4 : 9 :  với dân  : 5
+4 : 10 :  với  : 6
+4 : 11 :  dân  : 6
+4 : 12 :  thường là do cách làm hay cách nói khác  : 1
+4 : 13 :  thường  : 2
+4 : 14 :  là  : 2
+4 : 15 :  do cách làm hay cách nói khác  : 2
+4 : 16 :  do  : 3
+4 : 17 :  cách làm hay cách nói khác  : 3
+4 : 18 :  cách  : 4
+4 : 19 :  làm hay cách nói khác  : 4
+4 : 20 :  làm  : 5
+4 : 21 :  hay cách nói khác  : 5
+4 : 22 :  hay  : 6
+4 : 23 :  cách nói khác  : 6
+4 : 24 :  cách  : 7
+4 : 25 :  nói khác  : 7
+4 : 26 :  nói  : 8
+4 : 27 :  khác  : 8
+5 : 0 :  đó  : 1
+5 : 1 :  là sự quan tâm nửa mùa của những người ra chính sách  : 1
+5 : 2 :  là  : 2
+5 : 3 :  sự quan tâm nửa mùa của những người ra chính sách  : 2
+5 : 4 :  sự  : 3
+5 : 5 :  quan tâm nửa mùa của những người ra chính sách  : 3
+5 : 6 :  quan tâm  : 4
+5 : 7 :  nửa mùa của những người ra chính sách  : 4
+5 : 8 :  nửa mùa  : 5
+5 : 9 :  của những người ra chính sách  : 5
+5 : 10 :  của  : 6
+5 : 11 :  những người ra chính sách  : 6
+5 : 12 :  những  : 7
+5 : 13 :  người  : 7
+5 : 14 :  ra chính sách  : 7
+5 : 15 :  ra  : 8
+5 : 16 :  chính sách  : 8
+6 : 0 :  theo  : 1
+6 : 1 :  nhận định của một số chuyên gia về nông nghiệp  : 1
+6 : 2 :  nhận định  : 2
+6 : 3 :  của một số chuyên gia về nông nghiệp  : 2
+6 : 4 :  của  : 3
+6 : 5 :  một số chuyên gia về nông nghiệp  : 3
+6 : 6 :  một số  : 4
+6 : 7 :  chuyên gia  : 4
+6 : 8 :  về nông nghiệp  : 4
+6 : 9 :  về  : 5
+6 : 10 :  nông nghiệp  : 5
+7 : 0 :  ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài  : 1
+7 : 1 :  ông  : 2
+7 : 2 :  đã tham dự nhiều hội thảo  : 2
+7 : 3 :  đã  : 3
+7 : 4 :  tham dự  : 3
+7 : 5 :  nhiều hội thảo  : 3
+7 : 6 :  nhiều  : 4
+7 : 7 :  hội thảo  : 4
+7 : 8 :  đọc báo cáo kinh nghiệm ở nhiều nơi  : 2
+7 : 9 :  đọc  : 3
+7 : 10 :  báo cáo kinh nghiệm ở nhiều nơi  : 3
+7 : 11 :  báo cáo  : 4
+7 : 12 :  kinh nghiệm ở nhiều nơi  : 4
+7 : 13 :  kinh nghiệm  : 5
+7 : 14 :  ở nhiều nơi  : 5
+7 : 15 :  ở  : 6
+7 : 16 :  nhiều nơi  : 6
+7 : 17 :  nhiều  : 7
+7 : 18 :  nơi  : 7
+7 : 19 :  được mời đến giảng bài  : 2
+7 : 20 :  được  : 3
+7 : 21 :  mời đến giảng bài  : 3
+7 : 22 :  mời  : 4
+7 : 23 :  đến giảng bài  : 4
+7 : 24 :  đến  : 5
+7 : 25 :  giảng bài  : 5
+7 : 26 :  giảng  : 6
+7 : 27 :  bài  : 6
+7 : 28 :  ở  : 1
+7 : 29 :  một số trường đại học  : 1
+7 : 30 :  một số  : 2
+7 : 31 :  trường đại học  : 2
+7 : 32 :  trường  : 3
+7 : 33 :  đại học  : 3
+8 : 0 :  quả thuốc phiện khô  : 1
+8 : 1 :  quả  : 2
+8 : 2 :  thuốc phiện khô  : 2
+8 : 3 :  thuốc phiện  : 3
+8 : 4 :  khô  : 3
+8 : 5 :  có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  : 1
+8 : 6 :  có  : 2
+8 : 7 :  trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  : 2
+8 : 8 :  trọng lượng  : 3
+8 : 9 :  từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  : 3
+8 : 10 :  từ sáu trăm ki lô gam  : 4
+8 : 11 :  từ  : 5
+8 : 12 :  sáu trăm ki lô gam  : 5
+8 : 13 :  sáu  : 6
+8 : 14 :  trăm  : 6
+8 : 15 :  ki lô gam  : 6
+8 : 16 :  đến dưới một nghìn năm trăm ki lô gam  : 4
+8 : 17 :  đến  : 5
+8 : 18 :  dưới một nghìn năm trăm ki lô gam  : 5
+8 : 19 :  dưới  : 6
+8 : 20 :  một nghìn  : 6
+8 : 21 :  năm trăm ki lô gam  : 6
+8 : 22 :  năm trăm  : 7
+8 : 23 :  ki lô gam  : 7
+9 : 0 :  quả thuốc phiện tươi  : 1
+9 : 1 :  quả  : 2
+9 : 2 :  thuốc phiện tươi  : 2
+9 : 3 :  thuốc phiện  : 3
+9 : 4 :  tươi  : 3
+9 : 5 :  có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  : 1
+9 : 6 :  có  : 2
+9 : 7 :  trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  : 2
+9 : 8 :  trọng lượng  : 3
+9 : 9 :  từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  : 3
+9 : 10 :  từ  : 4
+9 : 11 :  một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  : 4
+9 : 12 :  một trăm  : 5
+9 : 13 :  năm mươi  : 5
+9 : 14 :  ki lô gam  : 5
+9 : 15 :  đến dưới bốn trăm năm mươi ki lô gam  : 5
+9 : 16 :  đến  : 6
+9 : 17 :  dưới bốn trăm năm mươi ki lô gam  : 6
+9 : 18 :  dưới  : 7
+9 : 19 :  bốn trăm năm mươi ki lô gam  : 7
+9 : 20 :  bốn trăm  : 8
+9 : 21 :  năm mươi ki lô gam  : 8
+9 : 22 :  năm mươi  : 9
+9 : 23 :  ki lô gam  : 9
+10 : 0 :  đảng và nhà nước có  : 1
+10 : 1 :  đảng  : 2
+10 : 2 :  và nhà nước có  : 2
+10 : 3 :  và  : 3
+10 : 4 :  nhà nước có  : 3
+10 : 5 :  nhà nước  : 4
+10 : 6 :  có  : 4
+10 : 7 :  nhiều chính sách quan tâm đến hoạt động của thanh niên , sinh viên tại nước ngoài  : 1
+10 : 8 :  nhiều  : 2
+10 : 9 :  chính sách quan tâm đến hoạt động của thanh niên  : 2
+10 : 10 :  chính sách  : 3
+10 : 11 :  quan tâm đến hoạt động của thanh niên  : 3
+10 : 12 :  quan tâm  : 4
+10 : 13 :  đến hoạt động của thanh niên  : 4
+10 : 14 :  đến  : 5
+10 : 15 :  hoạt động của thanh niên  : 5
+10 : 16 :  hoạt động  : 6
+10 : 17 :  của thanh niên  : 6
+10 : 18 :  của  : 7
+10 : 19 :  thanh niên  : 7
+10 : 20 :  sinh viên tại nước ngoài  : 2
+10 : 21 :  sinh viên  : 3
+10 : 22 :  tại nước ngoài  : 3
+10 : 23 :  tại  : 4
+10 : 24 :  nước ngoài  : 4
+11 : 0 :  chế độ khen thuởng cho các hoạt động , các hoạt động huớng nghiệp  : 1
+11 : 1 :  chế độ khen thuởng cho các hoạt động  : 2
+11 : 2 :  chế độ  : 3
+11 : 3 :  khen thuởng cho các hoạt động  : 3
+11 : 4 :  khen  : 4
+11 : 5 :  thuởng cho các hoạt động  : 4
+11 : 6 :  thuởng  : 5
+11 : 7 :  cho các hoạt động  : 5
+11 : 8 :  cho  : 6
+11 : 9 :  các hoạt động  : 6
+11 : 10 :  các  : 7
+11 : 11 :  hoạt động  : 7
+11 : 12 :  các hoạt động huớng nghiệp  : 2
+11 : 13 :  các  : 3
+11 : 14 :  hoạt động huớng nghiệp  : 3
+11 : 15 :  hoạt động  : 4
+11 : 16 :  huớng nghiệp  : 4
+11 : 17 :  huớng  : 5
+11 : 18 :  nghiệp  : 5
+11 : 19 :  chính sách giải quyết công việc cho sinh viên sau khi tốt nghiệp  : 1
+11 : 20 :  chính sách  : 2
+11 : 21 :  giải quyết công việc cho sinh viên sau khi tốt nghiệp  : 2
+11 : 22 :  giải quyết  : 3
+11 : 23 :  công việc cho sinh viên sau khi tốt nghiệp  : 3
+11 : 24 :  công việc  : 4
+11 : 25 :  cho sinh viên sau khi tốt nghiệp  : 4
+11 : 26 :  cho  : 5
+11 : 27 :  sinh viên sau khi tốt nghiệp  : 5
+11 : 28 :  sinh viên  : 6
+11 : 29 :  sau  : 6
+11 : 30 :  khi tốt nghiệp  : 6
+11 : 31 :  khi  : 7
+11 : 32 :  tốt nghiệp  : 7
+0
+[1, 2]
+:: [5, 2, 1]
+ko thay:  các nhà khoa học anh  :va da add subLevel de tim kiem
+ các  : 8
+ các  : 7
+ các  : 0
+ các  : 9
+ các  : 0
+ các  : 3
+ các  : 7
+ các  : 5
+ các  : 6
+ các  : 9
+ các  : 7
+ các  : 3
+ các  : 0
+ các  : 2
+ các  : 0
+ các  : 6
+ các  : 2
+ các  : 0
+ các  : 7
+ các  : 0
+ các  : 1
+ các  : 6
+ các  : 1
+ các  : 5
+ các  : 6
+ các  : 2
+ các  : 11
+ các  : 3
+ các  : 7
+ các  : 4
+ các  : 4
+ các  : 1
+ các  : 3
+ các  : 3
+ các  : 5
+ các  : 1
+ các  : 2
+ các  : 0
+ các  : 1
+ các  : 2
+ các  : 3
+ các  : 10
+ các  : 4
+ các  : 9
+ các  : 7
+ các  : 0
+ các  : 3
+ các  : 3
+ các  : 2
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 7
+ các  : 0
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 1
+ các  : 4
+ các  : 5
+ các  : 1
+ các  : 8
+ các  : 4
+ các  : 5
+ các  : 8
+ các  : 3
+ các  : 0
+ các  : 0
+ các  : 1
+ các  : 0
+ các  : 3
+ các  : 2
+[3, 4]
+:: [5, 4, 3]
+ko thay:  nhà khoa học anh  :va da add subLevel de tim kiem
+ko thay:  nhà khoa học  :va LP nay ko co subLevel
+ anh  : 1
+ anh  : 0
+ anh  : 0
+ anh  : 3
+ anh  : 3
+ anh  : 4
+ anh  : 6
+ anh  : 0
+ anh  : 0
+ anh  : 2
+ anh  : 2
+ anh  : 4
+ anh  : 0
+ anh  : 3
+ anh  : 5
+ anh  : 5
+ anh  : 3
+ anh  : 2
+ anh  : 3
+ anh  : 2
+ anh  : 1
+ anh  : 3
+ anh  : 2
+ anh  : 1
+ anh  : 1
+ anh  : 1
+ anh  : 2
+ anh  : 0
+ anh  : 4
+ anh  : 0
+ anh  : 1
+ anh  : 1
+ anh  : 1
+ anh  : 4
+ anh  : 7
+ anh  : 4
+ anh  : 1
+ anh  : 1
+ anh  : 3
+ anh  : 0
+ anh  : 2
+ anh  : 1
+ anh  : 1
+ anh  : 0
+ anh  : 2
+ anh  : 3
+ anh  : 0
+ anh  : 1
+ anh  : 1
+ anh  : 0
+ anh  : 1
+ anh  : 3
+ anh  : 0
+[6, 7, 8]
+:: [8, 7, 6]
+ko thay:  vừa nghiên cứu một loại túi thông minh  :va da add subLevel de tim kiem
+ vừa  : 1
+ vừa  : 1
+ vừa  : 1
+ vừa  : 0
+ vừa  : 0
+ vừa  : 1
+ vừa  : 7
+ vừa  : 3
+ nghiên cứu  : 2
+ nghiên cứu  : 2
+ nghiên cứu  : 2
+ nghiên cứu  : 6
+ nghiên cứu  : 0
+ nghiên cứu  : 0
+[9, 10]
+:: [10, 9]
+ko thay:  một loại túi thông minh  :va da add subLevel de tim kiem
+ một  : 1
+ một  : 3
+ một  : 8
+ một  : 0
+ một  : 2
+ một  : 3
+ một  : 3
+ một  : 4
+ một  : 5
+ một  : 2
+ một  : 0
+ một  : 2
+ một  : 3
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 4
+ một  : 4
+ một  : 0
+ một  : 5
+ một  : 3
+ một  : 11
+ một  : 2
+ một  : 0
+ một  : 6
+ một  : 3
+ một  : 0
+ một  : 7
+ một  : 1
+ một  : 3
+ một  : 5
+ một  : 3
+ một  : 2
+ một  : 6
+ một  : 1
+ một  : 4
+ một  : 9
+ một  : 0
+ một  : 7
+ một  : 3
+ một  : 4
+ một  : 7
+ một  : 11
+ một  : 3
+ một  : 4
+ một  : 8
+ một  : 4
+ một  : 3
+ một  : 6
+ một  : 3
+ một  : 8
+ một  : 4
+ một  : 2
+ một  : 2
+ một  : 3
+ một  : 3
+ một  : 1
+ một  : 8
+ một  : 12
+ một  : 14
+ một  : 2
+ một  : 4
+ một  : 11
+ một  : 6
+ một  : 0
+ một  : 5
+ một  : 1
+ một  : 1
+ một  : 3
+ một  : 11
+ một  : 7
+ một  : 5
+ một  : 7
+ một  : 1
+ một  : 0
+ một  : 5
+ một  : 1
+ một  : 1
+ một  : 1
+ một  : 6
+ một  : 1
+ một  : 4
+ một  : 5
+ một  : 1
+ một  : 3
+ một  : 8
+ một  : 0
+ một  : 4
+ một  : 5
+ một  : 1
+ một  : 7
+ một  : 5
+ một  : 1
+ một  : 0
+ một  : 3
+ một  : 5
+ một  : 0
+ một  : 10
+ một  : 2
+ một  : 7
+ một  : 3
+ một  : 4
+ một  : 4
+ một  : 4
+ một  : 3
+ một  : 4
+ một  : 10
+ một  : 1
+ một  : 3
+ một  : 2
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 8
+ một  : 5
+ một  : 3
+ một  : 1
+ một  : 1
+ một  : 1
+ một  : 4
+ một  : 3
+ một  : 4
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 4
+ một  : 1
+[11, 12]
+:: [12, 11]
+ko thay:  loại túi thông minh  :va da add subLevel de tim kiem
+ loại  : 0
+ loại  : 12
+ loại  : 3
+ loại  : 8
+ loại  : 6
+ loại  : 0
+ loại  : 3
+ loại  : 5
+ loại  : 4
+ loại  : 10
+ loại  : 4
+ loại  : 4
+ loại  : 2
+ loại  : 9
+ loại  : 0
+ loại  : 5
+ loại  : 1
+ loại  : 5
+ loại  : 6
+[13, 14]
+:: [14, 13]
+ko thay:  túi thông minh  :va da add subLevel de tim kiem
+ túi  : 5
+ túi  : 6
+ túi  : 7
+ túi  : 5
+ túi  : 8
+ túi  : 15
+ thông minh  : 5
+ thông minh  : 1
+1
+[1, 2]
+:: [3, 2, 1]
+ko thay:  túi thông minh  :va da add subLevel de tim kiem
+ túi  : 5
+ túi  : 6
+ túi  : 7
+ túi  : 5
+ túi  : 8
+ túi  : 15
+ thông minh  : 5
+ thông minh  : 1
+[4, 5, 6]
+:: [6, 5, 4]
+ko thay:  sẽ giải quyết vấn đề đau đầu trên  :va da add subLevel de tim kiem
+ sẽ  : 1
+ sẽ  : 0
+ sẽ  : 1
+ sẽ  : 1
+ sẽ  : 0
+ sẽ  : 6
+ sẽ  : 1
+ sẽ  : 4
+ sẽ  : 2
+ sẽ  : 1
+ sẽ  : 3
+ sẽ  : 2
+ sẽ  : 0
+ sẽ  : 0
+ sẽ  : 2
+ sẽ  : 1
+ sẽ  : 1
+ sẽ  : 1
+ sẽ  : 3
+ sẽ  : 1
+ sẽ  : 0
+ sẽ  : 1
+ sẽ  : 0
+ sẽ  : 2
+ sẽ  : 1
+ sẽ  : 4
+ sẽ  : 2
+ sẽ  : 2
+ sẽ  : 1
+ giải quyết  : 1
+[7, 8]
+:: [8, 7]
+ko thay:  vấn đề đau đầu trên  :va da add subLevel de tim kiem
+ vấn đề  : 4
+ vấn đề  : 1
+ vấn đề  : 4
+[9, 10]
+:: [10, 9]
+ko thay:  đau đầu trên  :va da add subLevel de tim kiem
+ko thay:  đau đầu  :va LP nay ko co subLevel
+ trên  : 2
+ trên  : 1
+ trên  : 9
+ trên  : 4
+ trên  : 13
+ trên  : 4
+ trên  : 7
+ trên  : 2
+ trên  : 2
+ trên  : 5
+ trên  : 1
+ trên  : 6
+ trên  : 0
+ trên  : 11
+ trên  : 1
+ trên  : 9
+ trên  : 7
+ trên  : 4
+ trên  : 10
+2
+[1]
+:: [21, 1]
+ko thay:  khi túi thông minh phát hiện thực phẩm quá hạn sử dụng , túi sẽ biến sắc  :va da add subLevel de tim kiem
+[2]
+:: [21, 2]
+ko thay:  khi túi thông minh phát hiện thực phẩm quá hạn sử dụng  :va da add subLevel de tim kiem
+[3, 4]
+:: [21, 4, 3]
+ko thay:  khi túi thông minh  :va da add subLevel de tim kiem
+ khi  : 1
+ khi  : 5
+ khi  : 0
+ khi  : 2
+ khi  : 0
+ khi  : 1
+ khi  : 2
+ khi  : 2
+ khi  : 0
+ khi  : 2
+ khi  : 0
+ khi  : 2
+ khi  : 0
+ khi  : 5
+ khi  : 5
+ khi  : 1
+ khi  : 7
+ khi  : 2
+ khi  : 2
+ khi  : 3
+ khi  : 1
+ khi  : 0
+ khi  : 1
+ khi  : 0
+ khi  : 1
+ khi  : 7
+ khi  : 2
+ khi  : 1
+ khi  : 1
+ khi  : 1
+ khi  : 8
+ khi  : 2
+ khi  : 15
+ khi  : 3
+ khi  : 7
+ khi  : 1
+ khi  : 2
+ khi  : 0
+ khi  : 2
+ khi  : 0
+ khi  : 0
+ khi  : 2
+ khi  : 1
+[5, 6]
+:: [21, 6, 5]
+ko thay:  túi thông minh  :va da add subLevel de tim kiem
+ túi  : 5
+ túi  : 6
+ túi  : 7
+ túi  : 5
+ túi  : 8
+ túi  : 15
+ thông minh  : 5
+ thông minh  : 1
+[22, 23, 24]
+:: [24, 23, 22]
+ko thay:  hơn nữa , túi còn có chức năng bảo đảm sự tươi mới của thực phẩm  :va da add subLevel de tim kiem
+ hơn nữa  : 0
+ túi  : 5
+ túi  : 6
+ túi  : 7
+ túi  : 5
+ túi  : 8
+ túi  : 15
+[25]
+:: [25]
+ko thay:  còn có chức năng bảo đảm sự tươi mới của thực phẩm  :va da add subLevel de tim kiem
+[26, 27]
+:: [27, 26]
+ko thay:  còn có chức năng bảo đảm sự tươi mới  :va da add subLevel de tim kiem
+ còn  : 0
+ còn  : 0
+ còn  : 3
+ còn  : 3
+ còn  : 4
+ còn  : 5
+ còn  : 7
+ còn  : 1
+ còn  : 11
+ còn  : 4
+ còn  : 5
+ còn  : 2
+ còn  : 0
+ còn  : 1
+ còn  : 5
+ còn  : 7
+ còn  : 2
+ còn  : 4
+ còn  : 4
+ còn  : 5
+ còn  : 2
+ còn  : 3
+ còn  : 1
+ còn  : 2
+ còn  : 1
+ còn  : 4
+ còn  : 1
+ còn  : 0
+ còn  : 3
+ còn  : 0
+ còn  : 0
+ còn  : 0
+ còn  : 0
+ còn  : 0
+ còn  : 2
+ còn  : 1
+ còn  : 0
+ còn  : 4
+ còn  : 0
+[28, 29]
+:: [29, 28]
+ko thay:  có chức năng bảo đảm sự tươi mới  :va da add subLevel de tim kiem
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 6
+ có  : 7
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 1
+ có  : 1
+ có  : 2
+ có  : 4
+ có  : 2
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 14
+ có  : 6
+ có  : 7
+ có  : 2
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 5
+ có  : 4
+ có  : 0
+ có  : 2
+ có  : 5
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 0
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 3
+ có  : 5
+ có  : 3
+ có  : 12
+ có  : 1
+ có  : 3
+ có  : 6
+ có  : 9
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 11
+ có  : 3
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 6
+ có  : 16
+ có  : 10
+ có  : 3
+ có  : 4
+ có  : 3
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 3
+ có  : 6
+ có  : 5
+ có  : 11
+ có  : 8
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 0
+ có  : 1
+ có  : 5
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 2
+ có  : 4
+ có  : 0
+ có  : 3
+ có  : 7
+ có  : 1
+ có  : 12
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 3
+ có  : 0
+ có  : 6
+ có  : 0
+ có  : 4
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 4
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 3
+ có  : 4
+ có  : 0
+ có  : 5
+[30, 31, 32]
+:: [32, 31, 30]
+ko thay:  chức năng bảo đảm sự tươi mới  :va da add subLevel de tim kiem
+ chức năng  : 7
+ chức năng  : 10
+ bảo đảm  : 5
+[33, 34]
+:: [34, 33]
+ko thay:  sự tươi mới  :va da add subLevel de tim kiem
+ sự  : 2
+ sự  : 6
+ sự  : 4
+ sự  : 4
+ sự  : 1
+ sự  : 2
+ sự  : 2
+ sự  : 4
+ sự  : 2
+ sự  : 2
+ sự  : 4
+ sự  : 1
+ sự  : 4
+ sự  : 0
+ sự  : 2
+ sự  : 5
+ sự  : 7
+ sự  : 2
+ sự  : 3
+ sự  : 7
+ sự  : 7
+ sự  : 8
+ sự  : 0
+ sự  : 0
+ sự  : 0
+ tươi mới  : 9
+3
+[1, 2, 3]
+:: [17, 3, 2, 1]
+ko thay:  cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,  :va da add subLevel de tim kiem
+ cuộc sống  : 1
+ cuộc sống  : 0
+ cuộc sống  : 2
+ cuộc sống  : 4
+ cuộc sống  : 6
+ đồng bào  : 5
+ đồng bào  : 2
+[4, 5, 6]
+:: [17, 6, 5, 4]
+ko thay:  dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,  :va da add subLevel de tim kiem
+ dân tộc  : 7
+ vùng cao  : 9
+ vùng cao  : 4
+[7, 8]
+:: [17, 8, 7]
+ko thay:  là đề tài hấp dẫn cho sáng tác ảnh ,  :va da add subLevel de tim kiem
+ là  : 0
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 0
+ là  : 1
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 1
+ là  : 8
+ là  : 9
+ là  : 0
+ là  : 10
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 3
+ là  : 0
+ là  : 5
+ là  : 0
+ là  : 0
+ là  : 6
+ là  : 3
+ là  : 4
+ là  : 0
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 7
+ là  : 3
+ là  : 4
+ là  : 5
+ là  : 0
+ là  : 4
+ là  : 7
+ là  : 9
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 5
+ là  : 0
+ là  : 6
+ là  : 0
+ là  : 0
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 7
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 0
+ là  : 0
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 1
+ là  : 1
+ là  : 1
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 6
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 5
+ là  : 3
+ là  : 1
+ là  : 6
+ là  : 1
+ là  : 1
+ là  : 5
+ là  : 2
+ là  : 10
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 3
+ là  : 3
+ là  : 2
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 12
+[9, 10]
+:: [17, 10, 9]
+ko thay:  đề tài hấp dẫn cho sáng tác ảnh ,  :va da add subLevel de tim kiem
+ đề tài  : 5
+[11, 12]
+:: [17, 12, 11]
+ko thay:  hấp dẫn cho sáng tác ảnh  :va da add subLevel de tim kiem
+ko thay:  hấp dẫn  :va LP nay ko co subLevel
+[13, 14]
+:: [17, 14, 13]
+ko thay:  cho sáng tác ảnh  :va da add subLevel de tim kiem
+ cho  : 4
+ cho  : 6
+ cho  : 5
+ cho  : 5
+ cho  : 1
+ cho  : 4
+ cho  : 6
+ cho  : 17
+ cho  : 2
+ cho  : 11
+ cho  : 4
+ cho  : 6
+ cho  : 8
+ cho  : 6
+ cho  : 3
+ cho  : 13
+ cho  : 1
+ cho  : 5
+ cho  : 2
+ cho  : 2
+ cho  : 4
+ cho  : 0
+ cho  : 2
+ cho  : 2
+ cho  : 8
+ cho  : 0
+ cho  : 3
+ cho  : 7
+ cho  : 0
+ cho  : 4
+ cho  : 0
+ cho  : 8
+ cho  : 7
+ cho  : 5
+ cho  : 7
+ cho  : 0
+ cho  : 7
+ cho  : 6
+ cho  : 3
+ cho  : 2
+ cho  : 6
+ cho  : 3
+ cho  : 1
+ cho  : 3
+ cho  : 6
+ cho  : 4
+ cho  : 4
+ cho  : 1
+ cho  : 9
+ cho  : 4
+ cho  : 2
+ cho  : 3
+ cho  : 5
+ cho  : 5
+ cho  : 4
+ cho  : 7
+ cho  : 1
+ cho  : 3
+ cho  : 2
+ cho  : 4
+ cho  : 1
+ cho  : 3
+[15, 16]
+:: [17, 16, 15]
+ko thay:  sáng tác ảnh  :va da add subLevel de tim kiem
+ sáng tác  : 4
+ sáng tác  : 2
+ sáng tác  : 7
+ ảnh  : 2
+ ảnh  : 2
+ ảnh  : 2
+ ảnh  : 2
+ ảnh  : 2
+ ảnh  : 12
+ ảnh  : 4
+[18, 19]
+:: [19, 18]
+ko thay:  đặc biệt là nhiếp ảnh nghệ thuật  :va da add subLevel de tim kiem
+ đặc biệt  : 0
+ đặc biệt  : 0
+ đặc biệt  : 0
+ đặc biệt  : 0
+[20, 21]
+:: [21, 20]
+ko thay:  là nhiếp ảnh nghệ thuật  :va da add subLevel de tim kiem
+ là  : 0
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 0
+ là  : 1
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 1
+ là  : 8
+ là  : 9
+ là  : 0
+ là  : 10
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 3
+ là  : 0
+ là  : 5
+ là  : 0
+ là  : 0
+ là  : 6
+ là  : 3
+ là  : 4
+ là  : 0
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 7
+ là  : 3
+ là  : 4
+ là  : 5
+ là  : 0
+ là  : 4
+ là  : 7
+ là  : 9
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 5
+ là  : 0
+ là  : 6
+ là  : 0
+ là  : 0
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 7
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 0
+ là  : 0
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 1
+ là  : 1
+ là  : 1
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 6
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 5
+ là  : 3
+ là  : 1
+ là  : 6
+ là  : 1
+ là  : 1
+ là  : 5
+ là  : 2
+ là  : 10
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 3
+ là  : 3
+ là  : 2
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 12
+[22, 23]
+:: [23, 22]
+ko thay:  nhiếp ảnh nghệ thuật  :va da add subLevel de tim kiem
+ko thay:  nhiếp ảnh  :va LP nay ko co subLevel
+ nghệ thuật  : 5
+ nghệ thuật  : 6
+ nghệ thuật  : 1
+4
+[1, 2]
+:: [12, 2, 1]
+ko thay:  những chính sách không đến được với dân ,  :va da add subLevel de tim kiem
+ những  : 0
+ những  : 7
+ những  : 4
+ những  : 4
+ những  : 6
+ những  : 4
+ những  : 2
+ những  : 2
+ những  : 3
+ những  : 4
+ những  : 3
+ những  : 0
+ những  : 3
+ những  : 5
+ những  : 2
+ những  : 13
+ những  : 1
+ những  : 0
+ những  : 10
+ những  : 1
+ những  : 3
+ những  : 4
+ những  : 9
+ những  : 2
+ những  : 6
+ những  : 0
+ những  : 0
+ những  : 1
+ những  : 7
+ những  : 3
+ những  : 8
+ những  : 0
+ những  : 7
+ những  : 6
+ những  : 3
+ những  : 5
+ những  : 10
+ những  : 4
+ những  : 0
+ những  : 3
+ những  : 0
+ những  : 5
+ những  : 5
+ những  : 0
+ những  : 0
+ những  : 1
+ những  : 8
+ những  : 8
+ những  : 2
+ những  : 3
+ những  : 7
+ những  : 4
+ những  : 2
+ những  : 3
+ những  : 2
+ những  : 2
+ những  : 0
+ những  : 1
+ những  : 4
+ những  : 4
+ những  : 2
+[3, 4]
+:: [12, 4, 3]
+ko thay:  chính sách không đến được với dân ,  :va da add subLevel de tim kiem
+ chính sách  : 5
+ chính sách  : 0
+[5, 6, 7]
+:: [12, 7, 6, 5]
+ko thay:  không đến được với dân  :va da add subLevel de tim kiem
+ không  : 0
+ không  : 3
+ không  : 0
+ không  : 1
+ không  : 5
+ không  : 2
+ không  : 7
+ không  : 0
+ không  : 1
+ không  : 3
+ không  : 1
+ không  : 0
+ không  : 7
+ không  : 10
+ không  : 2
+ không  : 1
+ không  : 5
+ không  : 3
+ không  : 0
+ không  : 0
+ không  : 2
+ không  : 7
+ không  : 1
+ không  : 1
+ không  : 0
+ không  : 2
+ không  : 0
+ không  : 2
+ không  : 3
+ không  : 4
+ không  : 8
+ không  : 6
+ không  : 0
+ không  : 6
+ không  : 5
+ không  : 3
+ không  : 3
+ không  : 0
+ không  : 0
+ không  : 2
+ không  : 1
+ không  : 10
+ không  : 2
+ không  : 4
+ không  : 3
+ không  : 4
+ không  : 4
+ không  : 3
+ không  : 5
+ không  : 2
+ không  : 1
+ không  : 13
+ không  : 9
+ không  : 3
+ không  : 3
+ không  : 2
+ không  : 0
+ không  : 0
+ không  : 4
+ không  : 0
+ không  : 1
+ không  : 5
+ không  : 6
+ không  : 16
+ không  : 1
+ không  : 16
+ không  : 9
+ không  : 5
+ không  : 2
+ không  : 3
+ không  : 0
+ không  : 4
+ không  : 1
+ không  : 2
+ không  : 3
+ không  : 6
+ không  : 1
+ không  : 3
+ không  : 4
+ không  : 3
+ không  : 1
+ không  : 1
+ không  : 5
+ không  : 5
+ không  : 2
+ không  : 1
+ không  : 7
+ không  : 1
+ không  : 6
+ không  : 1
+ không  : 9
+ không  : 5
+ không  : 6
+ không  : 1
+ không  : 3
+ không  : 1
+ không  : 5
+ không  : 5
+ không  : 1
+ không  : 0
+ không  : 2
+ không  : 1
+ không  : 6
+ không  : 5
+ không  : 2
+ không  : 6
+ không  : 14
+ không  : 6
+ không  : 1
+ không  : 6
+ không  : 1
+ không  : 7
+ không  : 1
+ không  : 1
+ không  : 6
+ không  : 10
+ không  : 4
+ không  : 1
+ không  : 0
+ không  : 1
+ không  : 6
+ không  : 6
+ không  : 4
+ không  : 2
+ đến  : 9
+ đến  : 3
+ đến  : 5
+ đến  : 8
+ đến  : 2
+ đến  : 3
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 5
+ đến  : 8
+ đến  : 6
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 6
+ đến  : 2
+ đến  : 7
+ đến  : 7
+ đến  : 3
+ đến  : 1
+ đến  : 3
+ đến  : 6
+ đến  : 1
+ đến  : 3
+ đến  : 0
+ đến  : 9
+ đến  : 0
+ đến  : 0
+ đến  : 0
+ đến  : 3
+ đến  : 8
+ đến  : 6
+ đến  : 5
+ đến  : 5
+ đến  : 9
+ đến  : 7
+ đến  : 4
+ đến  : 2
+ đến  : 3
+ đến  : 7
+ đến  : 7
+ đến  : 2
+ đến  : 3
+ đến  : 8
+ đến  : 5
+ đến  : 8
+ đến  : 2
+[8, 9]
+:: [12, 9, 8]
+ko thay:  được với dân  :va da add subLevel de tim kiem
+ được  : 6
+ được  : 0
+ được  : 8
+ được  : 1
+ được  : 1
+ được  : 0
+ được  : 2
+ được  : 8
+ được  : 3
+ được  : 7
+ được  : 9
+ được  : 4
+ được  : 1
+ được  : 1
+ được  : 5
+ được  : 2
+ được  : 8
+ được  : 7
+ được  : 7
+ được  : 1
+ được  : 7
+ được  : 3
+ được  : 1
+ được  : 3
+ được  : 0
+ được  : 3
+ được  : 13
+ được  : 10
+ được  : 8
+ được  : 0
+ được  : 4
+ được  : 2
+ được  : 2
+ được  : 1
+ được  : 6
+ được  : 1
+ được  : 4
+ được  : 4
+ được  : 2
+ được  : 6
+ được  : 3
+ được  : 2
+ được  : 3
+ được  : 0
+ được  : 4
+ được  : 10
+ được  : 10
+ được  : 3
+ được  : 3
+ được  : 4
+ được  : 1
+ được  : 3
+ được  : 5
+ được  : 9
+ được  : 1
+ được  : 8
+ được  : 7
+ được  : 4
+ được  : 3
+ được  : 2
+ được  : 4
+ được  : 8
+ được  : 3
+ được  : 2
+ được  : 8
+ được  : 6
+ được  : 13
+ được  : 6
+ được  : 2
+ được  : 4
+ được  : 3
+[10, 11]
+:: [12, 11, 10]
+ko thay:  với dân  :va da add subLevel de tim kiem
+ với  : 0
+ với  : 0
+ với  : 1
+ với  : 5
+ với  : 9
+ với  : 8
+ với  : 0
+ với  : 12
+ với  : 9
+ với  : 8
+ với  : 4
+ với  : 6
+ với  : 2
+ với  : 2
+ với  : 3
+ với  : 3
+ với  : 0
+ với  : 4
+ với  : 3
+ với  : 3
+ với  : 6
+ với  : 0
+ với  : 7
+ với  : 0
+ với  : 5
+ với  : 6
+ với  : 5
+ với  : 0
+ với  : 1
+ với  : 7
+ với  : 8
+ với  : 9
+ với  : 3
+ với  : 1
+ với  : 11
+ với  : 6
+ với  : 0
+ với  : 1
+ với  : 4
+ với  : 0
+ với  : 0
+ với  : 3
+ với  : 7
+ với  : 7
+ với  : 0
+ với  : 1
+ với  : 5
+ với  : 4
+ với  : 3
+ với  : 3
+ với  : 0
+ với  : 3
+ với  : 5
+ với  : 4
+ dân  : 9
+ dân  : 7
+ dân  : 9
+ dân  : 7
+ dân  : 2
+ dân  : 9
+ dân  : 6
+ dân  : 11
+ dân  : 15
+ dân  : 6
+ dân  : 12
+ dân  : 5
+ dân  : 8
+ dân  : 10
+ dân  : 9
+ dân  : 2
+ dân  : 5
+ dân  : 12
+[13, 14, 15]
+:: [15, 14, 13]
+ko thay:  thường là do cách làm hay cách nói khác  :va da add subLevel de tim kiem
+ thường  : 11
+ thường  : 0
+ thường  : 4
+ thường  : 0
+ thường  : 8
+ thường  : 4
+ thường  : 1
+ thường  : 10
+ thường  : 9
+ thường  : 0
+ thường  : 19
+ thường  : 1
+ thường  : 4
+ thường  : 3
+ thường  : 0
+ thường  : 3
+ thường  : 3
+ thường  : 4
+ thường  : 3
+ là  : 0
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 0
+ là  : 1
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 1
+ là  : 8
+ là  : 9
+ là  : 0
+ là  : 10
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 3
+ là  : 0
+ là  : 5
+ là  : 0
+ là  : 0
+ là  : 6
+ là  : 3
+ là  : 4
+ là  : 0
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 7
+ là  : 3
+ là  : 4
+ là  : 5
+ là  : 0
+ là  : 4
+ là  : 7
+ là  : 9
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 5
+ là  : 0
+ là  : 6
+ là  : 0
+ là  : 0
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 7
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 0
+ là  : 0
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 1
+ là  : 1
+ là  : 1
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 6
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 5
+ là  : 3
+ là  : 1
+ là  : 6
+ là  : 1
+ là  : 1
+ là  : 5
+ là  : 2
+ là  : 10
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 3
+ là  : 3
+ là  : 2
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 12
+[16, 17]
+:: [17, 16]
+ko thay:  do cách làm hay cách nói khác  :va da add subLevel de tim kiem
+ do  : 0
+ do  : 0
+ do  : 2
+ do  : 0
+ do  : 4
+ do  : 1
+ do  : 1
+ do  : 7
+ do  : 0
+ do  : 1
+ do  : 1
+ do  : 0
+ do  : 2
+ do  : 1
+ do  : 2
+ do  : 0
+ do  : 3
+ do  : 0
+ do  : 3
+ do  : 6
+ do  : 1
+ do  : 0
+ do  : 0
+ do  : 2
+ do  : 1
+ do  : 5
+[18, 19]
+:: [19, 18]
+ko thay:  cách làm hay cách nói khác  :va da add subLevel de tim kiem
+ cách  : 4
+ cách  : 4
+ cách  : 3
+ cách  : 0
+ cách  : 2
+ cách  : 6
+ cách  : 0
+ cách  : 1
+ cách  : 1
+ cách  : 6
+ cách  : 3
+ cách  : 8
+ cách  : 8
+ cách  : 1
+ cách  : 3
+ cách  : 4
+ cách  : 6
+ cách  : 0
+ cách  : 11
+ cách  : 1
+ cách  : 0
+[20, 21]
+:: [21, 20]
+ko thay:  làm hay cách nói khác  :va da add subLevel de tim kiem
+ làm  : 5
+ làm  : 1
+ làm  : 0
+ làm  : 2
+ làm  : 3
+ làm  : 3
+ làm  : 3
+ làm  : 12
+ làm  : 12
+ làm  : 1
+ làm  : 9
+ làm  : 0
+ làm  : 2
+ làm  : 0
+ làm  : 14
+ làm  : 5
+ làm  : 1
+ làm  : 8
+ làm  : 2
+ làm  : 1
+ làm  : 2
+ làm  : 2
+ làm  : 5
+ làm  : 8
+ làm  : 1
+ làm  : 2
+ làm  : 2
+ làm  : 5
+ làm  : 0
+ làm  : 2
+ làm  : 3
+ làm  : 9
+ làm  : 6
+ làm  : 0
+ làm  : 7
+ làm  : 6
+ làm  : 3
+ làm  : 1
+ làm  : 4
+ làm  : 2
+ làm  : 2
+ làm  : 1
+ làm  : 3
+ làm  : 5
+ làm  : 7
+[22, 23]
+:: [23, 22]
+ko thay:  hay cách nói khác  :va da add subLevel de tim kiem
+ hay  : 0
+ hay  : 5
+ hay  : 1
+ hay  : 4
+ hay  : 0
+ hay  : 9
+ hay  : 7
+ hay  : 9
+ hay  : 6
+ hay  : 0
+ hay  : 0
+ hay  : 12
+ hay  : 7
+ hay  : 15
+ hay  : 15
+ hay  : 8
+ hay  : 0
+ hay  : 5
+ hay  : 5
+ hay  : 8
+ hay  : 6
+ hay  : 2
+ hay  : 0
+ hay  : 0
+ hay  : 4
+ hay  : 1
+ hay  : 0
+ hay  : 0
+[24, 25]
+:: [25, 24]
+ko thay:  cách nói khác  :va da add subLevel de tim kiem
+ cách  : 4
+ cách  : 4
+ cách  : 3
+ cách  : 0
+ cách  : 2
+ cách  : 6
+ cách  : 0
+ cách  : 1
+ cách  : 1
+ cách  : 6
+ cách  : 3
+ cách  : 8
+ cách  : 8
+ cách  : 1
+ cách  : 3
+ cách  : 4
+ cách  : 6
+ cách  : 0
+ cách  : 11
+ cách  : 1
+ cách  : 0
+[26, 27]
+:: [27, 26]
+ko thay:  nói khác  :va da add subLevel de tim kiem
+ nói  : 1
+ nói  : 5
+ nói  : 7
+ nói  : 2
+ nói  : 1
+ nói  : 3
+ nói  : 2
+ nói  : 6
+ nói  : 2
+ nói  : 3
+ nói  : 2
+ khác  : 10
+ khác  : 1
+ khác  : 4
+ khác  : 2
+ khác  : 12
+ khác  : 12
+ khác  : 5
+ khác  : 6
+ khác  : 2
+ khác  : 5
+ khác  : 8
+ khác  : 10
+ khác  : 19
+ khác  : 10
+ khác  : 5
+ khác  : 3
+5
+ đó  : 0
+ đó  : 7
+ đó  : 2
+ đó  : 0
+ đó  : 9
+ đó  : 11
+ đó  : 1
+ đó  : 5
+ đó  : 2
+ đó  : 5
+ đó  : 10
+ đó  : 3
+ đó  : 2
+ đó  : 3
+ đó  : 4
+ đó  : 17
+ đó  : 2
+ đó  : 3
+ đó  : 3
+ đó  : 2
+ đó  : 6
+ đó  : 3
+ đó  : 6
+ đó  : 2
+ đó  : 1
+ đó  : 4
+ đó  : 6
+ đó  : 7
+ đó  : 1
+ đó  : 4
+ đó  : 0
+ đó  : 3
+ đó  : 5
+ đó  : 7
+ đó  : 4
+ đó  : 3
+ đó  : 1
+ đó  : 1
+ đó  : 2
+[2, 3]
+:: [3, 2]
+ko thay:  là sự quan tâm nửa mùa của những người ra chính sách  :va da add subLevel de tim kiem
+ là  : 0
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 0
+ là  : 1
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 1
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 1
+ là  : 8
+ là  : 9
+ là  : 0
+ là  : 10
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 1
+ là  : 2
+ là  : 3
+ là  : 0
+ là  : 5
+ là  : 0
+ là  : 0
+ là  : 6
+ là  : 3
+ là  : 4
+ là  : 0
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 2
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 7
+ là  : 3
+ là  : 4
+ là  : 5
+ là  : 0
+ là  : 4
+ là  : 7
+ là  : 9
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 5
+ là  : 0
+ là  : 6
+ là  : 0
+ là  : 0
+ là  : 4
+ là  : 2
+ là  : 1
+ là  : 7
+ là  : 0
+ là  : 2
+ là  : 2
+ là  : 0
+ là  : 2
+ là  : 0
+ là  : 0
+ là  : 5
+ là  : 1
+ là  : 0
+ là  : 1
+ là  : 1
+ là  : 1
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 0
+ là  : 0
+ là  : 3
+ là  : 4
+ là  : 4
+ là  : 4
+ là  : 3
+ là  : 4
+ là  : 2
+ là  : 3
+ là  : 2
+ là  : 6
+ là  : 6
+ là  : 2
+ là  : 2
+ là  : 2
+ là  : 5
+ là  : 3
+ là  : 1
+ là  : 6
+ là  : 1
+ là  : 1
+ là  : 5
+ là  : 2
+ là  : 10
+ là  : 1
+ là  : 6
+ là  : 2
+ là  : 3
+ là  : 3
+ là  : 2
+ là  : 3
+ là  : 1
+ là  : 1
+ là  : 12
+[4, 5]
+:: [5, 4]
+ko thay:  sự quan tâm nửa mùa của những người ra chính sách  :va da add subLevel de tim kiem
+ sự  : 2
+ sự  : 6
+ sự  : 4
+ sự  : 4
+ sự  : 1
+ sự  : 2
+ sự  : 2
+ sự  : 4
+ sự  : 2
+ sự  : 2
+ sự  : 4
+ sự  : 1
+ sự  : 4
+ sự  : 0
+ sự  : 2
+ sự  : 5
+ sự  : 7
+ sự  : 2
+ sự  : 3
+ sự  : 7
+ sự  : 7
+ sự  : 8
+ sự  : 0
+ sự  : 0
+ sự  : 0
+[6, 7]
+:: [7, 6]
+ko thay:  quan tâm nửa mùa của những người ra chính sách  :va da add subLevel de tim kiem
+ quan tâm  : 5
+[8, 9]
+:: [9, 8]
+ko thay:  nửa mùa của những người ra chính sách  :va da add subLevel de tim kiem
+ko thay:  nửa mùa  :va LP nay ko co subLevel
+[10, 11]
+:: [11, 10]
+ko thay:  của những người ra chính sách  :va da add subLevel de tim kiem
+ của  : 4
+ của  : 3
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 10
+ của  : 8
+ của  : 8
+ của  : 4
+ của  : 0
+ của  : 7
+ của  : 11
+ của  : 3
+ của  : 9
+ của  : 5
+ của  : 2
+ của  : 6
+ của  : 13
+ của  : 5
+ của  : 8
+ của  : 2
+ của  : 5
+ của  : 9
+ của  : 3
+ của  : 3
+ của  : 1
+ của  : 11
+ của  : 7
+ của  : 8
+ của  : 3
+ của  : 10
+ của  : 4
+ của  : 15
+ của  : 1
+ của  : 2
+ của  : 8
+ của  : 6
+ của  : 4
+ của  : 3
+ của  : 9
+ của  : 6
+ của  : 6
+ của  : 13
+ của  : 4
+ của  : 2
+ của  : 3
+ của  : 2
+ của  : 6
+ của  : 5
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 3
+ của  : 13
+ của  : 6
+ của  : 14
+ của  : 0
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 4
+ của  : 4
+ của  : 8
+ của  : 5
+ của  : 2
+ của  : 5
+ của  : 1
+ của  : 6
+ của  : 8
+ của  : 5
+ của  : 3
+ của  : 5
+ của  : 1
+ của  : 3
+ của  : 3
+ của  : 8
+[12, 13, 14]
+:: [14, 13, 12]
+ko thay:  những người ra chính sách  :va da add subLevel de tim kiem
+ những  : 0
+ những  : 7
+ những  : 4
+ những  : 4
+ những  : 6
+ những  : 4
+ những  : 2
+ những  : 2
+ những  : 3
+ những  : 4
+ những  : 3
+ những  : 0
+ những  : 3
+ những  : 5
+ những  : 2
+ những  : 13
+ những  : 1
+ những  : 0
+ những  : 10
+ những  : 1
+ những  : 3
+ những  : 4
+ những  : 9
+ những  : 2
+ những  : 6
+ những  : 0
+ những  : 0
+ những  : 1
+ những  : 7
+ những  : 3
+ những  : 8
+ những  : 0
+ những  : 7
+ những  : 6
+ những  : 3
+ những  : 5
+ những  : 10
+ những  : 4
+ những  : 0
+ những  : 3
+ những  : 0
+ những  : 5
+ những  : 5
+ những  : 0
+ những  : 0
+ những  : 1
+ những  : 8
+ những  : 8
+ những  : 2
+ những  : 3
+ những  : 7
+ những  : 4
+ những  : 2
+ những  : 3
+ những  : 2
+ những  : 2
+ những  : 0
+ những  : 1
+ những  : 4
+ những  : 4
+ những  : 2
+ người  : 1
+ người  : 3
+ người  : 0
+ người  : 1
+ người  : 5
+ người  : 1
+ người  : 3
+ người  : 7
+ người  : 11
+ người  : 1
+ người  : 5
+ người  : 4
+ người  : 5
+ người  : 5
+ người  : 3
+ người  : 5
+ người  : 10
+ người  : 10
+ người  : 4
+ người  : 1
+ người  : 2
+ người  : 2
+ người  : 3
+ người  : 4
+ người  : 1
+ người  : 1
+ người  : 0
+ người  : 1
+ người  : 1
+ người  : 6
+ người  : 3
+ người  : 5
+ người  : 5
+ người  : 3
+ người  : 8
+ người  : 5
+ người  : 1
+ người  : 9
+ người  : 4
+ người  : 6
+ người  : 0
+ người  : 2
+ người  : 2
+ người  : 5
+ người  : 0
+ người  : 1
+ người  : 10
+ người  : 4
+ người  : 0
+ người  : 6
+ người  : 5
+ người  : 1
+ người  : 1
+ người  : 3
+ người  : 2
+ người  : 1
+ người  : 6
+ người  : 3
+ người  : 3
+ người  : 2
+ người  : 5
+ người  : 3
+ người  : 3
+ người  : 4
+ người  : 3
+ người  : 2
+ người  : 5
+[15, 16]
+:: [16, 15]
+ko thay:  ra chính sách  :va da add subLevel de tim kiem
+ ra  : 1
+ ra  : 5
+ ra  : 1
+ ra  : 3
+ ra  : 1
+ ra  : 3
+ ra  : 5
+ ra  : 5
+ ra  : 2
+ ra  : 3
+ ra  : 7
+ ra  : 5
+ ra  : 6
+ ra  : 3
+ ra  : 1
+ ra  : 1
+ ra  : 5
+ ra  : 8
+ ra  : 1
+ ra  : 8
+ ra  : 4
+ ra  : 3
+ ra  : 1
+ ra  : 1
+ ra  : 9
+ ra  : 4
+ ra  : 3
+ ra  : 4
+ ra  : 2
+ ra  : 1
+ ra  : 3
+ ra  : 8
+ ra  : 1
+ ra  : 4
+ chính sách  : 5
+ chính sách  : 0
+6
+ theo  : 3
+ theo  : 0
+ theo  : 1
+ theo  : 1
+ theo  : 0
+ theo  : 3
+ theo  : 0
+ theo  : 1
+ theo  : 0
+ theo  : 6
+ theo  : 4
+ theo  : 0
+ theo  : 1
+ theo  : 0
+ theo  : 5
+ theo  : 1
+ theo  : 0
+ theo  : 2
+ theo  : 1
+[2, 3]
+:: [3, 2]
+ko thay:  nhận định của một số chuyên gia về nông nghiệp  :va da add subLevel de tim kiem
+ nhận định  : 2
+[4, 5]
+:: [5, 4]
+ko thay:  của một số chuyên gia về nông nghiệp  :va da add subLevel de tim kiem
+ của  : 4
+ của  : 3
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 10
+ của  : 8
+ của  : 8
+ của  : 4
+ của  : 0
+ của  : 7
+ của  : 11
+ của  : 3
+ của  : 9
+ của  : 5
+ của  : 2
+ của  : 6
+ của  : 13
+ của  : 5
+ của  : 8
+ của  : 2
+ của  : 5
+ của  : 9
+ của  : 3
+ của  : 3
+ của  : 1
+ của  : 11
+ của  : 7
+ của  : 8
+ của  : 3
+ của  : 10
+ của  : 4
+ của  : 15
+ của  : 1
+ của  : 2
+ của  : 8
+ của  : 6
+ của  : 4
+ của  : 3
+ của  : 9
+ của  : 6
+ của  : 6
+ của  : 13
+ của  : 4
+ của  : 2
+ của  : 3
+ của  : 2
+ của  : 6
+ của  : 5
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 3
+ của  : 13
+ của  : 6
+ của  : 14
+ của  : 0
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 4
+ của  : 4
+ của  : 8
+ của  : 5
+ của  : 2
+ của  : 5
+ của  : 1
+ của  : 6
+ của  : 8
+ của  : 5
+ của  : 3
+ của  : 5
+ của  : 1
+ của  : 3
+ của  : 3
+ của  : 8
+[6, 7, 8]
+:: [8, 7, 6]
+ko thay:  một số chuyên gia về nông nghiệp  :va da add subLevel de tim kiem
+ một số  : 0
+ một số  : 0
+ một số  : 8
+ một số  : 4
+ một số  : 3
+ một số  : 11
+ một số  : 1
+ chuyên gia  : 4
+ chuyên gia  : 9
+ chuyên gia  : 3
+ về nông nghiệp  : 10
+ về nông nghiệp  : 6
+7
+[1, 2]
+:: [29, 28, 2, 1]
+ko thay:  ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài  :va da add subLevel de tim kiem
+ ông  : 4
+ ông  : 2
+ ông  : 4
+ ông  : 0
+ ông  : 4
+ ông  : 1
+ ông  : 0
+ ông  : 2
+ ông  : 0
+ ông  : 1
+ ông  : 0
+ ông  : 0
+ ông  : 1
+ ông  : 0
+ ông  : 0
+ ông  : 2
+ ông  : 0
+ ông  : 5
+ ông  : 4
+ ông  : 9
+ ông  : 3
+ ông  : 2
+ ông  : 3
+ ông  : 0
+ ông  : 1
+ ông  : 1
+ ông  : 8
+ ông  : 3
+ ông  : 3
+ ông  : 3
+ ông  : 7
+ ông  : 1
+ ông  : 0
+ ông  : 3
+ ông  : 6
+ ông  : 3
+ ông  : 1
+ ông  : 3
+ ông  : 5
+[3, 4, 5]
+:: [29, 28, 5, 4, 3]
+ko thay:  đã tham dự nhiều hội thảo  :va da add subLevel de tim kiem
+ đã  : 1
+ đã  : 0
+ đã  : 0
+ đã  : 10
+ đã  : 1
+ đã  : 0
+ đã  : 1
+ đã  : 6
+ đã  : 1
+ đã  : 1
+ đã  : 3
+ đã  : 4
+ đã  : 0
+ đã  : 5
+ đã  : 2
+ đã  : 7
+ đã  : 7
+ đã  : 0
+ đã  : 3
+ đã  : 5
+ đã  : 0
+ đã  : 6
+ đã  : 15
+ đã  : 0
+ đã  : 0
+ đã  : 2
+ đã  : 3
+ đã  : 1
+ đã  : 6
+ đã  : 3
+ đã  : 1
+ đã  : 4
+ đã  : 2
+ đã  : 3
+ đã  : 0
+ đã  : 3
+ đã  : 3
+ đã  : 0
+ đã  : 0
+ đã  : 2
+ đã  : 8
+ đã  : 3
+ đã  : 0
+ đã  : 2
+ đã  : 6
+ đã  : 3
+ đã  : 2
+ko thay:  tham dự  :va LP nay ko co subLevel
+[6, 7]
+:: [29, 28, 7, 6]
+ko thay:  nhiều hội thảo  :va da add subLevel de tim kiem
+ nhiều  : 0
+ nhiều  : 8
+ nhiều  : 1
+ nhiều  : 10
+ nhiều  : 0
+ nhiều  : 3
+ nhiều  : 0
+ nhiều  : 1
+ nhiều  : 0
+ nhiều  : 4
+ nhiều  : 8
+ nhiều  : 1
+ nhiều  : 1
+ nhiều  : 0
+ nhiều  : 1
+ nhiều  : 11
+ nhiều  : 3
+ nhiều  : 1
+ nhiều  : 6
+ nhiều  : 2
+ nhiều  : 10
+ nhiều  : 3
+ nhiều  : 4
+ nhiều  : 5
+ nhiều  : 4
+ nhiều  : 2
+ nhiều  : 7
+ nhiều  : 3
+ nhiều  : 3
+ nhiều  : 10
+ nhiều  : 1
+ nhiều  : 5
+ nhiều  : 4
+ nhiều  : 1
+ nhiều  : 8
+ nhiều  : 3
+ nhiều  : 2
+ hội thảo  : 7
+ ở  : 7
+ ở  : 4
+ ở  : 4
+ ở  : 3
+ ở  : 3
+ ở  : 3
+ ở  : 3
+ ở  : 1
+ ở  : 0
+ ở  : 6
+ ở  : 8
+ ở  : 1
+ ở  : 4
+ ở  : 6
+ ở  : 3
+ ở  : 4
+ ở  : 0
+ ở  : 0
+ ở  : 11
+ ở  : 3
+ ở  : 11
+ ở  : 8
+ ở  : 4
+ ở  : 6
+ ở  : 3
+ ở  : 4
+ ở  : 4
+ ở  : 9
+ ở  : 3
+ ở  : 12
+ ở  : 3
+ ở  : 10
+ ở  : 5
+ ở  : 0
+ ở  : 1
+ ở  : 4
+ ở  : 7
+ ở  : 8
+ ở  : 5
+ ở  : 0
+ ở  : 4
+ ở  : 8
+ ở  : 2
+ ở  : 7
+ ở  : 6
+ ở  : 15
+ ở  : 4
+ ở  : 6
+ ở  : 11
+ ở  : 4
+ ở  : 4
+ ở  : 7
+ ở  : 9
+ ở  : 0
+ ở  : 8
+ ở  : 4
+ ở  : 6
+ ở  : 5
+ ở  : 3
+ ở  : 6
+ ở  : 4
+ ở  : 3
+ ở  : 3
+ ở  : 6
+ ở  : 4
+ ở  : 2
+ ở  : 0
+ ở  : 3
+ ở  : 7
+[30, 31]
+:: [31, 30]
+ko thay:  một số trường đại học  :va da add subLevel de tim kiem
+ một số  : 0
+ một số  : 0
+ một số  : 8
+ một số  : 4
+ một số  : 3
+ một số  : 11
+ một số  : 1
+ trường đại học  : 7
+8
+[1, 2]
+:: [5, 2, 1]
+ko thay:  quả thuốc phiện khô  :va da add subLevel de tim kiem
+ quả  : 3
+ quả  : 6
+ quả  : 6
+ quả  : 2
+ quả  : 6
+ quả  : 1
+[3, 4]
+:: [5, 4, 3]
+ko thay:  thuốc phiện khô  :va da add subLevel de tim kiem
+ thuốc phiện  : 2
+ thuốc phiện  : 6
+ thuốc phiện  : 1
+ thuốc phiện  : 18
+ khô  : 5
+ khô  : 3
+ khô  : 5
+[6, 7]
+:: [7, 6]
+ko thay:  có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  :va da add subLevel de tim kiem
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 6
+ có  : 7
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 1
+ có  : 1
+ có  : 2
+ có  : 4
+ có  : 2
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 14
+ có  : 6
+ có  : 7
+ có  : 2
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 5
+ có  : 4
+ có  : 0
+ có  : 2
+ có  : 5
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 0
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 3
+ có  : 5
+ có  : 3
+ có  : 12
+ có  : 1
+ có  : 3
+ có  : 6
+ có  : 9
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 11
+ có  : 3
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 6
+ có  : 16
+ có  : 10
+ có  : 3
+ có  : 4
+ có  : 3
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 3
+ có  : 6
+ có  : 5
+ có  : 11
+ có  : 8
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 0
+ có  : 1
+ có  : 5
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 2
+ có  : 4
+ có  : 0
+ có  : 3
+ có  : 7
+ có  : 1
+ có  : 12
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 3
+ có  : 0
+ có  : 6
+ có  : 0
+ có  : 4
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 4
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 3
+ có  : 4
+ có  : 0
+ có  : 5
+[8, 9]
+:: [9, 8]
+ko thay:  trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  :va da add subLevel de tim kiem
+ trọng lượng  : 6
+[10]
+:: [10]
+ko thay:  từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam  :va da add subLevel de tim kiem
+[11, 12]
+:: [12, 11]
+ko thay:  từ sáu trăm ki lô gam  :va da add subLevel de tim kiem
+ từ  : 2
+ từ  : 6
+ từ  : 2
+ từ  : 0
+ từ  : 0
+ từ  : 5
+ từ  : 9
+ từ  : 6
+ từ  : 2
+ từ  : 0
+ từ  : 9
+ từ  : 3
+ từ  : 7
+ từ  : 1
+ từ  : 5
+ từ  : 9
+ từ  : 2
+ từ  : 5
+ từ  : 6
+ từ  : 0
+ từ  : 0
+ từ  : 1
+ từ  : 3
+ từ  : 5
+ từ  : 4
+[13, 14, 15]
+:: [15, 14, 13]
+ko thay:  sáu trăm ki lô gam  :va da add subLevel de tim kiem
+ sáu  : 4
+ sáu  : 8
+ sáu  : 8
+ sáu  : 7
+ sáu  : 10
+ sáu  : 1
+ sáu  : 4
+ sáu  : 3
+ sáu  : 3
+ sáu  : 8
+ sáu  : 9
+ sáu  : 3
+ sáu  : 11
+ sáu  : 10
+ sáu  : 3
+ sáu  : 7
+ sáu  : 4
+ trăm  : 7
+ trăm  : 5
+ trăm  : 5
+ trăm  : 9
+ trăm  : 5
+ trăm  : 12
+ trăm  : 5
+ trăm  : 12
+ trăm  : 9
+ trăm  : 4
+ trăm  : 8
+ trăm  : 4
+ trăm  : 9
+ trăm  : 6
+ trăm  : 6
+ trăm  : 8
+ trăm  : 2
+ trăm  : 1
+ trăm  : 8
+ trăm  : 6
+ trăm  : 3
+ trăm  : 7
+ trăm  : 6
+ trăm  : 3
+ trăm  : 1
+ trăm  : 2
+ ki lô gam  : 5
+ ki lô gam  : 15
+9
+[1, 2]
+:: [5, 2, 1]
+ko thay:  quả thuốc phiện tươi  :va da add subLevel de tim kiem
+ quả  : 3
+ quả  : 6
+ quả  : 6
+ quả  : 2
+ quả  : 6
+ quả  : 1
+[3, 4]
+:: [5, 4, 3]
+ko thay:  thuốc phiện tươi  :va da add subLevel de tim kiem
+ thuốc phiện  : 2
+ thuốc phiện  : 6
+ thuốc phiện  : 1
+ thuốc phiện  : 18
+ tươi  : 9
+[6, 7]
+:: [7, 6]
+ko thay:  có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 6
+ có  : 7
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 1
+ có  : 1
+ có  : 2
+ có  : 4
+ có  : 2
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 14
+ có  : 6
+ có  : 7
+ có  : 2
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 5
+ có  : 4
+ có  : 0
+ có  : 2
+ có  : 5
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 0
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 3
+ có  : 5
+ có  : 3
+ có  : 12
+ có  : 1
+ có  : 3
+ có  : 6
+ có  : 9
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 11
+ có  : 3
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 6
+ có  : 16
+ có  : 10
+ có  : 3
+ có  : 4
+ có  : 3
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 3
+ có  : 6
+ có  : 5
+ có  : 11
+ có  : 8
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 0
+ có  : 1
+ có  : 5
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 2
+ có  : 4
+ có  : 0
+ có  : 3
+ có  : 7
+ có  : 1
+ có  : 12
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 3
+ có  : 0
+ có  : 6
+ có  : 0
+ có  : 4
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 4
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 3
+ có  : 4
+ có  : 0
+ có  : 5
+[8, 9]
+:: [9, 8]
+ko thay:  trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ trọng lượng  : 6
+[10, 11]
+:: [11, 10]
+ko thay:  từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ từ  : 2
+ từ  : 6
+ từ  : 2
+ từ  : 0
+ từ  : 0
+ từ  : 5
+ từ  : 9
+ từ  : 6
+ từ  : 2
+ từ  : 0
+ từ  : 9
+ từ  : 3
+ từ  : 7
+ từ  : 1
+ từ  : 5
+ từ  : 9
+ từ  : 2
+ từ  : 5
+ từ  : 6
+ từ  : 0
+ từ  : 0
+ từ  : 1
+ từ  : 3
+ từ  : 5
+ từ  : 4
+[12, 13, 14, 15]
+:: [15, 14, 13, 12]
+ko thay:  một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ một trăm  : 6
+ một trăm  : 11
+ một trăm  : 7
+ một trăm  : 0
+ một trăm  : 2
+ một trăm  : 1
+ năm mươi  : 8
+ năm mươi  : 19
+ năm mươi  : 9
+ năm mươi  : 0
+ năm mươi  : 9
+ năm mươi  : 1
+ năm mươi  : 1
+ năm mươi  : 5
+ năm mươi  : 3
+ ki lô gam  : 5
+ ki lô gam  : 15
+[16, 17]
+:: [17, 16]
+ko thay:  đến dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ đến  : 9
+ đến  : 3
+ đến  : 5
+ đến  : 8
+ đến  : 2
+ đến  : 3
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 5
+ đến  : 8
+ đến  : 6
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 6
+ đến  : 2
+ đến  : 7
+ đến  : 7
+ đến  : 3
+ đến  : 1
+ đến  : 3
+ đến  : 6
+ đến  : 1
+ đến  : 3
+ đến  : 0
+ đến  : 9
+ đến  : 0
+ đến  : 0
+ đến  : 0
+ đến  : 3
+ đến  : 8
+ đến  : 6
+ đến  : 5
+ đến  : 5
+ đến  : 9
+ đến  : 7
+ đến  : 4
+ đến  : 2
+ đến  : 3
+ đến  : 7
+ đến  : 7
+ đến  : 2
+ đến  : 3
+ đến  : 8
+ đến  : 5
+ đến  : 8
+ đến  : 2
+[18, 19]
+:: [19, 18]
+ko thay:  dưới bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ dưới  : 7
+[20, 21]
+:: [21, 20]
+ko thay:  bốn trăm năm mươi ki lô gam  :va da add subLevel de tim kiem
+ bốn trăm  : 0
+[22, 23]
+:: [23, 22]
+ko thay:  năm mươi ki lô gam  :va da add subLevel de tim kiem
+ năm mươi  : 8
+ năm mươi  : 19
+ năm mươi  : 9
+ năm mươi  : 0
+ năm mươi  : 9
+ năm mươi  : 1
+ năm mươi  : 1
+ năm mươi  : 5
+ năm mươi  : 3
+ ki lô gam  : 5
+ ki lô gam  : 15
+10
+[1, 2]
+:: [7, 2, 1]
+ko thay:  đảng và nhà nước có  :va da add subLevel de tim kiem
+ko thay:  đảng  :va LP nay ko co subLevel
+[3, 4]
+:: [7, 4, 3]
+ko thay:  và nhà nước có  :va da add subLevel de tim kiem
+ và  : 0
+ và  : 4
+ và  : 0
+ và  : 0
+ và  : 0
+ và  : 7
+ và  : 0
+ và  : 0
+ và  : 0
+ và  : 6
+ và  : 0
+ và  : 0
+ và  : 4
+ và  : 0
+ và  : 7
+ và  : 0
+ và  : 0
+ và  : 5
+ và  : 8
+ và  : 0
+ và  : 8
+ và  : 6
+ và  : 0
+ và  : 5
+ và  : 0
+ và  : 7
+ và  : 4
+ và  : 10
+ và  : 5
+ và  : 5
+ và  : 2
+ và  : 11
+ và  : 3
+ và  : 0
+ và  : 0
+ và  : 0
+ và  : 4
+ và  : 3
+ và  : 0
+ và  : 0
+ và  : 1
+ và  : 1
+ và  : 0
+ và  : 3
+ và  : 4
+ và  : 0
+ và  : 6
+ và  : 0
+ và  : 11
+ và  : 5
+ và  : 0
+ và  : 13
+ và  : 7
+ và  : 0
+ và  : 2
+ và  : 9
+ và  : 2
+ và  : 0
+ và  : 0
+ và  : 8
+ và  : 0
+ và  : 2
+ và  : 2
+ và  : 4
+ và  : 0
+ và  : 6
+ và  : 0
+ và  : 5
+ và  : 6
+ và  : 0
+ và  : 1
+ và  : 0
+ và  : 7
+ và  : 7
+ và  : 0
+[5, 6]
+:: [7, 6, 5]
+ko thay:  nhà nước có  :va da add subLevel de tim kiem
+ nhà nước  : 1
+ nhà nước  : 4
+ nhà nước  : 2
+ nhà nước  : 0
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 6
+ có  : 7
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 1
+ có  : 1
+ có  : 2
+ có  : 4
+ có  : 2
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 14
+ có  : 6
+ có  : 7
+ có  : 2
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 7
+ có  : 2
+ có  : 1
+ có  : 5
+ có  : 4
+ có  : 0
+ có  : 2
+ có  : 5
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 0
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 3
+ có  : 5
+ có  : 3
+ có  : 12
+ có  : 1
+ có  : 3
+ có  : 6
+ có  : 9
+ có  : 0
+ có  : 1
+ có  : 1
+ có  : 0
+ có  : 11
+ có  : 3
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 9
+ có  : 1
+ có  : 4
+ có  : 6
+ có  : 16
+ có  : 10
+ có  : 3
+ có  : 4
+ có  : 3
+ có  : 0
+ có  : 3
+ có  : 2
+ có  : 3
+ có  : 6
+ có  : 5
+ có  : 11
+ có  : 8
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 0
+ có  : 0
+ có  : 1
+ có  : 5
+ có  : 0
+ có  : 1
+ có  : 2
+ có  : 6
+ có  : 2
+ có  : 4
+ có  : 0
+ có  : 3
+ có  : 7
+ có  : 1
+ có  : 12
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 0
+ có  : 3
+ có  : 0
+ có  : 6
+ có  : 0
+ có  : 4
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 1
+ có  : 0
+ có  : 0
+ có  : 3
+ có  : 1
+ có  : 4
+ có  : 5
+ có  : 2
+ có  : 1
+ có  : 2
+ có  : 2
+ có  : 3
+ có  : 4
+ có  : 0
+ có  : 5
+[8, 9]
+:: [9, 8]
+ko thay:  nhiều chính sách quan tâm đến hoạt động của thanh niên , sinh viên tại nước ngoài  :va da add subLevel de tim kiem
+ nhiều  : 0
+ nhiều  : 8
+ nhiều  : 1
+ nhiều  : 10
+ nhiều  : 0
+ nhiều  : 3
+ nhiều  : 0
+ nhiều  : 1
+ nhiều  : 0
+ nhiều  : 4
+ nhiều  : 8
+ nhiều  : 1
+ nhiều  : 1
+ nhiều  : 0
+ nhiều  : 1
+ nhiều  : 11
+ nhiều  : 3
+ nhiều  : 1
+ nhiều  : 6
+ nhiều  : 2
+ nhiều  : 10
+ nhiều  : 3
+ nhiều  : 4
+ nhiều  : 5
+ nhiều  : 4
+ nhiều  : 2
+ nhiều  : 7
+ nhiều  : 3
+ nhiều  : 3
+ nhiều  : 10
+ nhiều  : 1
+ nhiều  : 5
+ nhiều  : 4
+ nhiều  : 1
+ nhiều  : 8
+ nhiều  : 3
+ nhiều  : 2
+[10, 11]
+:: [11, 10]
+ko thay:  chính sách quan tâm đến hoạt động của thanh niên  :va da add subLevel de tim kiem
+ chính sách  : 5
+ chính sách  : 0
+[12, 13]
+:: [13, 12]
+ko thay:  quan tâm đến hoạt động của thanh niên  :va da add subLevel de tim kiem
+ quan tâm  : 5
+[14, 15]
+:: [15, 14]
+ko thay:  đến hoạt động của thanh niên  :va da add subLevel de tim kiem
+ đến  : 9
+ đến  : 3
+ đến  : 5
+ đến  : 8
+ đến  : 2
+ đến  : 3
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 5
+ đến  : 8
+ đến  : 6
+ đến  : 2
+ đến  : 1
+ đến  : 4
+ đến  : 6
+ đến  : 2
+ đến  : 7
+ đến  : 7
+ đến  : 3
+ đến  : 1
+ đến  : 3
+ đến  : 6
+ đến  : 1
+ đến  : 3
+ đến  : 0
+ đến  : 9
+ đến  : 0
+ đến  : 0
+ đến  : 0
+ đến  : 3
+ đến  : 8
+ đến  : 6
+ đến  : 5
+ đến  : 5
+ đến  : 9
+ đến  : 7
+ đến  : 4
+ đến  : 2
+ đến  : 3
+ đến  : 7
+ đến  : 7
+ đến  : 2
+ đến  : 3
+ đến  : 8
+ đến  : 5
+ đến  : 8
+ đến  : 2
+[16, 17]
+:: [17, 16]
+ko thay:  hoạt động của thanh niên  :va da add subLevel de tim kiem
+ hoạt động  : 8
+ hoạt động  : 4
+ hoạt động  : 10
+[18, 19]
+:: [19, 18]
+ko thay:  của thanh niên  :va da add subLevel de tim kiem
+ của  : 4
+ của  : 3
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 10
+ của  : 8
+ của  : 8
+ của  : 4
+ của  : 0
+ của  : 7
+ của  : 11
+ của  : 3
+ của  : 9
+ của  : 5
+ của  : 2
+ của  : 6
+ của  : 13
+ của  : 5
+ của  : 8
+ của  : 2
+ của  : 5
+ của  : 9
+ của  : 3
+ của  : 3
+ của  : 1
+ của  : 11
+ của  : 7
+ của  : 8
+ của  : 3
+ của  : 10
+ của  : 4
+ của  : 15
+ của  : 1
+ của  : 2
+ của  : 8
+ của  : 6
+ của  : 4
+ của  : 3
+ của  : 9
+ của  : 6
+ của  : 6
+ của  : 13
+ của  : 4
+ của  : 2
+ của  : 3
+ của  : 2
+ của  : 6
+ của  : 5
+ của  : 3
+ của  : 8
+ của  : 4
+ của  : 3
+ của  : 13
+ của  : 6
+ của  : 14
+ của  : 0
+ của  : 8
+ của  : 4
+ của  : 5
+ của  : 4
+ của  : 4
+ của  : 8
+ của  : 5
+ của  : 2
+ của  : 5
+ của  : 1
+ của  : 6
+ của  : 8
+ của  : 5
+ của  : 3
+ của  : 5
+ của  : 1
+ của  : 3
+ của  : 3
+ của  : 8
+ko thay:  thanh niên  :va LP nay ko co subLevel
+11
+[1]
+:: [19, 1]
+ko thay:  chế độ khen thuởng cho các hoạt động , các hoạt động huớng nghiệp  :va da add subLevel de tim kiem
+[2, 3]
+:: [19, 3, 2]
+ko thay:  chế độ khen thuởng cho các hoạt động  :va da add subLevel de tim kiem
+ chế độ  : 10
+[4, 5]
+:: [19, 5, 4]
+ko thay:  khen thuởng cho các hoạt động  :va da add subLevel de tim kiem
+ko thay:  khen  :va LP nay ko co subLevel
+[6, 7]
+:: [19, 7, 6]
+ko thay:  thuởng cho các hoạt động  :va da add subLevel de tim kiem
+ko thay:  thuởng  :va LP nay ko co subLevel
+[8, 9]
+:: [19, 9, 8]
+ko thay:  cho các hoạt động  :va da add subLevel de tim kiem
+ cho  : 4
+ cho  : 6
+ cho  : 5
+ cho  : 5
+ cho  : 1
+ cho  : 4
+ cho  : 6
+ cho  : 17
+ cho  : 2
+ cho  : 11
+ cho  : 4
+ cho  : 6
+ cho  : 8
+ cho  : 6
+ cho  : 3
+ cho  : 13
+ cho  : 1
+ cho  : 5
+ cho  : 2
+ cho  : 2
+ cho  : 4
+ cho  : 0
+ cho  : 2
+ cho  : 2
+ cho  : 8
+ cho  : 0
+ cho  : 3
+ cho  : 7
+ cho  : 0
+ cho  : 4
+ cho  : 0
+ cho  : 8
+ cho  : 7
+ cho  : 5
+ cho  : 7
+ cho  : 0
+ cho  : 7
+ cho  : 6
+ cho  : 3
+ cho  : 2
+ cho  : 6
+ cho  : 3
+ cho  : 1
+ cho  : 3
+ cho  : 6
+ cho  : 4
+ cho  : 4
+ cho  : 1
+ cho  : 9
+ cho  : 4
+ cho  : 2
+ cho  : 3
+ cho  : 5
+ cho  : 5
+ cho  : 4
+ cho  : 7
+ cho  : 1
+ cho  : 3
+ cho  : 2
+ cho  : 4
+ cho  : 1
+ cho  : 3
+[10, 11]
+:: [19, 11, 10]
+ko thay:  các hoạt động  :va da add subLevel de tim kiem
+ các  : 8
+ các  : 7
+ các  : 0
+ các  : 9
+ các  : 0
+ các  : 3
+ các  : 7
+ các  : 5
+ các  : 6
+ các  : 9
+ các  : 7
+ các  : 3
+ các  : 0
+ các  : 2
+ các  : 0
+ các  : 6
+ các  : 2
+ các  : 0
+ các  : 7
+ các  : 0
+ các  : 1
+ các  : 6
+ các  : 1
+ các  : 5
+ các  : 6
+ các  : 2
+ các  : 11
+ các  : 3
+ các  : 7
+ các  : 4
+ các  : 4
+ các  : 1
+ các  : 3
+ các  : 3
+ các  : 5
+ các  : 1
+ các  : 2
+ các  : 0
+ các  : 1
+ các  : 2
+ các  : 3
+ các  : 10
+ các  : 4
+ các  : 9
+ các  : 7
+ các  : 0
+ các  : 3
+ các  : 3
+ các  : 2
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 7
+ các  : 0
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 1
+ các  : 4
+ các  : 5
+ các  : 1
+ các  : 8
+ các  : 4
+ các  : 5
+ các  : 8
+ các  : 3
+ các  : 0
+ các  : 0
+ các  : 1
+ các  : 0
+ các  : 3
+ các  : 2
+ hoạt động  : 8
+ hoạt động  : 4
+ hoạt động  : 10
+[20, 21]
+:: [21, 20]
+ko thay:  chính sách giải quyết công việc cho sinh viên sau khi tốt nghiệp  :va da add subLevel de tim kiem
+ chính sách  : 5
+ chính sách  : 0
+[22, 23]
+:: [23, 22]
+ko thay:  giải quyết công việc cho sinh viên sau khi tốt nghiệp  :va da add subLevel de tim kiem
+ giải quyết  : 1
+[24, 25]
+:: [25, 24]
+ko thay:  công việc cho sinh viên sau khi tốt nghiệp  :va da add subLevel de tim kiem
+ công việc  : 4
+ công việc  : 1
+ công việc  : 11
+ công việc  : 10
+[26, 27]
+:: [27, 26]
+ko thay:  cho sinh viên sau khi tốt nghiệp  :va da add subLevel de tim kiem
+ cho  : 4
+ cho  : 6
+ cho  : 5
+ cho  : 5
+ cho  : 1
+ cho  : 4
+ cho  : 6
+ cho  : 17
+ cho  : 2
+ cho  : 11
+ cho  : 4
+ cho  : 6
+ cho  : 8
+ cho  : 6
+ cho  : 3
+ cho  : 13
+ cho  : 1
+ cho  : 5
+ cho  : 2
+ cho  : 2
+ cho  : 4
+ cho  : 0
+ cho  : 2
+ cho  : 2
+ cho  : 8
+ cho  : 0
+ cho  : 3
+ cho  : 7
+ cho  : 0
+ cho  : 4
+ cho  : 0
+ cho  : 8
+ cho  : 7
+ cho  : 5
+ cho  : 7
+ cho  : 0
+ cho  : 7
+ cho  : 6
+ cho  : 3
+ cho  : 2
+ cho  : 6
+ cho  : 3
+ cho  : 1
+ cho  : 3
+ cho  : 6
+ cho  : 4
+ cho  : 4
+ cho  : 1
+ cho  : 9
+ cho  : 4
+ cho  : 2
+ cho  : 3
+ cho  : 5
+ cho  : 5
+ cho  : 4
+ cho  : 7
+ cho  : 1
+ cho  : 3
+ cho  : 2
+ cho  : 4
+ cho  : 1
+ cho  : 3
+[28, 29, 30]
+:: [30, 29, 28]
+ko thay:  sinh viên sau khi tốt nghiệp  :va da add subLevel de tim kiem
+ sinh viên  : 3
+ sinh viên  : 3
+ sinh viên  : 9
+ sinh viên  : 4
+ sinh viên  : 5
+ sinh viên  : 7
+ sau  : 0
+ sau  : 1
+ sau  : 8
+ sau  : 0
+ sau  : 1
+ sau  : 2
+ sau  : 5
+ sau  : 0
+ sau  : 0
+ sau  : 1
+ sau  : 0
+ sau  : 0
+ sau  : 1
+ sau  : 15
+ sau  : 6
+ sau  : 3
+ sau  : 8
+ sau  : 12
+ sau  : 1
+ sau  : 0
+ sau  : 1
+ sau  : 1
+ khi tốt nghiệp  : 18
+ khi tốt nghiệp  : 7
+BUILD SUCCESSFUL (total time: 1 second)

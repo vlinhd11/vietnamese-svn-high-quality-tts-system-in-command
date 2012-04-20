@@ -1,0 +1,1313 @@
+<?xml version="1.0" ?>
+<root>
+    <sentence id="1">tôi là một độc giả thường xuyên của chuyên mục tâm sự
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">là một độc giả thường xuyên của chuyên mục tâm sự
+                <V level="2" explain="động từ">là</V>
+                <NP level="2" explain="cụm danh từ">một độc giả thường xuyên của chuyên mục tâm sự
+                    <M level="3" explain="số từ">một</M>
+                    <NP level="3" explain="cụm danh từ">độc giả thường xuyên của chuyên mục tâm sự
+                        <N level="4" explain="danh từ">độc giả</N>
+							<N level="4" explain="danh từ">độc giả
+								<N level="5" explain="danh từ">độc</N>
+								<N level="5" explain="danh từ">giả</N>
+							</N>
+                        <AP level="4" explain="cụm tính từ">thường xuyên của chuyên mục tâm sự
+                            <A level="5" explain="tính từ">thường xuyên</A>
+                            <PP level="5" explain="cụm giới từ">của chuyên mục tâm sự
+                                <C level="6" explain="giới từ">của</C>
+                                <NP level="6" explain="cụm danh từ">chuyên mục tâm sự
+                                    <N level="7" explain="danh từ">chuyên mục
+										<N level="8" explain="danh từ">chuyên</N>
+										<N level="8" explain="danh từ">mục</N>
+									</N>										
+                                    <V level="7" explain="động từ">tâm sự</V>
+                                </NP>
+                            </PP>
+                        </AP>
+                    </NP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="2">tôi theo dõi xem có tình huống nào giống mình không để rút kinh nghiệm cho bản thân nhưng không thấy
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">theo dõi xem có tình huống nào giống mình không để rút kinh nghiệm cho bản thân nhưng không thấy
+                <VP level="2" explain="cụm động từ">theo dõi xem có tình huống nào giống mình không
+                    <V level="3" explain="động từ">theo dõi
+						<V level="4" explain="động từ">theo</V>
+						<V level="4" explain="động từ">dõi</V>
+					</V>
+                    <VP level="3" explain="cụm động từ">xem có tình huống nào giống mình không
+                        <V level="4" explain="động từ">xem</V>
+                        <VP level="4" explain="cụm động từ">có tình huống nào giống mình không
+                            <V level="5" explain="động từ">có</V>
+                            <NP level="5" explain="cụm danh từ">tình huống nào giống mình
+                                <N level="6" explain="danh từ">tình huống</N>
+                                <P level="6" explain="đại từ">nào</P>
+                                <AP level="6" explain="cụm tính từ">giống mình
+                                    <A level="7" explain="tính từ">giống</A>
+                                    <P level="7" explain="đại từ">mình</P>
+                                </AP>
+                            </NP>
+                            <R level="5" explain="phụ từ">không</R>
+                        </VP>
+                    </VP>
+                </VP>
+                <C level="2" explain="giới từ">để</C>
+                <VP level="2" explain="cụm động từ">rút kinh nghiệm cho bản thân nhưng không thấy
+                    <V level="3" explain="động từ">rút</V>
+                    <NP level="3" explain="cụm danh từ">kinh nghiệm cho bản thân nhưng không thấy
+                        <N level="4" explain="danh từ">kinh nghiệm
+							<N level="5" explain="danh từ">kinh</N>
+							<N level="5" explain="danh từ">nghiệm</N>
+						</N>
+                        <PP level="4" explain="cụm giới từ">cho bản thân nhưng không thấy
+                            <C level="5" explain="giới từ">cho</C>
+                            <NP level="5" explain="cụm danh từ">bản thân nhưng không thấy
+                                <N level="6" explain="danh từ">bản thân</N>
+                                <PP level="6" explain="cụm giới từ">nhưng không thấy
+                                    <C level="7" explain="giới từ">nhưng</C>
+                                    <VP level="7" explain="cụm động từ">không thấy
+                                        <R level="8" explain="phụ từ">không</R>
+                                        <V level="8" explain="động từ">thấy</V>
+                                    </VP>
+                                </PP>
+                            </NP>
+                        </PP>
+                    </NP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="3">hôm nay tôi muốn gửi tâm sự của mình , rất mong các bạn cho tôi những lời khuyên bổ ích
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">hôm nay tôi
+                <N level="2" explain="danh từ">hôm nay</N>
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">muốn gửi tâm sự của mình , rất mong các bạn cho tôi những lời khuyên bổ ích
+                <V level="2" explain="động từ">muốn</V>
+                <VP level="2" explain="cụm động từ">gửi tâm sự của mình , rất mong các bạn cho tôi những lời khuyên bổ ích
+                    <VP level="3" explain="cụm động từ">gửi tâm sự của mình
+                        <V level="4" explain="động từ">gửi</V>
+                        <VP level="4" explain="cụm động từ">tâm sự của mình
+                            <V level="5" explain="động từ">tâm sự</V>
+                            <C level="5" explain="giới từ">của</C>
+                            <P level="5" explain="đại từ">mình</P>
+                        </VP>
+                    </VP>
+                    <punc level="3">,</punc>
+                    <VP level="3" explain="cụm động từ">rất mong các bạn cho tôi những lời khuyên bổ ích
+                        <R level="4" explain="phụ từ">rất</R>
+                        <V level="4" explain="động từ">mong</V>
+                        <NP level="4" explain="cụm danh từ">các bạn cho tôi những lời khuyên bổ ích
+                            <N level="5" explain="danh từ">các</N>
+                            <N level="5" explain="danh từ">bạn</N>
+                            <PP level="5" explain="cụm giới từ">cho tôi những lời khuyên bổ ích
+                                <C level="6" explain="giới từ">cho</C>
+                                <NP level="6" explain="cụm danh từ">tôi những lời khuyên bổ ích
+                                    <P level="7" explain="đại từ">tôi</P>
+                                    <N level="7" explain="danh từ">những</N>
+                                    <N level="7" explain="danh từ">lời</N>
+                                    <VP level="7" explain="cụm động từ">khuyên bổ ích
+                                        <V level="8" explain="động từ">khuyên</V>
+                                        <A level="8" explain="tính từ">bổ ích
+											<A level="9" explain="tính từ">bổ</A>
+											<A level="9" explain="tính từ">ích</A>
+										</A>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </NP>
+                    </VP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="4">tôi ba mươi bốn tuổi , là bác sĩ
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi ba mươi bốn tuổi
+                <NP level="2" explain="cụm danh từ">tôi
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+                <NP level="2" explain="cụm danh từ">ba mươi bốn tuổi
+                    <N level="3" explain="danh từ">ba mươi</N>
+                    <M level="3" explain="số từ">bốn</M>
+                    <N level="3" explain="danh từ">tuổi</N>
+                </NP>
+            </NP>
+            <punc level="1">,</punc>
+            <VP level="1" explain="cụm động từ">là bác sĩ
+                <V level="2" explain="động từ">là</V>
+                <N level="2" explain="danh từ">bác sĩ</N>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="5">đã lập gia đình mười năm và có một bé trai , một bé gái
+        <parse id="1">
+            <VP level="1" explain="cụm động từ">đã lập gia đình mười năm
+                <R level="2" explain="phụ từ">đã</R>
+                <V level="2" explain="động từ">lập</V>
+                <NP level="2" explain="cụm danh từ">gia đình mười năm
+                    <N level="3" explain="danh từ">gia đình</N>
+                    <M level="3" explain="số từ">mười</M>
+                    <N level="3" explain="danh từ">năm</N>
+                </NP>
+            </VP>
+            <C level="1" explain="giới từ">và</C>
+            <VP level="1" explain="cụm động từ">có một bé trai , một bé gái
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">một bé trai , một bé gái
+                    <M level="3" explain="số từ">một</M>
+                    <NP level="3" explain="cụm danh từ">bé trai , một bé gái
+                        <N level="4" explain="danh từ">bé</N>
+                        <N level="4" explain="danh từ">trai</N>
+                        <punc level="4">,</punc>
+                        <NP level="4" explain="cụm danh từ">một bé gái
+                            <M level="5" explain="số từ">một</M>
+                            <NP level="5" explain="cụm danh từ">bé gái
+                                <N level="6" explain="danh từ">bé</N>
+                                <N level="6" explain="danh từ">gái</N>
+                            </NP>
+                        </NP>
+                    </NP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="6">nhìn chung vợ chồng tôi sống hoà thuận , nhường nhịn nhau
+        <parse id="1">
+            <VP level="1" explain="cụm động từ">nhìn chung vợ chồng tôi
+                <V level="2" explain="động từ">nhìn chung
+                    <U level="3" explain="null">nhìn</U>
+					<U level="3" explain="null">chung</U>
+                </V>
+                <NP level="2" explain="cụm danh từ">vợ chồng tôi
+                    <N level="3" explain="danh từ">vợ chồng
+						<N level="4" explain="danh từ">vợ</N>
+						<N level="4" explain="danh từ">chồng</N>
+					</N>					
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+            </VP>
+            <VP level="1" explain="cụm động từ">sống hoà thuận , nhường nhịn nhau
+                <VP level="2" explain="cụm động từ">sống hoà thuận
+                    <V level="3" explain="động từ">sống</V>
+                    <A level="3" explain="tính từ">hoà thuận
+						<A level="4" explain="tính từ">hoà</A>
+						<A level="4" explain="tính từ">thuận</A>
+					</A>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">nhường nhịn nhau
+                    <V level="3" explain="động từ">nhường nhịn</V>
+                    <N level="3" explain="danh từ">nhau</N>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="7">chồng tôi là một người tốt , thương yêu vợ con
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">chồng tôi
+                <N level="2" explain="danh từ">chồng</N>
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">là một người tốt , thương yêu vợ con
+                <VP level="2" explain="cụm động từ">là một người tốt
+                    <V level="3" explain="động từ">là</V>
+                    <NP level="3" explain="cụm danh từ">một người tốt
+                        <M level="4" explain="số từ">một</M>
+                        <NP level="4" explain="cụm danh từ">người tốt
+                            <N level="5" explain="danh từ">người</N>
+                            <A level="5" explain="tính từ">tốt</A>
+                        </NP>
+                    </NP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">thương yêu vợ con
+                    <V level="3" explain="động từ">thương yêu
+						<V level="4" explain="động từ">thương</V>
+						<V level="4" explain="động từ">yêu</V>
+					</V>
+                    <N level="3" explain="danh từ">vợ con</N>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="8">nhìn bề ngoài , ai cũng bảo tôi là người vợ hạnh phúc
+        <parse id="1">
+            <VP level="1" explain="cụm động từ">nhìn bề ngoài
+                <V level="2" explain="động từ">nhìn</V>
+                <N level="2" explain="danh từ">bề ngoài
+					<N level="3" explain="danh từ">bề</N>
+					<N level="3" explain="danh từ">ngoài</N>
+				</N>				
+            </VP>
+            <punc level="1">,</punc>
+            <NP level="1" explain="cụm danh từ">ai
+                <P level="2" explain="đại từ">ai</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">cũng bảo tôi là người vợ hạnh phúc
+                <R level="2" explain="phụ từ">cũng</R>
+                <V level="2" explain="động từ">bảo</V>
+                <NP level="2" explain="cụm danh từ">tôi là người vợ hạnh phúc
+                    <P level="3" explain="đại từ">tôi</P>
+                    <VP level="3" explain="cụm động từ">là người vợ hạnh phúc
+                        <V level="4" explain="động từ">là</V>
+                        <NP level="4" explain="cụm danh từ">người vợ hạnh phúc
+                            <N level="5" explain="danh từ">người</N>
+                            <NP level="5" explain="cụm danh từ">vợ hạnh phúc
+                                <N level="6" explain="danh từ">vợ</N>
+                                <A level="6" explain="tính từ">hạnh phúc</A>
+                            </NP>
+                        </NP>
+                    </VP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="9">nhưng có những điều khổ sở mà chẳng biết tâm sự cùng ai
+        <parse id="1">
+            <C level="1" explain="giới từ">nhưng</C>
+            <VP level="1" explain="cụm động từ">có những điều khổ sở mà chẳng biết tâm sự cùng ai
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">những điều khổ sở mà chẳng biết tâm sự cùng ai
+                    <N level="3" explain="danh từ">những</N>
+                    <N level="3" explain="danh từ">điều</N>
+                    <AP level="3" explain="cụm tính từ">khổ sở mà chẳng biết tâm sự cùng ai
+                        <A level="4" explain="tính từ">khổ sở
+							<A level="5" explain="tính từ">khổ</A>
+							<A level="5" explain="tính từ">sở</A>
+						</A>
+                        <PP level="4" explain="cụm giới từ">mà chẳng biết tâm sự cùng ai
+                            <C level="5" explain="giới từ">mà</C>
+                            <VP level="5" explain="cụm động từ">chẳng biết tâm sự cùng ai
+                                <R level="6" explain="phụ từ">chẳng</R>
+                                <V level="6" explain="động từ">biết</V>
+                                <VP level="6" explain="cụm động từ">tâm sự cùng ai
+                                    <V level="7" explain="động từ">tâm sự</V>
+                                    <C level="7" explain="giới từ">cùng</C>
+                                    <P level="7" explain="đại từ">ai</P>
+                                </VP>
+                            </VP>
+                        </PP>
+                    </AP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="10"> đó là thói quen sinh hoạt bẩn thỉu và luộm thuộm của chồng tôi
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">đó
+                <P level="2" explain="đại từ">đó</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">là thói quen sinh hoạt bẩn thỉu và luộm thuộm của chồng tôi
+                <V level="2" explain="động từ">là</V>
+                <NP level="2" explain="cụm danh từ">thói quen sinh hoạt bẩn thỉu và luộm thuộm của chồng tôi
+                    <N level="3" explain="danh từ">thói quen</N>
+                    <VP level="3" explain="cụm động từ">sinh hoạt bẩn thỉu và luộm thuộm của chồng tôi
+                        <V level="4" explain="động từ">sinh hoạt</V>
+                        <AP level="4" explain="cụm tính từ">bẩn thỉu và luộm thuộm
+                            <A level="5" explain="tính từ">bẩn thỉu</A>
+                            <C level="5" explain="giới từ">và</C>
+                            <A level="5" explain="tính từ">luộm thuộm</A>
+                        </AP>
+                        <PP level="4" explain="cụm giới từ">của chồng tôi
+                            <C level="5" explain="giới từ">của</C>
+                            <NP level="5" explain="cụm danh từ">chồng tôi
+                                <N level="6" explain="danh từ">chồng</N>
+                                <P level="6" explain="đại từ">tôi</P>
+                            </NP>
+                        </PP>
+                    </VP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="11"> mỗi bữa ăn anh ấy uống năm đến sáu chén rượu , trừ buổi sáng , mỗi ngày hút hai gói thuốc lá , nhưng hầu như không đánh răng , rửa tay , tắm rửa
+        <parse id="1">
+            <S level="1" explain="Câu">mỗi bữa ăn anh ấy uống năm đến sáu chén rượu , trừ buổi sáng
+                <NP level="2" explain="cụm danh từ">mỗi bữa ăn anh ấy
+                    <N level="3" explain="danh từ">mỗi</N>
+                    <NP level="3" explain="cụm danh từ">bữa ăn anh ấy
+                        <N level="4" explain="danh từ">bữa</N>
+                        <V level="4" explain="động từ">ăn</V>
+                        <P level="4" explain="đại từ">anh ấy</P>
+                    </NP>
+                </NP>
+                <VP level="2" explain="cụm động từ">uống năm đến sáu chén rượu , trừ buổi sáng
+                    <V level="3" explain="động từ">uống</V>
+                    <NP level="3" explain="cụm danh từ">năm đến sáu chén rượu , trừ buổi sáng
+                        <N level="4" explain="danh từ">năm</N>
+                        <VP level="4" explain="cụm động từ">đến sáu chén rượu
+                            <V level="5" explain="động từ">đến</V>
+                            <NP level="5" explain="cụm danh từ">sáu chén rượu
+                                <M level="6" explain="số từ">sáu</M>
+                                <NP level="6" explain="cụm danh từ">chén rượu
+                                    <N level="7" explain="danh từ">chén</N>
+                                    <N level="7" explain="danh từ">rượu</N>
+                                </NP>
+                            </NP>
+                        </VP>
+                        <punc level="4">,</punc>
+                        <VP level="4" explain="cụm động từ">trừ buổi sáng
+                            <V level="5" explain="động từ">trừ</V>
+                            <N level="5" explain="danh từ">buổi sáng</N>
+                        </VP>
+                    </NP>
+                </VP>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">mỗi ngày hút hai gói thuốc lá , nhưng hầu như không đánh răng , rửa tay , tắm rửa
+                <NP level="2" explain="cụm danh từ">mỗi ngày hút hai gói thuốc lá , nhưng hầu như không đánh răng , rửa tay ,
+                    <N level="3" explain="danh từ">mỗi</N>
+                    <NP level="3" explain="cụm danh từ">ngày hút hai gói thuốc lá , nhưng hầu như không đánh răng , rửa tay ,
+                        <N level="4" explain="danh từ">ngày</N>
+                        <VP level="4" explain="cụm động từ">hút hai gói thuốc lá , nhưng hầu như không đánh răng
+                            <VP level="5" explain="cụm động từ">hút hai gói thuốc lá
+                                <V level="6" explain="động từ">hút</V>
+                                <NP level="6" explain="cụm danh từ">hai gói thuốc lá
+                                    <M level="7" explain="số từ">hai</M>
+                                    <NP level="7" explain="cụm danh từ">gói thuốc lá
+                                        <N level="8" explain="danh từ">gói</N>
+                                        <N level="8" explain="danh từ">thuốc lá</N>
+                                    </NP>
+                                </NP>
+                            </VP>
+                            <punc level="5">,</punc>
+                            <C level="5" explain="giới từ">nhưng</C>
+                            <VP level="5" explain="cụm động từ">hầu như không đánh răng
+                                <RP level="6" explain="cụm phụ từ">hầu như không
+                                    <R level="7" explain="phụ từ">hầu như</R>
+                                    <R level="7" explain="phụ từ">không</R>
+                                </RP>
+                                <VP level="6" explain="cụm động từ">đánh răng
+                                    <V level="7" explain="động từ">đánh</V>
+                                    <N level="7" explain="danh từ">răng</N>
+                                </VP>
+                            </VP>
+                        </VP>
+                        <punc level="4">,</punc>
+                        <VP level="4" explain="cụm động từ">rửa tay
+                            <V level="5" explain="động từ">rửa</V>
+                            <N level="5" explain="danh từ">tay</N>
+                        </VP>
+                        <punc level="4">,</punc>
+                    </NP>
+                </NP>
+                <V level="2" explain="động từ">tắm rửa</V>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="12"> tôi đã có nhiều biện pháp nhưng nay tôi cảm thấy đã mệt mỏi
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">đã có nhiều biện pháp nhưng nay tôi cảm thấy đã mệt mỏi
+                <R level="2" explain="phụ từ">đã</R>
+                <V level="2" explain="động từ">có</V>
+                <AP level="2" explain="cụm tính từ">nhiều biện pháp nhưng nay tôi
+                    <A level="3" explain="tính từ">nhiều</A>
+                    <NP level="3" explain="cụm danh từ">biện pháp nhưng nay tôi
+                        <N level="4" explain="danh từ">biện pháp</N>
+                        <PP level="4" explain="cụm giới từ">nhưng nay tôi
+                            <C level="5" explain="giới từ">nhưng</C>
+                            <NP level="5" explain="cụm danh từ">nay tôi
+                                <N level="6" explain="danh từ">nay</N>
+                                <P level="6" explain="đại từ">tôi</P>
+                            </NP>
+                        </PP>
+                    </NP>
+                </AP>
+                <VP level="2" explain="cụm động từ">cảm thấy đã mệt mỏi
+                    <V level="3" explain="động từ">cảm thấy</V>
+                    <AP level="3" explain="cụm tính từ">đã mệt mỏi
+                        <R level="4" explain="phụ từ">đã</R>
+                        <A level="4" explain="tính từ">mệt mỏi</A>
+                    </AP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="13"> từ nói khéo , giận dỗi , nói thẳng
+        <parse id="1">
+            <C level="1" explain="giới từ">từ</C>
+            <VP level="1" explain="cụm động từ">nói khéo , giận dỗi , nói thẳng
+                <V level="2" explain="động từ">nói khéo</V>
+                <punc level="2">,</punc>
+                <V level="2" explain="động từ">giận dỗi</V>
+                <punc level="2">,</punc>
+                <V level="2" explain="động từ">nói thẳng</V>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="14"> lúc đầu lấy lý do vì sức khoẻ tôi khuyên anh uống ít , và giảm thuốc
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">lúc đầu lấy lý do vì sức khoẻ tôi
+                <N level="2" explain="danh từ">lúc</N>
+                <N level="2" explain="danh từ">đầu</N>
+                <VP level="2" explain="cụm động từ">lấy lý do vì sức khoẻ tôi
+                    <V level="3" explain="động từ">lấy</V>
+                    <NP level="3" explain="cụm danh từ">lý do vì sức khoẻ tôi
+                        <N level="4" explain="danh từ">lý do</N>
+                        <PP level="4" explain="cụm giới từ">vì sức khoẻ tôi
+                            <C level="5" explain="giới từ">vì</C>
+                            <NP level="5" explain="cụm danh từ">sức khoẻ tôi
+                                <N level="6" explain="danh từ">sức khoẻ</N>
+                                <P level="6" explain="đại từ">tôi</P>
+                            </NP>
+                        </PP>
+                    </NP>
+                </VP>
+            </NP>
+            <VP level="1" explain="cụm động từ">khuyên anh uống ít , và giảm thuốc
+                <VP level="2" explain="cụm động từ">khuyên anh uống ít ,
+                    <V level="3" explain="động từ">khuyên</V>
+                    <NP level="3" explain="cụm danh từ">anh uống ít ,
+                        <N level="4" explain="danh từ">anh</N>
+                        <VP level="4" explain="cụm động từ">uống ít
+                            <V level="5" explain="động từ">uống</V>
+                            <A level="5" explain="tính từ">ít</A>
+                        </VP>
+                        <punc level="4">,</punc>
+                    </NP>
+                </VP>
+                <C level="2" explain="giới từ">và</C>
+                <VP level="2" explain="cụm động từ">giảm thuốc
+                    <V level="3" explain="động từ">giảm</V>
+                    <N level="3" explain="danh từ">thuốc</N>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="15"> anh ấy trả lời rằng , anh nghe em tất cả , trừ hai vấn đề này
+        <parse id="1">
+            <S level="1" explain="Câu">anh ấy trả lời
+                <NP level="2" explain="cụm danh từ">anh ấy
+                    <P level="3" explain="đại từ">anh ấy</P>
+                </NP>
+                <V level="2" explain="động từ">trả lời</V>
+            </S>
+            <S level="1" explain="Câu">rằng , anh nghe em tất cả , trừ hai vấn đề này
+                <C level="2" explain="giới từ">rằng</C>
+                <punc level="2">,</punc>
+                <NP level="2" explain="cụm danh từ">anh nghe em tất cả ,
+                    <N level="3" explain="danh từ">anh</N>
+                    <VP level="3" explain="cụm động từ">nghe em tất cả
+                        <V level="4" explain="động từ">nghe</V>
+                        <NP level="4" explain="cụm danh từ">em tất cả
+                            <N level="5" explain="danh từ">em</N>
+                            <P level="5" explain="đại từ">tất cả</P>
+                        </NP>
+                    </VP>
+                    <punc level="3">,</punc>
+                </NP>
+                <VP level="2" explain="cụm động từ">trừ hai vấn đề này
+                    <V level="3" explain="động từ">trừ</V>
+                    <NP level="3" explain="cụm danh từ">hai vấn đề này
+                        <M level="4" explain="số từ">hai</M>
+                        <NP level="4" explain="cụm danh từ">vấn đề này
+                            <N level="5" explain="danh từ">vấn đề</N>
+                            <P level="5" explain="đại từ">này</P>
+                        </NP>
+                    </NP>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="16"> mà đúng thế thật</sentence>
+    <sentence id="17"> mọi vấn đề khác anh rất chiều tôi , nhưng rượu và thuốc anh không bỏ
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">mọi vấn đề khác anh rất chiều tôi , nhưng rượu và thuốc anh
+                <N level="2" explain="danh từ">mọi</N>
+                <N level="2" explain="danh từ">vấn đề</N>
+                <AP level="2" explain="cụm tính từ">khác anh rất chiều tôi ,
+                    <A level="3" explain="tính từ">khác</A>
+                    <NP level="3" explain="cụm danh từ">anh rất chiều tôi
+                        <N level="4" explain="danh từ">anh</N>
+                        <NP level="4" explain="cụm danh từ">rất chiều tôi
+                            <R level="5" explain="phụ từ">rất</R>
+                            <N level="5" explain="danh từ">chiều</N>
+                            <P level="5" explain="đại từ">tôi</P>
+                        </NP>
+                    </NP>
+                    <punc level="3">,</punc>
+                </AP>
+                <PP level="2" explain="cụm giới từ">nhưng rượu và thuốc anh
+                    <C level="3" explain="giới từ">nhưng</C>
+                    <NP level="3" explain="cụm danh từ">rượu và thuốc anh
+                        <N level="4" explain="danh từ">rượu</N>
+                        <PP level="4" explain="cụm giới từ">và thuốc anh
+                            <C level="5" explain="giới từ">và</C>
+                            <NP level="5" explain="cụm danh từ">thuốc anh
+                                <N level="6" explain="danh từ">thuốc</N>
+                                <N level="6" explain="danh từ">anh</N>
+                            </NP>
+                        </PP>
+                    </NP>
+                </PP>
+            </NP>
+            <VP level="1" explain="cụm động từ">không bỏ
+                <R level="2" explain="phụ từ">không</R>
+                <V level="2" explain="động từ">bỏ</V>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="18"> các bạn biết không tôi thường xuyên nhắc nhở chồng đi tắm , đánh răng trước khi đi ngủ
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">các bạn biết không tôi
+                <N level="2" explain="danh từ">các</N>
+                <N level="2" explain="danh từ">bạn</N>
+                <VP level="2" explain="cụm động từ">biết không tôi
+                    <V level="3" explain="động từ">biết</V>
+                    <NP level="3" explain="cụm danh từ">không tôi
+                        <R level="4" explain="phụ từ">không</R>
+                        <P level="4" explain="đại từ">tôi</P>
+                    </NP>
+                </VP>
+            </NP>
+            <AP level="1" explain="cụm tính từ">thường xuyên nhắc nhở chồng đi tắm , đánh răng trước khi đi ngủ
+                <A level="2" explain="tính từ">thường xuyên</A>
+                <VP level="2" explain="cụm động từ">nhắc nhở chồng đi tắm , đánh răng trước khi đi ngủ
+                    <V level="3" explain="động từ">nhắc nhở</V>
+                    <NP level="3" explain="cụm danh từ">chồng đi tắm , đánh răng trước khi đi ngủ
+                        <N level="4" explain="danh từ">chồng</N>
+                        <VP level="4" explain="cụm động từ">đi tắm
+                            <V level="5" explain="động từ">đi</V>
+                            <V level="5" explain="động từ">tắm</V>
+                        </VP>
+                        <punc level="4">,</punc>
+                        <VP level="4" explain="cụm động từ">đánh răng trước khi đi ngủ
+                            <V level="5" explain="động từ">đánh</V>
+                            <NP level="5" explain="cụm danh từ">răng trước khi đi ngủ
+                                <N level="6" explain="danh từ">răng</N>
+                                <NP level="6" explain="cụm danh từ">trước khi đi ngủ
+                                    <N level="7" explain="danh từ">trước</N>
+                                    <N level="7" explain="danh từ">khi</N>
+                                    <VP level="7" explain="cụm động từ">đi ngủ
+                                        <V level="8" explain="động từ">đi</V>
+                                        <V level="8" explain="động từ">ngủ</V>
+                                    </VP>
+                                </NP>
+                            </NP>
+                        </VP>
+                    </NP>
+                </VP>
+            </AP>
+        </parse>
+    </sentence>
+    <sentence id="19"> thậm chí nhiều lúc tôi phải rửa mặt , lau tay , tắm rửa cho anh ấy vì tôi không thể ngủ được vì mùi cơ thể của anh
+        <parse id="1">
+            <AP level="1" explain="cụm tính từ">thậm chí nhiều
+                <R level="2" explain="phụ từ">thậm chí</R>
+                <A level="2" explain="tính từ">nhiều</A>
+            </AP>
+            <NP level="1" explain="cụm danh từ">lúc tôi
+                <N level="2" explain="danh từ">lúc</N>
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">phải rửa mặt , lau tay , tắm rửa cho anh ấy vì tôi không thể ngủ được vì mùi cơ thể của anh
+                <VP level="2" explain="cụm động từ">phải rửa mặt
+                    <V level="3" explain="động từ">phải</V>
+                    <VP level="3" explain="cụm động từ">rửa mặt
+                        <V level="4" explain="động từ">rửa</V>
+                        <N level="4" explain="danh từ">mặt</N>
+                    </VP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">lau tay
+                    <V level="3" explain="động từ">lau</V>
+                    <N level="3" explain="danh từ">tay</N>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">tắm rửa cho anh ấy vì tôi không thể ngủ được vì mùi cơ thể của anh
+                    <V level="3" explain="động từ">tắm rửa</V>
+                    <PP level="3" explain="cụm giới từ">cho anh ấy vì tôi không thể ngủ được vì mùi cơ thể của anh
+                        <C level="4" explain="giới từ">cho</C>
+                        <NP level="4" explain="cụm danh từ">anh ấy vì tôi không thể ngủ được vì mùi cơ thể của anh
+                            <P level="5" explain="đại từ">anh ấy</P>
+                            <PP level="5" explain="cụm giới từ">vì tôi không thể ngủ được vì mùi cơ thể của anh
+                                <C level="6" explain="giới từ">vì</C>
+                                <NP level="6" explain="cụm danh từ">tôi không thể ngủ được vì mùi cơ thể của anh
+                                    <P level="7" explain="đại từ">tôi</P>
+                                    <VP level="7" explain="cụm động từ">không thể ngủ được vì mùi cơ thể của anh
+                                        <R level="8" explain="phụ từ">không thể</R>
+                                        <V level="8" explain="động từ">ngủ</V>
+                                        <VP level="8" explain="cụm động từ">được vì mùi cơ thể của anh
+                                            <V level="9" explain="động từ">được</V>
+                                            <PP level="9" explain="cụm giới từ">vì mùi cơ thể của anh
+                                                <C level="10" explain="giới từ">vì</C>
+                                                <NP level="10" explain="cụm danh từ">mùi cơ thể của anh
+                                                    <N level="11" explain="danh từ">mùi</N>
+                                                    <NP level="11" explain="cụm danh từ">cơ thể của anh
+                                                        <N level="12" explain="danh từ">cơ thể</N>
+                                                        <C level="12" explain="giới từ">của</C>
+                                                        <N level="12" explain="danh từ">anh</N>
+                                                    </NP>
+                                                </NP>
+                                            </PP>
+                                        </VP>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </NP>
+                    </PP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="20"> khi tôi mệt , hoặc vì lý do gì đó mà vợ chồng không thể quan hệ được thì anh không hề vệ sinh cá nhân , một ngày , hai ngày , hay cả tuần cũng vậy
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">khi tôi mệt
+                <NP level="2" explain="cụm danh từ">khi tôi
+                    <N level="3" explain="danh từ">khi</N>
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+                <A level="2" explain="tính từ">mệt</A>
+            </NP>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">hoặc vì lý do gì đó mà vợ chồng không thể quan hệ được thì anh không hề vệ sinh cá nhân , một ngày , hai ngày , hay cả tuần cũng vậy
+                <C level="2" explain="giới từ">hoặc</C>
+                <C level="2" explain="giới từ">vì</C>
+                <NP level="2" explain="cụm danh từ">lý do gì đó mà vợ chồng không thể quan hệ
+                    <N level="3" explain="danh từ">lý do</N>
+                    <NP level="3" explain="cụm danh từ">gì đó
+                        <P level="4" explain="đại từ">gì</P>
+                        <P level="4" explain="đại từ">đó</P>
+                    </NP>
+                    <PP level="3" explain="cụm giới từ">mà vợ chồng không thể quan hệ
+                        <C level="4" explain="giới từ">mà</C>
+                        <NP level="4" explain="cụm danh từ">vợ chồng không thể quan hệ
+                            <N level="5" explain="danh từ">vợ chồng</N>
+                            <NP level="5" explain="cụm danh từ">không thể quan hệ
+                                <R level="6" explain="phụ từ">không thể</R>
+                                <N level="6" explain="danh từ">quan hệ</N>
+                            </NP>
+                        </NP>
+                    </PP>
+                </NP>
+                <VP level="2" explain="cụm động từ">được thì anh không hề vệ sinh cá nhân , một ngày , hai ngày , hay cả tuần cũng vậy
+                    <V level="3" explain="động từ">được</V>
+                    <PP level="3" explain="cụm giới từ">thì anh không hề vệ sinh cá nhân ,
+                        <C level="4" explain="giới từ">thì</C>
+                        <NP level="4" explain="cụm danh từ">anh không hề vệ sinh cá nhân ,
+                            <N level="5" explain="danh từ">anh</N>
+                            <VP level="5" explain="cụm động từ">không hề vệ sinh cá nhân
+                                <R level="6" explain="phụ từ">không</R>
+                                <V level="6" explain="động từ">hề</V>
+                                <NP level="6" explain="cụm danh từ">vệ sinh cá nhân
+                                    <N level="7" explain="danh từ">vệ sinh</N>
+                                    <N level="7" explain="danh từ">cá nhân</N>
+                                </NP>
+                            </VP>
+                            <punc level="5">,</punc>
+                        </NP>
+                    </PP>
+                    <NP level="3" explain="cụm danh từ">một ngày , hai ngày , hay cả tuần cũng vậy
+                        <NP level="4" explain="cụm danh từ">một ngày
+                            <M level="5" explain="số từ">một</M>
+                            <N level="5" explain="danh từ">ngày</N>
+                        </NP>
+                        <punc level="4">,</punc>
+                        <NP level="4" explain="cụm danh từ">hai ngày
+                            <M level="5" explain="số từ">hai</M>
+                            <N level="5" explain="danh từ">ngày</N>
+                        </NP>
+                        <punc level="4">,</punc>
+                        <C level="4" explain="giới từ">hay</C>
+                        <NP level="4" explain="cụm danh từ">cả tuần cũng vậy
+                            <P level="5" explain="đại từ">cả</P>
+                            <NP level="5" explain="cụm danh từ">tuần cũng vậy
+                                <N level="6" explain="danh từ">tuần</N>
+                                <NP level="6" explain="cụm danh từ">cũng vậy
+                                    <R level="7" explain="phụ từ">cũng</R>
+                                    <P level="7" explain="đại từ">vậy</P>
+                                </NP>
+                            </NP>
+                        </NP>
+                    </NP>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="21"> từ khi lấy nhau , hầu như chúng tôi không hôn nhau
+        <parse id="1">
+            <PP level="1" explain="cụm giới từ">từ khi lấy nhau
+                <C level="2" explain="giới từ">từ</C>
+                <NP level="2" explain="cụm danh từ">khi lấy nhau
+                    <N level="3" explain="danh từ">khi</N>
+                    <VP level="3" explain="cụm động từ">lấy nhau
+                        <V level="4" explain="động từ">lấy</V>
+                        <N level="4" explain="danh từ">nhau</N>
+                    </VP>
+                </NP>
+            </PP>
+            <punc level="1">,</punc>
+            <NP level="1" explain="cụm danh từ">hầu như chúng tôi
+                <R level="2" explain="phụ từ">hầu như</R>
+                <P level="2" explain="đại từ">chúng tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">không hôn nhau
+                <R level="2" explain="phụ từ">không</R>
+                <VP level="2" explain="cụm động từ">hôn nhau
+                    <V level="3" explain="động từ">hôn</V>
+                    <N level="3" explain="danh từ">nhau</N>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="22"> khi đứng gần chồng tôi hay khi quan hệ tôi thường phải ngoảnh mặt đi nơi khác
+        <parse id="1">
+            <S level="1" explain="Câu">khi đứng gần chồng tôi
+                <NP level="2" explain="cụm danh từ">khi
+                    <N level="3" explain="danh từ">khi</N>
+                </NP>
+                <VP level="2" explain="cụm động từ">đứng gần chồng tôi
+                    <V level="3" explain="động từ">đứng</V>
+                    <AP level="3" explain="cụm tính từ">gần chồng tôi
+                        <A level="4" explain="tính từ">gần</A>
+                        <NP level="4" explain="cụm danh từ">chồng tôi
+                            <N level="5" explain="danh từ">chồng</N>
+                            <P level="5" explain="đại từ">tôi</P>
+                        </NP>
+                    </AP>
+                </VP>
+            </S>
+            <C level="1" explain="giới từ">hay</C>
+            <S level="1" explain="Câu">khi quan hệ tôi thường phải ngoảnh mặt đi nơi khác
+                <NP level="2" explain="cụm danh từ">khi quan hệ tôi
+                    <N level="3" explain="danh từ">khi</N>
+                    <NP level="3" explain="cụm danh từ">quan hệ tôi
+                        <N level="4" explain="danh từ">quan hệ</N>
+                        <P level="4" explain="đại từ">tôi</P>
+                    </NP>
+                </NP>
+                <VP level="2" explain="cụm động từ">thường phải ngoảnh mặt đi nơi khác
+                    <R level="3" explain="phụ từ">thường</R>
+                    <V level="3" explain="động từ">phải</V>
+                    <VP level="3" explain="cụm động từ">ngoảnh mặt đi nơi khác
+                        <V level="4" explain="động từ">ngoảnh</V>
+                        <NP level="4" explain="cụm danh từ">mặt đi nơi khác
+                            <N level="5" explain="danh từ">mặt</N>
+                            <VP level="5" explain="cụm động từ">đi nơi khác
+                                <V level="6" explain="động từ">đi</V>
+                                <NP level="6" explain="cụm danh từ">nơi khác
+                                    <N level="7" explain="danh từ">nơi</N>
+                                    <A level="7" explain="tính từ">khác</A>
+                                </NP>
+                            </VP>
+                        </NP>
+                    </VP>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="23"> có những lúc tôi rất thèm khát , nhưng khi anh lại gần cảm xúc lại tan biến
+        <parse id="1">
+            <S level="1" explain="Câu">có những lúc tôi rất thèm khát
+                <VP level="2" explain="cụm động từ">có
+                    <V level="3" explain="động từ">có</V>
+                </VP>
+                <NP level="2" explain="cụm danh từ">những lúc tôi
+                    <N level="3" explain="danh từ">những</N>
+                    <NP level="3" explain="cụm danh từ">lúc tôi
+                        <N level="4" explain="danh từ">lúc</N>
+                        <P level="4" explain="đại từ">tôi</P>
+                    </NP>
+                </NP>
+                <VP level="2" explain="cụm động từ">rất thèm khát
+                    <R level="3" explain="phụ từ">rất</R>
+                    <V level="3" explain="động từ">thèm khát</V>
+                </VP>
+            </S>
+            <punc level="1">,</punc>
+            <C level="1" explain="giới từ">nhưng</C>
+            <S level="1" explain="Câu">khi anh lại gần cảm xúc lại tan biến
+                <NP level="2" explain="cụm danh từ">khi anh
+                    <N level="3" explain="danh từ">khi</N>
+                    <N level="3" explain="danh từ">anh</N>
+                </NP>
+                <AP level="2" explain="cụm tính từ">lại gần cảm xúc lại tan biến
+                    <R level="3" explain="phụ từ">lại</R>
+                    <A level="3" explain="tính từ">gần</A>
+                    <NP level="3" explain="cụm danh từ">cảm xúc lại tan biến
+                        <N level="4" explain="danh từ">cảm xúc</N>
+                        <VP level="4" explain="cụm động từ">lại tan biến
+                            <R level="5" explain="phụ từ">lại</R>
+                            <V level="5" explain="động từ">tan</V>
+                            <V level="5" explain="động từ">biến</V>
+                        </VP>
+                    </NP>
+                </AP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="24"> có hôm anh mệt không uống rượu , hôm ấy anh đỡ hôi hơn tôi thì thầm rằng hôm nay anh rất tuyệt
+        <parse id="1">
+            <VP level="1" explain="cụm động từ">có hôm anh mệt không uống rượu
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">hôm anh mệt không uống rượu
+                    <N level="3" explain="danh từ">hôm</N>
+                    <N level="3" explain="danh từ">anh</N>
+                    <AP level="3" explain="cụm tính từ">mệt không
+                        <A level="4" explain="tính từ">mệt</A>
+                        <R level="4" explain="phụ từ">không</R>
+                    </AP>
+                    <VP level="3" explain="cụm động từ">uống rượu
+                        <V level="4" explain="động từ">uống</V>
+                        <N level="4" explain="danh từ">rượu</N>
+                    </VP>
+                </NP>
+            </VP>
+            <punc level="1">,</punc>
+            <NP level="1" explain="cụm danh từ">hôm ấy anh
+                <N level="2" explain="danh từ">hôm</N>
+                <NP level="2" explain="cụm danh từ">ấy anh
+                    <P level="3" explain="đại từ">ấy</P>
+                    <N level="3" explain="danh từ">anh</N>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">đỡ hôi hơn tôi thì thầm rằng hôm nay anh rất tuyệt
+                <V level="2" explain="động từ">đỡ</V>
+                <AP level="2" explain="cụm tính từ">hôi hơn tôi thì thầm rằng hôm nay anh rất tuyệt
+                    <A level="3" explain="tính từ">hôi</A>
+                    <NP level="3" explain="cụm danh từ">hơn tôi thì thầm rằng hôm nay anh
+                        <R level="4" explain="phụ từ">hơn</R>
+                        <P level="4" explain="đại từ">tôi</P>
+                        <VP level="4" explain="cụm động từ">thì thầm rằng hôm nay anh
+                            <V level="5" explain="động từ">thì thầm</V>
+                            <PP level="5" explain="cụm giới từ">rằng hôm nay anh
+                                <C level="6" explain="giới từ">rằng</C>
+                                <NP level="6" explain="cụm danh từ">hôm nay anh
+                                    <N level="7" explain="danh từ">hôm nay</N>
+                                    <N level="7" explain="danh từ">anh</N>
+                                </NP>
+                            </PP>
+                        </VP>
+                    </NP>
+                    <RP level="3" explain="cụm phụ từ">rất tuyệt
+                        <R level="4" explain="phụ từ">rất</R>
+                        <R level="4" explain="phụ từ">tuyệt</R>
+                    </RP>
+                </AP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="25"> anh nghe rất vui
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">anh
+                <N level="2" explain="danh từ">anh</N>
+            </NP>
+            <VP level="1" explain="cụm động từ">nghe rất vui
+                <V level="2" explain="động từ">nghe</V>
+                <AP level="2" explain="cụm tính từ">rất vui
+                    <R level="3" explain="phụ từ">rất</R>
+                    <A level="3" explain="tính từ">vui</A>
+                </AP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="26"> và hai ngày sau đó anh vệ sinh rất sạch sẽ , không uống rượu , nhưng sau đâu lại vào đấy
+        <parse id="1">
+            <S level="1" explain="Câu">và hai ngày sau đó anh vệ sinh rất sạch sẽ
+                <PP level="2" explain="cụm giới từ">và hai ngày sau đó
+                    <C level="3" explain="giới từ">và</C>
+                    <NP level="3" explain="cụm danh từ">hai ngày sau đó
+                        <M level="4" explain="số từ">hai</M>
+                        <NP level="4" explain="cụm danh từ">ngày sau đó
+                            <N level="5" explain="danh từ">ngày sau</N>
+                            <P level="5" explain="đại từ">đó</P>
+                        </NP>
+                    </NP>
+                </PP>
+                <NP level="2" explain="cụm danh từ">anh vệ sinh
+                    <N level="3" explain="danh từ">anh</N>
+                    <N level="3" explain="danh từ">vệ sinh</N>
+                </NP>
+                <AP level="2" explain="cụm tính từ">rất sạch sẽ
+                    <R level="3" explain="phụ từ">rất</R>
+                    <A level="3" explain="tính từ">sạch sẽ</A>
+                </AP>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">không uống rượu , nhưng sau đâu lại vào đấy
+                <VP level="2" explain="cụm động từ">không uống rượu
+                    <R level="3" explain="phụ từ">không</R>
+                    <VP level="3" explain="cụm động từ">uống rượu
+                        <V level="4" explain="động từ">uống</V>
+                        <N level="4" explain="danh từ">rượu</N>
+                    </VP>
+                </VP>
+                <punc level="2">,</punc>
+                <PP level="2" explain="cụm giới từ">nhưng sau đâu
+                    <C level="3" explain="giới từ">nhưng</C>
+                    <NP level="3" explain="cụm danh từ">sau đâu
+                        <N level="4" explain="danh từ">sau</N>
+                        <P level="4" explain="đại từ">đâu</P>
+                    </NP>
+                </PP>
+                <VP level="2" explain="cụm động từ">lại vào đấy
+                    <R level="3" explain="phụ từ">lại</R>
+                    <V level="3" explain="động từ">vào</V>
+                    <P level="3" explain="đại từ">đấy</P>
+                </VP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="27"> có lúc đang hưng phấn , tôi quên nên ghé mặt gần anh là cảm xúc tôi lại nguội lạnh
+        <parse id="1">
+            <VP level="1" explain="cụm động từ">có lúc đang hưng phấn
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">lúc đang hưng phấn
+                    <N level="3" explain="danh từ">lúc</N>
+                    <VP level="3" explain="cụm động từ">đang hưng phấn
+                        <R level="4" explain="phụ từ">đang</R>
+                        <V level="4" explain="động từ">hưng phấn</V>
+                    </VP>
+                </NP>
+            </VP>
+            <punc level="1">,</punc>
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">quên nên ghé mặt gần anh là cảm xúc tôi lại nguội lạnh
+                <V level="2" explain="động từ">quên</V>
+                <PP level="2" explain="cụm giới từ">nên ghé mặt gần anh là cảm xúc tôi lại nguội lạnh
+                    <C level="3" explain="giới từ">nên</C>
+                    <VP level="3" explain="cụm động từ">ghé mặt gần anh là cảm xúc tôi lại nguội lạnh
+                        <V level="4" explain="động từ">ghé</V>
+                        <NP level="4" explain="cụm danh từ">mặt gần anh là cảm xúc tôi lại nguội lạnh
+                            <N level="5" explain="danh từ">mặt</N>
+                            <AP level="5" explain="cụm tính từ">gần anh là cảm xúc tôi lại nguội lạnh
+                                <A level="6" explain="tính từ">gần</A>
+                                <NP level="6" explain="cụm danh từ">anh là cảm xúc tôi lại nguội lạnh
+                                    <N level="7" explain="danh từ">anh</N>
+                                    <VP level="7" explain="cụm động từ">là cảm xúc tôi lại nguội lạnh
+                                        <V level="8" explain="động từ">là</V>
+                                        <NP level="8" explain="cụm danh từ">cảm xúc tôi lại nguội lạnh
+                                            <N level="9" explain="danh từ">cảm xúc</N>
+                                            <P level="9" explain="đại từ">tôi</P>
+                                            <AP level="9" explain="cụm tính từ">lại nguội lạnh
+                                                <R level="10" explain="phụ từ">lại</R>
+                                                <A level="10" explain="tính từ">nguội lạnh</A>
+                                            </AP>
+                                        </NP>
+                                    </VP>
+                                </NP>
+                            </AP>
+                        </NP>
+                    </VP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="28"> tôi thật sự thèm khát một nụ hôn
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <AP level="1" explain="cụm tính từ">thật sự thèm khát một nụ hôn
+                <A level="2" explain="tính từ">thật sự</A>
+                <VP level="2" explain="cụm động từ">thèm khát một nụ hôn
+                    <V level="3" explain="động từ">thèm khát</V>
+                    <NP level="3" explain="cụm danh từ">một nụ hôn
+                        <M level="4" explain="số từ">một</M>
+                        <N level="4" explain="danh từ">nụ hôn</N>
+                    </NP>
+                </VP>
+            </AP>
+        </parse>
+    </sentence>
+    <sentence id="29"> và một lần khi tôi đang làm việc thì bị ngất , phải nằm ở khoa
+        <parse id="1">
+            <C level="1" explain="giới từ">và</C>
+            <NP level="1" explain="cụm danh từ">một lần khi tôi
+                <M level="2" explain="số từ">một</M>
+                <N level="2" explain="danh từ">lần</N>
+                <NP level="2" explain="cụm danh từ">khi tôi
+                    <N level="3" explain="danh từ">khi</N>
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">đang làm việc thì bị ngất , phải nằm ở khoa
+                <VP level="2" explain="cụm động từ">đang làm việc thì bị ngất
+                    <R level="3" explain="phụ từ">đang</R>
+                    <V level="3" explain="động từ">làm việc</V>
+                    <PP level="3" explain="cụm giới từ">thì bị ngất
+                        <C level="4" explain="giới từ">thì</C>
+                        <VP level="4" explain="cụm động từ">bị ngất
+                            <V level="5" explain="động từ">bị</V>
+                            <V level="5" explain="động từ">ngất</V>
+                        </VP>
+                    </PP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">phải nằm ở khoa
+                    <V level="3" explain="động từ">phải</V>
+                    <VP level="3" explain="cụm động từ">nằm ở khoa
+                        <V level="4" explain="động từ">nằm</V>
+                        <PP level="4" explain="cụm giới từ">ở khoa
+                            <C level="5" explain="giới từ">ở</C>
+                            <N level="5" explain="danh từ">khoa</N>
+                        </PP>
+                    </VP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="30"> anh ta là sếp , đã điều trị cho tôi
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">anh ta
+                <N level="2" explain="danh từ">anh ta</N>
+            </NP>
+            <VP level="1" explain="cụm động từ">là sếp , đã điều trị cho tôi
+                <VP level="2" explain="cụm động từ">là sếp
+                    <V level="3" explain="động từ">là</V>
+                    <N level="3" explain="danh từ">sếp</N>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">đã điều trị cho tôi
+                    <R level="3" explain="phụ từ">đã</R>
+                    <V level="3" explain="động từ">điều trị</V>
+                    <PP level="3" explain="cụm giới từ">cho tôi
+                        <C level="4" explain="giới từ">cho</C>
+                        <P level="4" explain="đại từ">tôi</P>
+                    </PP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="31"> trong khoa anh ta là người được mọi người quý mến vì chuyên môn giỏi , nhiệt tình , có trách nhiệm và nghiêm túc
+        <parse id="1">
+            <C level="1" explain="giới từ">trong</C>
+            <NP level="1" explain="cụm danh từ">khoa anh ta
+                <N level="2" explain="danh từ">khoa</N>
+                <N level="2" explain="danh từ">anh ta</N>
+            </NP>
+            <VP level="1" explain="cụm động từ">là người được mọi người quý mến vì chuyên môn giỏi , nhiệt tình , có trách nhiệm và nghiêm túc
+                <V level="2" explain="động từ">là</V>
+                <NP level="2" explain="cụm danh từ">người được mọi người quý mến vì chuyên môn giỏi , nhiệt tình , có trách nhiệm và nghiêm túc
+                    <N level="3" explain="danh từ">người</N>
+                    <VP level="3" explain="cụm động từ">được mọi người quý mến vì chuyên môn giỏi , nhiệt tình
+                        <V level="4" explain="động từ">được</V>
+                        <NP level="4" explain="cụm danh từ">mọi người quý mến vì chuyên môn giỏi , nhiệt tình
+                            <NP level="5" explain="cụm danh từ">mọi người quý mến vì chuyên môn giỏi ,
+                                <N level="6" explain="danh từ">mọi</N>
+                                <NP level="6" explain="cụm danh từ">người quý mến vì chuyên môn giỏi ,
+                                    <N level="7" explain="danh từ">người</N>
+                                    <VP level="7" explain="cụm động từ">quý mến vì chuyên môn giỏi
+                                        <V level="8" explain="động từ">quý mến</V>
+                                        <PP level="8" explain="cụm giới từ">vì chuyên môn giỏi
+                                            <C level="9" explain="giới từ">vì</C>
+                                            <NP level="9" explain="cụm danh từ">chuyên môn giỏi
+                                                <N level="10" explain="danh từ">chuyên môn</N>
+                                                <A level="10" explain="tính từ">giỏi</A>
+                                            </NP>
+                                        </PP>
+                                    </VP>
+                                    <punc level="7">,</punc>
+                                </NP>
+                            </NP>
+                            <A level="5" explain="tính từ">nhiệt tình</A>
+                        </NP>
+                    </VP>
+                    <punc level="3">,</punc>
+                    <VP level="3" explain="cụm động từ">có trách nhiệm và nghiêm túc
+                        <V level="4" explain="động từ">có</V>
+                        <NP level="4" explain="cụm danh từ">trách nhiệm và nghiêm túc
+                            <N level="5" explain="danh từ">trách nhiệm</N>
+                            <AP level="5" explain="cụm tính từ">và nghiêm túc
+                                <C level="6" explain="giới từ">và</C>
+                                <A level="6" explain="tính từ">nghiêm túc</A>
+                            </AP>
+                        </NP>
+                    </VP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="32"> một lần , khi anh đến kiểm tra sức khoẻ cho tôi để cho ra viện
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">một lần
+                <M level="2" explain="số từ">một</M>
+                <N level="2" explain="danh từ">lần</N>
+            </NP>
+            <punc level="1">,</punc>
+            <NP level="1" explain="cụm danh từ">khi anh
+                <N level="2" explain="danh từ">khi</N>
+                <N level="2" explain="danh từ">anh</N>
+            </NP>
+            <VP level="1" explain="cụm động từ">đến kiểm tra sức khoẻ cho tôi để cho ra viện
+                <V level="2" explain="động từ">đến</V>
+                <VP level="2" explain="cụm động từ">kiểm tra sức khoẻ cho tôi để cho ra viện
+                    <V level="3" explain="động từ">kiểm tra</V>
+                    <NP level="3" explain="cụm danh từ">sức khoẻ cho tôi để cho ra viện
+                        <N level="4" explain="danh từ">sức khoẻ</N>
+                        <PP level="4" explain="cụm giới từ">cho tôi để cho ra viện
+                            <C level="5" explain="giới từ">cho</C>
+                            <NP level="5" explain="cụm danh từ">tôi để cho ra viện
+                                <P level="6" explain="đại từ">tôi</P>
+                                <PP level="6" explain="cụm giới từ">để cho ra viện
+                                    <C level="7" explain="giới từ">để</C>
+                                    <PP level="7" explain="cụm giới từ">cho ra viện
+                                        <C level="8" explain="giới từ">cho</C>
+                                        <VP level="8" explain="cụm động từ">ra viện
+                                            <V level="9" explain="động từ">ra</V>
+                                            <N level="9" explain="danh từ">viện</N>
+                                        </VP>
+                                    </PP>
+                                </PP>
+                            </NP>
+                        </PP>
+                    </NP>
+                </VP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="33"> hôm ấy là ngày nghỉ nên trong khoa rất vắng
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">hôm ấy là ngày
+                <N level="2" explain="danh từ">hôm</N>
+                <NP level="2" explain="cụm danh từ">ấy là ngày
+                    <N level="3" explain="danh từ">ấy là</N>
+                    <N level="3" explain="danh từ">ngày</N>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">nghỉ nên trong khoa rất vắng
+                <V level="2" explain="động từ">nghỉ</V>
+                <PP level="2" explain="cụm giới từ">nên trong khoa rất vắng
+                    <C level="3" explain="giới từ">nên</C>
+                    <C level="3" explain="giới từ">trong</C>
+                    <NP level="3" explain="cụm danh từ">khoa rất vắng
+                        <N level="4" explain="danh từ">khoa</N>
+                        <AP level="4" explain="cụm tính từ">rất vắng
+                            <R level="5" explain="phụ từ">rất</R>
+                            <A level="5" explain="tính từ">vắng</A>
+                        </AP>
+                    </NP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="34"> khi anh cúi xuống khám cho tôi , lần đầu tiên tôi cảm nhận được hơi thở , mùi da thịt của một người đàn ông
+        <parse id="1">
+            <S level="1" explain="Câu">khi anh cúi xuống khám cho tôi
+                <NP level="2" explain="cụm danh từ">khi anh
+                    <N level="3" explain="danh từ">khi</N>
+                    <N level="3" explain="danh từ">anh</N>
+                </NP>
+                <VP level="2" explain="cụm động từ">cúi xuống khám cho tôi
+                    <V level="3" explain="động từ">cúi</V>
+                    <VP level="3" explain="cụm động từ">xuống khám cho tôi
+                        <V level="4" explain="động từ">xuống</V>
+                        <VP level="4" explain="cụm động từ">khám cho tôi
+                            <V level="5" explain="động từ">khám</V>
+                            <C level="5" explain="giới từ">cho</C>
+                            <P level="5" explain="đại từ">tôi</P>
+                        </VP>
+                    </VP>
+                </VP>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">lần đầu tiên tôi cảm nhận được hơi thở , mùi da thịt của một người đàn ông
+                <NP level="2" explain="cụm danh từ">lần
+                    <N level="3" explain="danh từ">lần</N>
+                </NP>
+                <AP level="2" explain="cụm tính từ">đầu tiên tôi cảm nhận được hơi thở , mùi da thịt của một người đàn ông
+                    <A level="3" explain="tính từ">đầu tiên</A>
+                    <NP level="3" explain="cụm danh từ">tôi cảm nhận được hơi thở
+                        <P level="4" explain="đại từ">tôi</P>
+                        <VP level="4" explain="cụm động từ">cảm nhận được hơi thở
+                            <V level="5" explain="động từ">cảm nhận</V>
+                            <VP level="5" explain="cụm động từ">được hơi thở
+                                <V level="6" explain="động từ">được</V>
+                                <NP level="6" explain="cụm danh từ">hơi thở
+                                    <N level="7" explain="danh từ">hơi</N>
+                                    <V level="7" explain="động từ">thở</V>
+                                </NP>
+                            </VP>
+                        </VP>
+                    </NP>
+                    <punc level="3">,</punc>
+                    <NP level="3" explain="cụm danh từ">mùi da thịt của một người đàn ông
+                        <N level="4" explain="danh từ">mùi</N>
+                        <N level="4" explain="danh từ">da thịt</N>
+                        <PP level="4" explain="cụm giới từ">của một người đàn ông
+                            <C level="5" explain="giới từ">của</C>
+                            <NP level="5" explain="cụm danh từ">một người đàn ông
+                                <M level="6" explain="số từ">một</M>
+                                <NP level="6" explain="cụm danh từ">người đàn ông
+                                    <N level="7" explain="danh từ">người</N>
+                                    <N level="7" explain="danh từ">đàn ông</N>
+                                </NP>
+                            </NP>
+                        </PP>
+                    </NP>
+                </AP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="35"> tôi nhắm mắt và anh ấy hôn tôi
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">tôi
+                <P level="2" explain="đại từ">tôi</P>
+            </NP>
+            <VP level="1" explain="cụm động từ">nhắm mắt và anh ấy hôn tôi
+                <V level="2" explain="động từ">nhắm mắt</V>
+                <PP level="2" explain="cụm giới từ">và anh ấy hôn tôi
+                    <C level="3" explain="giới từ">và</C>
+                    <NP level="3" explain="cụm danh từ">anh ấy hôn tôi
+                        <P level="4" explain="đại từ">anh ấy</P>
+                        <VP level="4" explain="cụm động từ">hôn tôi
+                            <V level="5" explain="động từ">hôn</V>
+                            <P level="5" explain="đại từ">tôi</P>
+                        </VP>
+                    </NP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="36"> tôi như chết lặng , tôi thật sự như được sống lại
+        <parse id="1">
+            <S level="1" explain="Câu">tôi như chết lặng
+                <NP level="2" explain="cụm danh từ">tôi
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+                <C level="2" explain="giới từ">như</C>
+                <VP level="2" explain="cụm động từ">chết lặng
+                    <V level="3" explain="động từ">chết</V>
+                    <V level="3" explain="động từ">lặng</V>
+                </VP>
+            </S>
+            <punc level="1">,</punc>
+            <S level="1" explain="Câu">tôi thật sự như được sống lại
+                <NP level="2" explain="cụm danh từ">tôi
+                    <P level="3" explain="đại từ">tôi</P>
+                </NP>
+                <AP level="2" explain="cụm tính từ">thật sự như được sống lại
+                    <A level="3" explain="tính từ">thật sự</A>
+                    <PP level="3" explain="cụm giới từ">như được sống lại
+                        <C level="4" explain="giới từ">như</C>
+                        <VP level="4" explain="cụm động từ">được sống lại
+                            <V level="5" explain="động từ">được</V>
+                            <VP level="5" explain="cụm động từ">sống lại
+                                <V level="6" explain="động từ">sống</V>
+                                <R level="6" explain="phụ từ">lại</R>
+                            </VP>
+                        </VP>
+                    </PP>
+                </AP>
+            </S>
+        </parse>
+    </sentence>
+    <sentence id="37"> tôi phải làm sao bây giờ</sentence>
+    <sentence id="38"> tôi đang yêu chồng tôi lắm , chỉ vì tôi không có bản lĩnh để vượt qua sự cám dỗ mà thôi</sentence>
+</root>
