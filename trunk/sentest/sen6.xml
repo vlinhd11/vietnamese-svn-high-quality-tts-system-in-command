@@ -1,0 +1,79 @@
+
+<root>
+    <sentence id="9">quả thuốc phiện khô có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">quả thuốc phiện khô
+                <N level="2" explain="danh từ">quả</N>
+                <NP level="2" explain="cụm danh từ">thuốc phiện khô
+                    <N level="3" explain="danh từ">thuốc phiện</N>
+                    <A level="3" explain="tính từ">khô</A>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">có trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">trọng lượng từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                    <N level="3" explain="danh từ">trọng lượng</N>
+                    <PP level="3" explain="cụm giới từ">từ sáu trăm ki lô gam đến dưới một nghìn năm trăm ki lô gam
+                        <PP level="4" explain="cụm giới từ">từ sáu trăm ki lô gam
+                            <C level="5" explain="giới từ">từ</C>
+                            <MP level="5" explain="null">sáu trăm ki lô gam
+                                <M level="6" explain="số từ">sáu</M>
+                                <M level="6" explain="số từ">trăm</M>
+                                <N level="6" explain="danh từ">ki lô gam</N>
+                            </MP>
+                        </PP>
+                        <PP level="4" explain="cụm giới từ">đến dưới một nghìn năm trăm ki lô gam
+                            <C level="5" explain="giới từ">đến</C>
+                            <NP level="5" explain="cụm danh từ">dưới một nghìn năm trăm ki lô gam
+                                <N level="6" explain="danh từ">dưới</N>
+                                <N level="6" explain="danh từ">một nghìn</N>
+                                <NP level="6" explain="cụm danh từ">năm trăm ki lô gam
+                                    <N level="7" explain="danh từ">năm trăm</N>
+                                    <N level="7" explain="danh từ">ki lô gam</N>
+                                </NP>
+                            </NP>
+                        </PP>
+                    </PP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="10">quả thuốc phiện tươi có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">quả thuốc phiện tươi
+                <N level="2" explain="danh từ">quả</N>
+                <NP level="2" explain="cụm danh từ">thuốc phiện tươi
+                    <N level="3" explain="danh từ">thuốc phiện</N>
+                    <A level="3" explain="tính từ">tươi</A>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">có trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                <V level="2" explain="động từ">có</V>
+                <NP level="2" explain="cụm danh từ">trọng lượng từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                    <N level="3" explain="danh từ">trọng lượng</N>
+                    <PP level="3" explain="cụm giới từ">từ một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                        <C level="4" explain="giới từ">từ</C>
+                        <NP level="4" explain="cụm danh từ">một trăm năm mươi ki lô gam đến dưới bốn trăm năm mươi ki lô gam
+                            <M level="5" explain="số từ">một trăm</M>
+                            <N level="5" explain="danh từ">năm mươi</N>
+                            <N level="5" explain="danh từ">ki lô gam</N>
+                            <PP level="5" explain="cụm giới từ">đến dưới bốn trăm năm mươi ki lô gam
+                                <C level="6" explain="giới từ">đến</C>
+                                <NP level="6" explain="cụm danh từ">dưới bốn trăm năm mươi ki lô gam
+                                    <N level="7" explain="danh từ">dưới</N>
+                                    <NP level="7" explain="cụm danh từ">bốn trăm năm mươi ki lô gam
+                                        <N level="8" explain="danh từ">bốn trăm</N>
+                                        <NP level="8" explain="cụm danh từ">năm mươi ki lô gam
+                                            <N level="9" explain="danh từ">năm mươi</N>
+                                            <N level="9" explain="danh từ">ki lô gam</N>
+                                        </NP>
+                                    </NP>
+                                </NP>
+                            </PP>
+                        </NP>
+                    </PP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+</root>

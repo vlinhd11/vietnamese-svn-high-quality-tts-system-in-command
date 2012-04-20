@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : new_Text_DB.xml
+    Created on : April 7, 2011, 12:15 PM
+    Author     : thaodv-bkit
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <file id_file="0" file_name="PTP00003_000_txt.TextGrid.txt">
+        <sentence id_sen="1">
+            <phrase id_phrase="1" length="2">
+                <syllable id_syl="1" name="mặt" start_index = "0" end_index="2850" position = "1" num_of_phone = "3" energy="1023.4">
+                    <initial type="CSN">m</initial>
+                    <middle type="NUL">nul</middle>
+                    <nucleus type="VMC">aX</nucleus>
+                    <final type="CSU">t</final>
+                    <tone>1</tone>
+                </syllable>
+                <syllable id_syl="2" name="mặt" start_index = "0" end_index="2850" position = "2" num_of_phone = "3" energy="1023.4">
+                    <initial type="CSN">m</initial>
+                    <middle type="NUL">nul</middle>
+                    <nucleus type="VMC">aX</nucleus>
+                    <final type="CSU">t</final>
+                    <tone>1</tone>
+                </syllable>
+            </phrase>
+            <phrase id_phrase="2" length="3">
+                <syllable id_syl="3" name = "SIL" start_index = "0" end_index="2850" position = "3" num_of_phone = "3" energy="1023.4">
+                    <initial type="CSN">nul</initial>
+                    <middle type="NUL">nul</middle>
+                    <nucleus type="VMC">nul</nucleus>
+                    <final type="CSU">nul</final>
+                    <tone>1</tone>
+                </syllable>
+            </phrase>
+        </sentence>
+    </file>
+</root>

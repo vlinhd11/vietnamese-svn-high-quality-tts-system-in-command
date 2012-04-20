@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:attribute name="type_phoneme" use="optional" type="xs:string"/>
+	<xs:element name="syllable">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="initial" type="xs:string"/>
+				<xs:element name="middle" type="xs:string"/>
+				<xs:element name="nucleus" type="xs:string"/>
+				<xs:element name="final" type="xs:string"/>
+				<xs:element name="tone" type="xs:integer"/>
+			</xs:sequence>
+			<xs:attribute name="id_syl" use="optional" type="xs:integer"/>
+			<xs:attribute name="name" use="optional" type="xs:string"/>
+			<xs:attribute name="start_index" use="optional" type="xs:integer"/>
+			<xs:attribute name="end_index" use="optional" type="xs:integer"/>
+			<xs:attribute name="position" use="optional" type="xs:integer"/>
+			<xs:attribute name="num_of_phone" type="xs:integer"/>
+			<xs:attribute name="energy" use="optional" type="xs:float"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="phrase">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="syllable" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="id_phrase" use="optional" type="xs:integer"/>
+			<xs:attribute name="length" use="optional" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="sentence">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="phrase" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="id_sen" use="optional" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="file">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="sentence" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="id_file" use="optional" type="xs:integer"/>
+			<xs:attribute name="file_name" use="optional" type="xs:string"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="root">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="file" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

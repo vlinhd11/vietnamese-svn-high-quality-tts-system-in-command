@@ -1,0 +1,383 @@
+﻿run:
+Don't know this event
+0 : 0 :  các nhà khoa học anh  : 1
+0 : 1 :  các  : 2
+0 : 2 :  nhà khoa học anh  : 2
+0 : 3 :  nhà khoa học  : 3
+0 : 4 :  nhà  : 4
+0 : 5 :  khoa học  : 4
+0 : 6 :  khoa  : 5
+0 : 7 :  học  : 5
+0 : 8 :  anh  : 3
+0 : 9 :  vừa nghiên cứu một loại túi thông minh  : 1
+0 : 10 :  vừa  : 2
+0 : 11 :  nghiên cứu  : 2
+0 : 12 :  nghiên  : 3
+0 : 13 :  cứu  : 3
+0 : 14 :  một loại túi thông minh  : 2
+0 : 15 :  một  : 3
+0 : 16 :  loại túi thông minh  : 3
+0 : 17 :  loại túi  : 4
+0 : 18 :  loại  : 5
+0 : 19 :  túi  : 5
+0 : 20 :  thông minh  : 4
+0 : 21 :  thông  : 5
+0 : 22 :  minh  : 5
+0
+indexesOfLP : [9, 0]
+IndexesOfSubLevel of Top [1, 2]
+indexesOfLP : [9, 2, 1]
+ko thay:  các nhà khoa học anh  :va da add subLevel de tim kiem
+ các  : 8
+ các  : 7
+ các  : 0
+ các  : 9
+ các  : 0
+ các  : 3
+ các  : 7
+ các  : 5
+ các  : 6
+ các  : 9
+ các  : 7
+ các  : 3
+ các  : 0
+ các  : 2
+ các  : 0
+ các  : 6
+ các  : 2
+ các  : 0
+ các  : 7
+ các  : 0
+ các  : 1
+ các  : 6
+ các  : 1
+ các  : 5
+ các  : 6
+ các  : 2
+ các  : 11
+ các  : 3
+ các  : 7
+ các  : 4
+ các  : 4
+ các  : 1
+ các  : 3
+ các  : 3
+ các  : 5
+ các  : 1
+ các  : 2
+ các  : 0
+ các  : 1
+ các  : 2
+ các  : 3
+ các  : 10
+ các  : 4
+ các  : 9
+ các  : 7
+ các  : 0
+ các  : 3
+ các  : 3
+ các  : 2
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 7
+ các  : 0
+ các  : 4
+ các  : 7
+ các  : 6
+ các  : 1
+ các  : 4
+ các  : 5
+ các  : 1
+ các  : 8
+ các  : 4
+ các  : 5
+ các  : 8
+ các  : 3
+ các  : 0
+ các  : 0
+ các  : 1
+ các  : 0
+ các  : 3
+ các  : 2
+IndexesOfSubLevel of Top [3, 8]
+indexesOfLP : [9, 8, 3]
+ko thay:  nhà khoa học anh  :va da add subLevel de tim kiem
+IndexesOfSubLevel of Top [4, 5]
+indexesOfLP : [9, 8, 5, 4]
+ko thay:  nhà khoa học  :va da add subLevel de tim kiem
+ nhà  : 2
+ nhà  : 2
+ nhà  : 2
+ nhà  : 4
+ nhà  : 2
+ nhà  : 6
+ nhà  : 12
+ nhà  : 1
+ nhà  : 1
+ nhà  : 7
+ nhà  : 1
+ nhà  : 4
+ nhà  : 7
+ nhà  : 0
+ nhà  : 2
+ nhà  : 0
+ nhà  : 7
+ nhà  : 3
+ nhà  : 3
+ nhà  : 0
+ nhà  : 4
+ nhà  : 2
+ nhà  : 5
+ nhà  : 3
+ nhà  : 5
+ nhà  : 8
+ nhà  : 1
+ nhà  : 0
+ nhà  : 2
+ nhà  : 0
+ nhà  : 3
+ nhà  : 4
+ nhà  : 8
+ nhà  : 5
+ nhà  : 6
+ nhà  : 0
+ nhà  : 3
+ nhà  : 8
+ nhà  : 6
+ khoa học  : 6
+ anh  : 1
+ anh  : 0
+ anh  : 0
+ anh  : 3
+ anh  : 3
+ anh  : 4
+ anh  : 6
+ anh  : 0
+ anh  : 0
+ anh  : 2
+ anh  : 2
+ anh  : 4
+ anh  : 0
+ anh  : 3
+ anh  : 5
+ anh  : 5
+ anh  : 3
+ anh  : 2
+ anh  : 3
+ anh  : 2
+ anh  : 1
+ anh  : 3
+ anh  : 2
+ anh  : 1
+ anh  : 1
+ anh  : 1
+ anh  : 2
+ anh  : 0
+ anh  : 4
+ anh  : 0
+ anh  : 1
+ anh  : 1
+ anh  : 1
+ anh  : 4
+ anh  : 7
+ anh  : 4
+ anh  : 1
+ anh  : 1
+ anh  : 3
+ anh  : 0
+ anh  : 2
+ anh  : 1
+ anh  : 1
+ anh  : 0
+ anh  : 2
+ anh  : 3
+ anh  : 0
+ anh  : 1
+ anh  : 1
+ anh  : 0
+ anh  : 1
+ anh  : 3
+ anh  : 0
+IndexesOfSubLevel of Top [10, 11, 14]
+indexesOfLP : [14, 11, 10]
+ko thay:  vừa nghiên cứu một loại túi thông minh  :va da add subLevel de tim kiem
+ vừa  : 1
+ vừa  : 1
+ vừa  : 1
+ vừa  : 0
+ vừa  : 0
+ vừa  : 1
+ vừa  : 7
+ vừa  : 3
+ nghiên cứu  : 2
+ nghiên cứu  : 2
+ nghiên cứu  : 2
+ nghiên cứu  : 6
+ nghiên cứu  : 0
+ nghiên cứu  : 0
+IndexesOfSubLevel of Top [15, 16]
+indexesOfLP : [16, 15]
+ko thay:  một loại túi thông minh  :va da add subLevel de tim kiem
+ một  : 1
+ một  : 3
+ một  : 8
+ một  : 0
+ một  : 2
+ một  : 3
+ một  : 3
+ một  : 4
+ một  : 5
+ một  : 2
+ một  : 0
+ một  : 2
+ một  : 3
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 4
+ một  : 4
+ một  : 0
+ một  : 5
+ một  : 3
+ một  : 11
+ một  : 2
+ một  : 0
+ một  : 6
+ một  : 3
+ một  : 0
+ một  : 7
+ một  : 1
+ một  : 3
+ một  : 5
+ một  : 3
+ một  : 2
+ một  : 6
+ một  : 1
+ một  : 4
+ một  : 9
+ một  : 0
+ một  : 7
+ một  : 3
+ một  : 4
+ một  : 7
+ một  : 11
+ một  : 3
+ một  : 4
+ một  : 8
+ một  : 4
+ một  : 3
+ một  : 6
+ một  : 3
+ một  : 8
+ một  : 4
+ một  : 2
+ một  : 2
+ một  : 3
+ một  : 3
+ một  : 1
+ một  : 8
+ một  : 12
+ một  : 14
+ một  : 2
+ một  : 4
+ một  : 11
+ một  : 6
+ một  : 0
+ một  : 5
+ một  : 1
+ một  : 1
+ một  : 3
+ một  : 11
+ một  : 7
+ một  : 5
+ một  : 7
+ một  : 1
+ một  : 0
+ một  : 5
+ một  : 1
+ một  : 1
+ một  : 1
+ một  : 6
+ một  : 1
+ một  : 4
+ một  : 5
+ một  : 1
+ một  : 3
+ một  : 8
+ một  : 0
+ một  : 4
+ một  : 5
+ một  : 1
+ một  : 7
+ một  : 5
+ một  : 1
+ một  : 0
+ một  : 3
+ một  : 5
+ một  : 0
+ một  : 10
+ một  : 2
+ một  : 7
+ một  : 3
+ một  : 4
+ một  : 4
+ một  : 4
+ một  : 3
+ một  : 4
+ một  : 10
+ một  : 1
+ một  : 3
+ một  : 2
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 8
+ một  : 5
+ một  : 3
+ một  : 1
+ một  : 1
+ một  : 1
+ một  : 4
+ một  : 3
+ một  : 4
+ một  : 2
+ một  : 0
+ một  : 3
+ một  : 4
+ một  : 1
+IndexesOfSubLevel of Top [17, 20]
+indexesOfLP : [20, 17]
+ko thay:  loại túi thông minh  :va da add subLevel de tim kiem
+IndexesOfSubLevel of Top [18, 19]
+indexesOfLP : [20, 19, 18]
+ko thay:  loại túi  :va da add subLevel de tim kiem
+ loại  : 0
+ loại  : 12
+ loại  : 3
+ loại  : 8
+ loại  : 6
+ loại  : 0
+ loại  : 3
+ loại  : 5
+ loại  : 4
+ loại  : 10
+ loại  : 4
+ loại  : 4
+ loại  : 2
+ loại  : 9
+ loại  : 0
+ loại  : 5
+ loại  : 1
+ loại  : 5
+ loại  : 6
+ túi  : 5
+ túi  : 6
+ túi  : 7
+ túi  : 5
+ túi  : 8
+ túi  : 15
+ thông minh  : 5
+ thông minh  : 1
+10
+BUILD SUCCESSFUL (total time: 1 second)

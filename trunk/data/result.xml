@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<root>    
+    <sentence id="3">và tôi rất ghét môn văn
+        <parse id="1">
+            <RP level="1" explain="phụ từ">và</RP>
+            <P level="1" explain="đại từ">tôi</P>
+            <VP level="1" explain="cụm động từ">rất ghét môn văn
+                <R level="2" explain="phụ từ">rất</R>
+                <V level="2" explain="động từ">ghét</V>
+                <NP level="2" explain="cụm danh từ">môn văn
+                    <N level="3" explain="danh từ">môn</N>
+                    <N level="3" explain="danh từ">văn</N>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="4">và tôi rất ghét môn văn
+        <parse id="1">
+            <RP level="1" explain="phụ từ">và</RP>
+            <P level="1" explain="đại từ">tôi</P>
+            <VP level="1" explain="cụm động từ">rất ghét môn văn
+                <R level="2" explain="phụ từ">rất</R>
+                <V level="2" explain="động từ">ghét</V>
+                <NP level="2" explain="cụm danh từ">môn văn
+                    <N level="3" explain="danh từ">môn</N>
+                    <N level="3" explain="danh từ">văn</N>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+</root>

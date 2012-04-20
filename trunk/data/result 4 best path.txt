@@ -1,0 +1,395 @@
+﻿run:
+keke
+j: 0
+begin Sen 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+j: 8
+j: 9
+duong di ngan nhat: 200 : 
+best Path of Sentence start at number: 0 distance: 18.928202
+LP thu: 0 co bestCand tai vi tri: 0 	1.6010001 : 0 : 4
+LP thu: 1 co bestCand tai vi tri: 4 	0.0020 : 4 : 8
+LP thu: 2 co bestCand tai vi tri: 8 	2.6408 : 8 : 0
+LP thu: 3 co bestCand tai vi tri: 0 	2.72 : 0 : 3
+LP thu: 4 co bestCand tai vi tri: 3 	2.1108 : 3 : 0
+LP thu: 5 co bestCand tai vi tri: 0 	2.72 : 0 : 21
+LP thu: 6 co bestCand tai vi tri: 21 	0.0020 : 21 : 1
+LP thu: 7 co bestCand tai vi tri: 1  	2.6708002 : 1 : 1
+LP thu: 8 co bestCand tai vi tri: 1 	2.1108 : 1 : 0
+LP thu: 9 co bestCand tai vi tri: 0 	2.3500001 : 0 : 0
+LP thu: 10 co bestCand tai vi tri: 0
+
+j: 11
+begin Sen 11
+j: 12
+j: 13
+j: 14
+j: 15
+j: 16
+j: 17
+j: 18
+j: 19
+duong di ngan nhat: 1200 : 
+best Path of Sentence start at number: 11 distance: 17.933199
+LP thu: 11 co bestCand tai vi tri: 0
+LP thu: 12 co bestCand tai vi tri: 1
+LP thu: 13 co bestCand tai vi tri: 0
+LP thu: 14 co bestCand tai vi tri: 1
+LP thu: 15 co bestCand tai vi tri: 0
+LP thu: 16 co bestCand tai vi tri: 0
+LP thu: 17 co bestCand tai vi tri: 1
+LP thu: 18 co bestCand tai vi tri: 13
+LP thu: 19 co bestCand tai vi tri: 2
+LP thu: 20 co bestCand tai vi tri: 0
+
+j: 21
+begin Sen 21
+j: 22
+j: 23
+j: 24
+j: 25
+j: 26
+j: 27
+j: 28
+j: 29
+j: 30
+j: 31
+j: 32
+j: 33
+j: 34
+j: 35
+j: 36
+j: 37
+j: 38
+j: 39
+j: 40
+j: 41
+j: 42
+j: 43
+j: 44
+j: 45
+j: 46
+duong di ngan nhat: 300 : 
+best Path of Sentence start at number: 21 distance: 57.165203
+LP thu: 21 co bestCand tai vi tri: 0
+LP thu: 22 co bestCand tai vi tri: 40
+LP thu: 23 co bestCand tai vi tri: 1
+LP thu: 24 co bestCand tai vi tri: 0
+LP thu: 25 co bestCand tai vi tri: 0
+LP thu: 26 co bestCand tai vi tri: 1
+LP thu: 27 co bestCand tai vi tri: 16
+LP thu: 28 co bestCand tai vi tri: 1
+LP thu: 29 co bestCand tai vi tri: 1
+LP thu: 30 co bestCand tai vi tri: 0
+LP thu: 31 co bestCand tai vi tri: 2
+LP thu: 32 co bestCand tai vi tri: 7
+LP thu: 33 co bestCand tai vi tri: 4
+LP thu: 34 co bestCand tai vi tri: 0
+LP thu: 35 co bestCand tai vi tri: 0
+LP thu: 36 co bestCand tai vi tri: 0
+LP thu: 37 co bestCand tai vi tri: 0
+LP thu: 38 co bestCand tai vi tri: 1
+LP thu: 39 co bestCand tai vi tri: 1
+LP thu: 40 co bestCand tai vi tri: 27
+LP thu: 41 co bestCand tai vi tri: 0
+LP thu: 42 co bestCand tai vi tri: 0
+LP thu: 43 co bestCand tai vi tri: 14
+LP thu: 44 co bestCand tai vi tri: 0
+LP thu: 45 co bestCand tai vi tri: 76
+LP thu: 46 co bestCand tai vi tri: 0
+LP thu: 47 co bestCand tai vi tri: 0
+
+j: 48
+begin Sen 48
+j: 49
+j: 50
+j: 51
+j: 52
+j: 53
+j: 54
+j: 55
+j: 56
+j: 57
+j: 58
+j: 59
+j: 60
+j: 61
+j: 62
+j: 63
+j: 64
+j: 65
+duong di ngan nhat: 300 : 
+best Path of Sentence start at number: 48 distance: 34.441803
+LP thu: 48 co bestCand tai vi tri: 0
+LP thu: 49 co bestCand tai vi tri: 3
+LP thu: 50 co bestCand tai vi tri: 1
+LP thu: 51 co bestCand tai vi tri: 0
+LP thu: 52 co bestCand tai vi tri: 0
+LP thu: 53 co bestCand tai vi tri: 19
+LP thu: 54 co bestCand tai vi tri: 0
+LP thu: 55 co bestCand tai vi tri: 0
+LP thu: 56 co bestCand tai vi tri: 0
+LP thu: 57 co bestCand tai vi tri: 61
+LP thu: 58 co bestCand tai vi tri: 1
+LP thu: 59 co bestCand tai vi tri: 5
+LP thu: 60 co bestCand tai vi tri: 0
+LP thu: 61 co bestCand tai vi tri: 0
+LP thu: 62 co bestCand tai vi tri: 21
+LP thu: 63 co bestCand tai vi tri: 1
+LP thu: 64 co bestCand tai vi tri: 6
+LP thu: 65 co bestCand tai vi tri: 1
+LP thu: 66 co bestCand tai vi tri: 0
+
+j: 67
+begin Sen 67
+j: 68
+j: 69
+j: 70
+j: 71
+j: 72
+j: 73
+j: 74
+j: 75
+j: 76
+j: 77
+j: 78
+j: 79
+j: 80
+j: 81
+j: 82
+j: 83
+j: 84
+duong di ngan nhat: 1200 : 
+best Path of Sentence start at number: 67 distance: 25.972
+LP thu: 67 co bestCand tai vi tri: 0
+LP thu: 68 co bestCand tai vi tri: 11
+LP thu: 69 co bestCand tai vi tri: 0
+LP thu: 70 co bestCand tai vi tri: 57
+LP thu: 71 co bestCand tai vi tri: 18
+LP thu: 72 co bestCand tai vi tri: 12
+LP thu: 73 co bestCand tai vi tri: 51
+LP thu: 74 co bestCand tai vi tri: 5
+LP thu: 75 co bestCand tai vi tri: 0
+LP thu: 76 co bestCand tai vi tri: 9
+LP thu: 77 co bestCand tai vi tri: 40
+LP thu: 78 co bestCand tai vi tri: 6
+LP thu: 79 co bestCand tai vi tri: 16
+LP thu: 80 co bestCand tai vi tri: 34
+LP thu: 81 co bestCand tai vi tri: 0
+LP thu: 82 co bestCand tai vi tri: 16
+LP thu: 83 co bestCand tai vi tri: 9
+LP thu: 84 co bestCand tai vi tri: 14
+LP thu: 85 co bestCand tai vi tri: 0
+
+j: 86
+begin Sen 86
+j: 87
+j: 88
+j: 89
+j: 90
+j: 91
+j: 92
+j: 93
+j: 94
+j: 95
+j: 96
+j: 97
+duong di ngan nhat: 200 : 
+best Path of Sentence start at number: 86 distance: 21.250002
+LP thu: 86 co bestCand tai vi tri: 0
+LP thu: 87 co bestCand tai vi tri: 0
+LP thu: 88 co bestCand tai vi tri: 4
+LP thu: 89 co bestCand tai vi tri: 22
+LP thu: 90 co bestCand tai vi tri: 0
+LP thu: 91 co bestCand tai vi tri: 0
+LP thu: 92 co bestCand tai vi tri: 1
+LP thu: 93 co bestCand tai vi tri: 1
+LP thu: 94 co bestCand tai vi tri: 3
+LP thu: 95 co bestCand tai vi tri: 6
+LP thu: 96 co bestCand tai vi tri: 28
+LP thu: 97 co bestCand tai vi tri: 1
+LP thu: 98 co bestCand tai vi tri: 0
+
+j: 99
+begin Sen 99
+j: 100
+j: 101
+j: 102
+j: 103
+j: 104
+j: 105
+duong di ngan nhat: 200 : 
+best Path of Sentence start at number: 99 distance: 11.277
+LP thu: 99 co bestCand tai vi tri: 0
+LP thu: 100 co bestCand tai vi tri: 2
+LP thu: 101 co bestCand tai vi tri: 0
+LP thu: 102 co bestCand tai vi tri: 56
+LP thu: 103 co bestCand tai vi tri: 3
+LP thu: 104 co bestCand tai vi tri: 0
+LP thu: 105 co bestCand tai vi tri: 1
+LP thu: 106 co bestCand tai vi tri: 0
+
+j: 107
+begin Sen 107
+j: 108
+j: 109
+j: 110
+j: 111
+j: 112
+j: 113
+j: 114
+j: 115
+j: 116
+j: 117
+j: 118
+j: 119
+j: 120
+j: 121
+j: 122
+j: 123
+j: 124
+j: 125
+j: 126
+j: 127
+j: 128
+j: 129
+j: 130
+j: 131
+duong di ngan nhat: 100 : 
+best Path of Sentence start at number: 107 distance: 49.850803
+LP thu: 107 co bestCand tai vi tri: 0
+LP thu: 108 co bestCand tai vi tri: 3
+LP thu: 109 co bestCand tai vi tri: 2
+LP thu: 110 co bestCand tai vi tri: 2
+LP thu: 111 co bestCand tai vi tri: 1
+LP thu: 112 co bestCand tai vi tri: 17
+LP thu: 113 co bestCand tai vi tri: 0
+LP thu: 114 co bestCand tai vi tri: 0
+LP thu: 115 co bestCand tai vi tri: 1
+LP thu: 116 co bestCand tai vi tri: 1
+LP thu: 117 co bestCand tai vi tri: 0
+LP thu: 118 co bestCand tai vi tri: 4
+LP thu: 119 co bestCand tai vi tri: 0
+LP thu: 120 co bestCand tai vi tri: 9
+LP thu: 121 co bestCand tai vi tri: 7
+LP thu: 122 co bestCand tai vi tri: 1
+LP thu: 123 co bestCand tai vi tri: 0
+LP thu: 124 co bestCand tai vi tri: 1
+LP thu: 125 co bestCand tai vi tri: 1
+LP thu: 126 co bestCand tai vi tri: 1
+LP thu: 127 co bestCand tai vi tri: 0
+LP thu: 128 co bestCand tai vi tri: 1
+LP thu: 129 co bestCand tai vi tri: 56
+LP thu: 130 co bestCand tai vi tri: 0
+LP thu: 131 co bestCand tai vi tri: 0
+LP thu: 132 co bestCand tai vi tri: 0
+
+j: 133
+begin Sen 133
+j: 134
+j: 135
+j: 136
+j: 137
+j: 138
+j: 139
+j: 140
+j: 141
+j: 142
+j: 143
+j: 144
+j: 145
+j: 146
+j: 147
+duong di ngan nhat: 200 : 
+best Path of Sentence start at number: 133 distance: 29.1312
+LP thu: 133 co bestCand tai vi tri: 0
+LP thu: 134 co bestCand tai vi tri: 2
+LP thu: 135 co bestCand tai vi tri: 0
+LP thu: 136 co bestCand tai vi tri: 2
+LP thu: 137 co bestCand tai vi tri: 8
+LP thu: 138 co bestCand tai vi tri: 0
+LP thu: 139 co bestCand tai vi tri: 16
+LP thu: 140 co bestCand tai vi tri: 8
+LP thu: 141 co bestCand tai vi tri: 1
+LP thu: 142 co bestCand tai vi tri: 1
+LP thu: 143 co bestCand tai vi tri: 31
+LP thu: 144 co bestCand tai vi tri: 0
+LP thu: 145 co bestCand tai vi tri: 5
+LP thu: 146 co bestCand tai vi tri: 0
+LP thu: 147 co bestCand tai vi tri: 0
+LP thu: 148 co bestCand tai vi tri: 0
+
+j: 149
+begin Sen 149
+j: 150
+j: 151
+j: 152
+j: 153
+j: 154
+j: 155
+j: 156
+j: 157
+j: 158
+j: 159
+j: 160
+j: 161
+j: 162
+j: 163
+duong di ngan nhat: 200 : 
+best Path of Sentence start at number: 149 distance: 28.721401
+LP thu: 149 co bestCand tai vi tri: 0
+LP thu: 150 co bestCand tai vi tri: 2
+LP thu: 151 co bestCand tai vi tri: 0
+LP thu: 152 co bestCand tai vi tri: 0
+LP thu: 153 co bestCand tai vi tri: 43
+LP thu: 154 co bestCand tai vi tri: 0
+LP thu: 155 co bestCand tai vi tri: 14
+LP thu: 156 co bestCand tai vi tri: 2
+LP thu: 157 co bestCand tai vi tri: 4
+LP thu: 158 co bestCand tai vi tri: 1
+LP thu: 159 co bestCand tai vi tri: 31
+LP thu: 160 co bestCand tai vi tri: 0
+LP thu: 161 co bestCand tai vi tri: 0
+LP thu: 162 co bestCand tai vi tri: 4
+LP thu: 163 co bestCand tai vi tri: 1
+LP thu: 164 co bestCand tai vi tri: 0
+
+j: 165
+begin Sen 165
+j: 166
+j: 167
+j: 168
+j: 169
+j: 170
+j: 171
+j: 172
+j: 173
+j: 174
+j: 175
+j: 176
+j: 177
+duong di ngan nhat: 900 : 
+best Path of Sentence start at number: 165 distance: 22.232803
+LP thu: 165 co bestCand tai vi tri: 0
+LP thu: 166 co bestCand tai vi tri: 3
+LP thu: 167 co bestCand tai vi tri: 125
+LP thu: 168 co bestCand tai vi tri: 2
+LP thu: 169 co bestCand tai vi tri: 1
+LP thu: 170 co bestCand tai vi tri: 0
+LP thu: 171 co bestCand tai vi tri: 31
+LP thu: 172 co bestCand tai vi tri: 2
+LP thu: 173 co bestCand tai vi tri: 56
+LP thu: 174 co bestCand tai vi tri: 0
+LP thu: 175 co bestCand tai vi tri: 5
+LP thu: 176 co bestCand tai vi tri: 4
+LP thu: 177 co bestCand tai vi tri: 5
+LP thu: 178 co bestCand tai vi tri: 0
+
+hichic
+BUILD SUCCESSFUL (total time: 4 seconds)

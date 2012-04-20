@@ -1,0 +1,2 @@
+﻿{"N","T","R","c","J","f","X","z","z","G","k","d","t","b","m","n","l","s","S","h","v","r","p","U","Y","I","M","7","o","e","E","Z","B","a","A","B","O","Q","u","i"}
+{"CSN","CSU","CSU","CSU","CSN","CFU","CFU","CFV","CFV","CFV","CSU","CSV","CSU","CSV","CSN","CSN","CFL","CFU","CFU","CFU","CFV","CFV","CSU","VM","VB","VF","VM","VM","VB","VF","VF","VMC","VMC","VM","VFC","VMC","VB","VBC","VB","VF"}

@@ -1,0 +1,48 @@
+
+<root>
+    <sentence id="4">cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh , đặc biệt là sáng tác ảnh nghệ thuật
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">cuộc sống đồng bào dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,
+                <N level="2" explain="danh từ">cuộc sống</N>
+                <N level="2" explain="danh từ">đồng bào</N>
+                <NP level="2" explain="cụm danh từ">dân tộc vùng cao là đề tài hấp dẫn cho sáng tác ảnh ,
+                    <N level="3" explain="danh từ">dân tộc</N>
+                    <N level="3" explain="danh từ">vùng cao</N>
+                    <VP level="3" explain="cụm động từ">là đề tài hấp dẫn cho sáng tác ảnh ,
+                        <V level="4" explain="động từ">là</V>
+                        <NP level="4" explain="cụm danh từ">đề tài hấp dẫn cho sáng tác ảnh ,
+                            <N level="5" explain="danh từ">đề tài</N>
+                            <VP level="5" explain="cụm động từ">hấp dẫn cho sáng tác ảnh
+                                <V level="6" explain="động từ">hấp dẫn
+                                    <V level="7" explain="động từ">hấp</V>
+                                    <V level="7" explain="động từ">dẫn</V>
+                                </V>
+                                <PP level="6" explain="cụm giới từ">cho sáng tác ảnh
+                                    <C level="7" explain="giới từ">cho</C>
+                                    <VP level="7" explain="cụm động từ">sáng tác ảnh
+                                        <V level="8" explain="động từ">sáng tác</V>
+                                        <N level="8" explain="danh từ">ảnh</N>
+                                    </VP>
+                                </PP>
+                            </VP>
+                            <punc level="5">,</punc>
+                        </NP>
+                    </VP>
+                </NP>
+            </NP>
+            <AP level="1" explain="cụm tính từ">đặc biệt là sáng tác ảnh nghệ thuật
+                <A level="2" explain="tính từ">đặc biệt</A>
+                <VP level="2" explain="cụm động từ">là sáng tác ảnh nghệ thuật
+                    <V level="3" explain="động từ">là</V>
+                    <VP level="3" explain="cụm động từ">sáng tác ảnh nghệ thuật
+                        <V level="4" explain="động từ">sáng tác ảnh
+                            <V level="5" explain="động từ">sáng tác</V>
+                            <V level="5" explain="động từ">ảnh</V>
+                        </V>
+                        <N level="4" explain="danh từ">nghệ thuật</N>
+                    </VP>
+                </VP>
+            </AP>
+        </parse>
+    </sentence>
+</root>

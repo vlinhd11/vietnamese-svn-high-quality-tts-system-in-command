@@ -1,0 +1,66 @@
+
+<root>
+    <sentence id="8">ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài ở một số trường đại học
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">ông đã tham dự nhiều hội thảo , đọc báo cáo kinh nghiệm ở nhiều nơi , được mời đến giảng bài
+                <N level="2" explain="danh từ">ông</N>
+                <VP level="2" explain="cụm động từ">đã tham dự nhiều hội thảo
+                    <R level="3" explain="phụ từ">đã</R>
+                    <V level="3" explain="động từ">tham dự
+                        <V level="4" explain="động từ">tham</V>
+                        <V level="4" explain="động từ">dự</V>
+                    </V>
+                    <AP level="3" explain="cụm tính từ">nhiều hội thảo
+                        <A level="4" explain="tính từ">nhiều</A>
+                        <N level="4" explain="danh từ">hội thảo</N>
+                    </AP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">đọc báo cáo kinh nghiệm ở nhiều nơi
+                    <V level="3" explain="động từ">đọc</V>
+                    <VP level="3" explain="cụm động từ">báo cáo kinh nghiệm ở nhiều nơi
+                        <V level="4" explain="động từ">báo cáo
+                            <V level="5" explain="động từ">báo</V>
+                            <V level="5" explain="động từ">cáo</V>
+                        </V>
+                        <NP level="4" explain="cụm danh từ">kinh nghiệm ở nhiều nơi
+                            <N level="5" explain="danh từ">kinh nghiệm
+                                <N level="6" explain="danh từ">kinh</N>
+                                <N level="6" explain="danh từ">nghiệm</N>
+                            </N>
+                            <PP level="5" explain="cụm giới từ">ở nhiều nơi
+                                <C level="6" explain="giới từ">ở</C>
+                                <AP level="6" explain="cụm tính từ">nhiều nơi
+                                    <A level="7" explain="tính từ">nhiều</A>
+                                    <N level="7" explain="danh từ">nơi</N>
+                                </AP>
+                            </PP>
+                        </NP>
+                    </VP>
+                </VP>
+                <punc level="2">,</punc>
+                <VP level="2" explain="cụm động từ">được mời đến giảng bài
+                    <V level="3" explain="động từ">được</V>
+                    <VP level="3" explain="cụm động từ">mời đến giảng bài
+                        <V level="4" explain="động từ">mời</V>
+                        <VP level="4" explain="cụm động từ">đến giảng bài
+                            <V level="5" explain="động từ">đến</V>
+                            <VP level="5" explain="cụm động từ">giảng bài
+                                <V level="6" explain="động từ">giảng</V>
+                                <N level="6" explain="danh từ">bài</N>
+                            </VP>
+                        </VP>
+                    </VP>
+                </VP>
+            </NP>
+            <C level="1" explain="giới từ">ở</C>
+            <NP level="1" explain="cụm danh từ">một số trường đại học
+                <N level="2" explain="danh từ">một số</N>
+                <NP level="2" explain="cụm danh từ">trường đại học
+                    <N level="3" explain="danh từ">trường</N>
+                    <N level="3" explain="danh từ">đại học</N>
+                </NP>
+            </NP>
+        </parse>
+    </sentence>
+</root>

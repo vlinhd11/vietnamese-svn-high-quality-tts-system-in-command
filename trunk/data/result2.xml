@@ -1,0 +1,27 @@
+<root>
+     <sentence id="1">các nhà khoa học vừa nghiên cứu một loại túi thông minh
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">các nhà khoa học
+                <N level="2" explain="danh từ">các</N>
+                <NP level="2" explain="cụm danh từ">nhà khoa học
+                        <N level="3" explain="danh từ">nhà</N>
+                        <N level="3" explain="danh từ">khoa học</N>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">vừa nghiên cứu một loại túi thông minh
+                <R level="2" explain="phụ từ">vừa</R>
+                <V level="2" explain="động từ">nghiên cứu</V>
+                <NP level="2" explain="cụm danh từ">một loại túi thông minh
+                    <M level="3" explain="số từ">một</M>
+                    <NP level="3" explain="cụm danh từ">loại túi thông minh
+                        <N level="4" explain="danh từ">loại</N>
+                        <NP level="4" explain="cụm danh từ">túi thông minh
+                            <N level="5" explain="danh từ">túi</N>
+                            <A level="5" explain="tính từ">thông minh</A>
+                        </NP>
+                    </NP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+</root>

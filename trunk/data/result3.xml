@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+
+<sentence id="18">đảng và nhà nước có nhiều chính sách quan tâm đến hoạt động của thanh niên , sinh viên tại nước ngoài
+    <parse id="1">
+        <NP level="1" explain="cụm danh từ">đảng và nhà nước có
+            <N level="2" explain="danh từ">đảng</N>
+            <PP level="2" explain="cụm giới từ">và nhà nước có
+                <C level="3" explain="giới từ">và</C>
+                <NP level="3" explain="cụm danh từ">nhà nước có
+                    <N level="4" explain="danh từ">nhà nước</N>
+                    <V level="4" explain="động từ">có</V>
+                </NP>
+            </PP>
+        </NP>
+        <AP level="1" explain="cụm tính từ">nhiều chính sách quan tâm đến hoạt động của thanh niên , sinh viên tại nước ngoài
+            <A level="2" explain="tính từ">nhiều</A>
+            <NP level="2" explain="cụm danh từ">chính sách quan tâm đến hoạt động của thanh niên
+                <N level="3" explain="danh từ">chính sách</N>
+                <VP level="3" explain="cụm động từ">quan tâm đến hoạt động của thanh niên
+                    <V level="4" explain="động từ">quan tâm</V>
+                    <VP level="4" explain="cụm động từ">đến hoạt động của thanh niên
+                        <V level="5" explain="động từ">đến</V>
+                        <VP level="5" explain="cụm động từ">hoạt động của thanh niên
+                            <V level="6" explain="động từ">hoạt động</V>
+                            <PP level="6" explain="cụm giới từ">của thanh niên
+                                <C level="7" explain="giới từ">của</C>
+                                <N level="7" explain="danh từ">thanh niên</N>
+                            </PP>
+                        </VP>
+                    </VP>
+                </VP>
+            </NP>
+            <punc level="2">,</punc>
+            <NP level="2" explain="cụm danh từ">sinh viên tại nước ngoài
+                <N level="3" explain="danh từ">sinh viên</N>
+                <PP level="3" explain="cụm giới từ">tại nước ngoài
+                    <C level="4" explain="giới từ">tại</C>
+                    <N level="4" explain="danh từ">nước ngoài</N>
+                </PP>
+            </NP>
+        </AP>
+    </parse>    
+</sentence>

@@ -1,0 +1,78 @@
+<root>
+	<sentence id="5">những chính sách không đến được với dân , thường là do cách làm hay cách nói khác
+        <parse id="1">
+            <NP level="1" explain="cụm danh từ">những chính sách không đến được với dân ,
+                <N level="2" explain="danh từ">những</N>
+                <NP level="2" explain="cụm danh từ">chính sách không đến được với dân ,
+                    <N level="3" explain="danh từ">chính sách</N>
+                    <VP level="3" explain="cụm động từ">không đến được với dân
+                        <R level="4" explain="phụ từ">không</R>
+                        <V level="4" explain="động từ">đến</V>
+                        <VP level="4" explain="cụm động từ">được với dân
+                            <V level="5" explain="động từ">được</V>
+                            <PP level="5" explain="cụm giới từ">với dân
+                                <C level="6" explain="giới từ">với</C>
+                                <N level="6" explain="danh từ">dân</N>
+                            </PP>
+                        </VP>
+                    </VP>
+                    <punc level="3">,</punc>
+                </NP>
+            </NP>
+            <VP level="1" explain="cụm động từ">thường là do cách làm hay cách nói khác
+                <R level="2" explain="phụ từ">thường</R>
+                <V level="2" explain="động từ">là</V>
+                <PP level="2" explain="cụm giới từ">do cách làm hay cách nói khác
+                    <C level="3" explain="giới từ">do</C>
+                    <NP level="3" explain="cụm danh từ">cách làm hay cách nói khác
+                        <N level="4" explain="danh từ">cách</N>
+                        <VP level="4" explain="cụm động từ">làm hay cách nói khác
+                            <V level="5" explain="động từ">làm</V>
+                            <PP level="5" explain="cụm giới từ">hay cách nói khác
+                                <C level="6" explain="giới từ">hay</C>
+                                <NP level="6" explain="cụm danh từ">cách nói khác
+                                    <N level="7" explain="danh từ">cách</N>
+                                    <VP level="7" explain="cụm động từ">nói khác
+                                        <V level="8" explain="động từ">nói</V>
+                                        <A level="8" explain="tính từ">khác</A>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </VP>
+                    </NP>
+                </PP>
+            </VP>
+        </parse>
+    </sentence>
+    <sentence id="6">đó là sự quan tâm nửa mùa của những người ra chính sách
+        <parse id="1">
+            <P level="1" explain="đại từ">đó</P>
+            <VP level="1" explain="cụm động từ">là sự quan tâm nửa mùa của những người ra chính sách
+                <V level="2" explain="động từ">là</V>
+                <NP level="2" explain="cụm danh từ">sự quan tâm nửa mùa của những người ra chính sách
+                    <N level="3" explain="danh từ">sự</N>
+                    <VP level="3" explain="cụm động từ">quan tâm nửa mùa của những người ra chính sách
+                        <V level="4" explain="động từ">quan tâm</V>
+                        <AP level="4" explain="cụm tính từ">nửa mùa của những người ra chính sách
+                            <A level="5" explain="tính từ">nửa mùa
+                                <A level="6" explain="tính từ">nửa</A>
+                                <A level="6" explain="tính từ">mùa</A>
+                            </A>
+                            <PP level="5" explain="cụm giới từ">của những người ra chính sách
+                                <C level="6" explain="giới từ">của</C>
+                                <NP level="6" explain="cụm danh từ">những người ra chính sách
+                                    <N level="7" explain="danh từ">những</N>
+                                    <N level="7" explain="danh từ">người</N>
+                                    <VP level="7" explain="cụm động từ">ra chính sách
+                                        <V level="8" explain="động từ">ra</V>
+                                        <N level="8" explain="danh từ">chính sách</N>
+                                    </VP>
+                                </NP>
+                            </PP>
+                        </AP>
+                    </VP>
+                </NP>
+            </VP>
+        </parse>
+    </sentence>
+</root>
