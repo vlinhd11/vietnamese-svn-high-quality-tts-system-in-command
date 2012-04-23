@@ -106,13 +106,13 @@ public class SpeechSynthesizer {
             sSSynthesizer.assemblyAndOperation("mediate files/SelectedLPhrs.txt");
         }
         brf.close();
-        ucjni.concatUni();
+        //ucjni.concatUni();
     }
 
     public static void main(String[] args) throws FileNotFoundException, IOException, XMLStreamException, UnsupportedEncodingException, InterruptedException {
         String arg;
         if (args.length == 0) {
-            arg = "E:/work/version 4.1/test.txt";
+            arg = "E:/test.txt";
             System.out.println("using default arg \""+arg+"\"");
         } else {
             arg = args[0];
