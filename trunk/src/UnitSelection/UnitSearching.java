@@ -161,39 +161,39 @@ public class UnitSearching {
             reSynthesized = "false";
         } else {
 
-
-            /////////////////////////////////////////////////////////////
-            String idnFile = System.getProperty("user.dir") + "/mediate files/indexOfWordNotFound.txt";
-            PrintWriter PW = new PrintWriter(idnFile);
-            for (int i = 0; i < idnf.size() - 1; i++) {
-                Integer integer = idnf.get(i);
-                PW.println(integer);
-            }
-            PW.println(idnf.get(idnf.size() - 1));
-            PW.close();
-            ////////////////////////////////////////////////////////
-            String wnfFile = System.getProperty("user.dir") + "/mediate files/wordNotFound.txt";
-            BufferedWriter bfw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(wnfFile), "utf-8"));
-            for (int i = 0; i < wnf.size() - 1; i++) {
-                String string = wnf.get(i);
-                bfw.write(string);
-                bfw.newLine();
-            }
-            bfw.write(wnf.get(wnf.size() - 1));
-            bfw.close();
-            ///////////////////////////////////////////////////////
-            String ogFile = System.getProperty("user.dir") + "/wordGroupNeedToSSS.txt";
-            BufferedWriter bfw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(ogFile), "utf-8"));
-            bfw1.write("\uFEFF");
-            for (int i = 0; i < ogf.size(); i++) {
-                String string = ogf.get(i);
-                bfw1.write(string);
-                if (!string.endsWith(".")) {
-                    bfw1.write(".");
-                }
+            String dir = System.getProperty("user.dir") + "/mediate files/";
+            // <editor-fold desc="save index of wordNotFound">
+            String file1 = dir + "indexOfWordNotFound.idx";
+            BufferedWriter bfw1 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file1), "utf-8"));
+            for (int i = 0; i < idnf.size(); i++) {
+                Integer index = idnf.get(i);
+                bfw1.write(index+"");
                 bfw1.newLine();
             }
             bfw1.close();
+            // </editor-fold>
+
+            // <editor-fold desc="save word not found">
+            String file2 = dir + "wordNotFound.txt";
+            BufferedWriter bfw2 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file2), "utf-8"));
+            for (int i = 0; i < wnf.size(); i++) {
+                String str = wnf.get(i);
+                bfw2.write(str);
+                bfw2.newLine();
+            }
+            bfw2.close();
+            // </editor-fold>
+
+            // <editor-fold desc="save word group which are needed to be semi-syllable-synthesized">
+            String dir3 = dir + "wordGroupInput/";
+            for (int i = 0; i < ogf.size(); i++) {
+                String str = ogf.get(i);
+                String fileName = dir3 + "" + i + ".txt";
+                BufferedWriter bfw3 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileName), "utf-8"));
+                bfw3.write(str);
+                bfw3.close();
+            }
+            // </editor-fold>
         }
 
         String rsFile = System.getProperty("user.dir") + "/mediate files/reSynthesized.txt";
