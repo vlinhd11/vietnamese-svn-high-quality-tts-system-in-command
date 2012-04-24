@@ -102,11 +102,11 @@ public class SpeechSynthesizer {
         BufferedReader brf = new BufferedReader(new FileReader(reSy));
         String str = brf.readLine();
         if (str.equals("true")) {
-            SemiSyllableSynthesizer sSSynthesizer = new SemiSyllableSynthesizer(sentence);
-            sSSynthesizer.assemblyAndOperation("mediate files/SelectedLPhrs.txt");
+            SemiSyllableSynthesizer2 sSSynthesizer = new SemiSyllableSynthesizer2(System.getProperty("user.dir")+"/mediate files/SelectedLPhrs.txt");
+            sSSynthesizer.createOutput();
         }
         brf.close();
-        //ucjni.concatUni();
+        ucjni.concatUni();
     }
 
     public static void main(String[] args) throws FileNotFoundException, IOException, XMLStreamException, UnsupportedEncodingException, InterruptedException {
