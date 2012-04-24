@@ -188,7 +188,7 @@ public class UnitSearching {
             String dir3 = dir + "wordGroupInput/";
             for (int i = 0; i < ogf.size(); i++) {
                 String str = ogf.get(i);
-                String fileName = dir3 + "" + i + ".txt";
+                String fileName = dir3 + "" + i;
                 BufferedWriter bfw3 = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileName), "utf-8"));
                 bfw3.write(str);
                 bfw3.close();

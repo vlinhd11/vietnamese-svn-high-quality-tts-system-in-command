@@ -74,7 +74,7 @@ public class SemiSyllableSynthesizer {
      */
     private void setUpAOData(String inputSelectedPhrsFile) throws UnsupportedEncodingException, FileNotFoundException, IOException {
         BufferedReader bfr1 = new BufferedReader(new InputStreamReader(new FileInputStream(inputSelectedPhrsFile), "UTF-8"));
-        BufferedReader bfr2 = new BufferedReader(new InputStreamReader(new FileInputStream("mediate files/indexOfWordNotFound.txt"), "UTF-8"));
+        BufferedReader bfr2 = new BufferedReader(new InputStreamReader(new FileInputStream("mediate files/indexOfWordNotFound.idx"), "UTF-8"));
         BufferedReader bfr3 = new BufferedReader(new InputStreamReader(new FileInputStream("mediate files/wordNotFound.txt"), "UTF-8"));
         BufferedReader bfr4 = new BufferedReader(new InputStreamReader(new FileInputStream("temp.txt"), "UTF-8"));
 
